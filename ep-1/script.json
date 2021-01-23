@@ -111,7 +111,7 @@
             {"page": "41", "bgm": "014", "se": [], "voice": false},
             {"page": "42", "bgm": "014", "se": [], "voice": true},
             {"page": "43", "bgm": "014", "se": [], "voice": true},
-            {"page": "44", "bgm": "014", "se": [], "voice": false},
+            {"page": "44", "bgm": "014", "se": [], "voice": true},
             {"page": "45", "bgm": "010", "se": [], "voice": false},
             {"page": "46", "bgm": "010", "se": [], "voice": false},
             {"page": "47", "bgm": "010", "se": [], "voice": false},
