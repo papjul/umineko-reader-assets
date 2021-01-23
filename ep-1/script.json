@@ -156,7 +156,7 @@
             {"page": "24", "bgm": "008", "se": ["005"], "voice": false},
             {"page": "25", "bgm": null, "se": ["005"], "voice": false},
             {"page": "26", "bgm": null, "se": ["005"], "voice": false},
-            {"page": "27", "bgm": null, "se": ["005"], "voice": false},
+            {"page": "27", "bgm": null, "se": ["005"], "voice": true},
             {"page": "28", "bgm": null, "se": ["005"], "voice": false},
             {"page": "29", "bgm": null, "se": ["005"], "voice": false},
             {"page": "30", "bgm": null, "se": ["005"], "voice": false},
