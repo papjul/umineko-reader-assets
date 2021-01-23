@@ -162,7 +162,7 @@
             {"page": "30", "bgm": null, "se": ["005"], "voice": false},
             {"page": "31", "bgm": null, "se": ["005"], "voice": false},
             {"page": "32-33", "bgm": "016", "se": ["005"], "voice": true},
-            {"page": "34", "bgm": "016", "se": ["005"], "voice": false},
+            {"page": "34", "bgm": "016", "se": ["005"], "voice": true},
             {"page": "35", "bgm": "016", "se": ["005"], "voice": false},
             {"page": "36", "bgm": "016", "se": ["005"], "voice": false},
             {"page": "37", "bgm": "016", "se": ["005"], "voice": false},
