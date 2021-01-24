@@ -203,7 +203,7 @@
             {"page": "13", "bgm": "019", "se": [], "voice": true},
             {"page": "14", "bgm": "019", "se": [], "voice": true},
             {"page": "15", "bgm": "019", "se": [], "voice": true},
-            {"page": "16", "bgm": "019", "se": [], "voice": false},
+            {"page": "16", "bgm": "019", "se": [], "voice": true},
             {"page": "17", "bgm": "019", "se": [], "voice": true},
             {"page": "18", "bgm": "019", "se": [], "voice": true},
             {"page": "19", "bgm": "019", "se": ["005"], "voice": false},
