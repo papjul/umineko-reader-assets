@@ -200,7 +200,7 @@
             {"page": "09", "bgm": null, "se": ["005", "012"], "voice": false},
             {"page": "10-11", "bgm": "019", "se": [], "voice": true},
             {"page": "12", "bgm": "019", "se": [], "voice": true},
-            {"page": "13", "bgm": "019", "se": [], "voice": false},
+            {"page": "13", "bgm": "019", "se": [], "voice": true},
             {"page": "14", "bgm": "019", "se": [], "voice": false},
             {"page": "15", "bgm": "019", "se": [], "voice": false},
             {"page": "16", "bgm": "019", "se": [], "voice": false},
