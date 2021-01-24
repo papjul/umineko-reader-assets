@@ -177,7 +177,7 @@
             {"page": "46", "bgm": "006", "se": ["012", "014"], "voice": false},
             {"page": "47", "bgm": "006", "se": ["012", "014"], "voice": false},
             {"page": "48", "bgm": null, "se": ["012", "014"], "voice": true},
-            {"page": "49", "bgm": null, "se": ["012", "014"], "voice": false},
+            {"page": "49", "bgm": null, "se": ["012", "014"], "voice": true},
             {"page": "50", "bgm": null, "se": ["012", "014"], "voice": false},
             {"page": "51", "bgm": null, "se": ["005", "012"], "voice": false},
             {"page": "52", "bgm": null, "se": ["005", "012"], "voice": false},
