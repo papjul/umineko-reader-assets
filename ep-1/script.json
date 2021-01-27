@@ -34,8 +34,7 @@
             {"page": "28a", "bgm": null, "se": ["005"], "voice": false},
             {"page": "28b", "bgm": null, "se": ["005"], "voice": true},
             {"page": "29", "bgm": null, "se": ["005"], "voice": true},
-            {"page": "30", "bgm": null, "se": ["005"], "voice": false},
-            {"page": "31", "bgm": null, "se": [], "voice": false}]
+            {"page": "30", "bgm": null, "se": ["005"], "voice": false}]
         , "2": [{"page": "01", "bgm": "007", "se": [], "voice": false},
             {"page": "02", "bgm": "007", "se": [], "voice": false},
             {"page": "03", "bgm": "007", "se": [], "voice": false},
@@ -129,8 +128,7 @@
             {"page": "59", "bgm": "013", "se": [], "voice": false},
             {"page": "60", "bgm": "013", "se": [], "voice": false},
             {"page": "61-62", "bgm": "013", "se": [], "voice": false},
-            {"page": "63-64", "bgm": "013", "se": [], "voice": false},
-            {"page": "65", "bgm": null, "se": [], "voice": false}]
+            {"page": "63-64", "bgm": "013", "se": [], "voice": false}]
         , "4": [{"page": "01", "bgm": "008", "se": [], "voice": false},
             {"page": "02", "bgm": "008", "se": [], "voice": false},
             {"page": "03", "bgm": "008", "se": [], "voice": false},
@@ -185,9 +183,7 @@
             {"page": "55", "bgm": "018", "se": ["005", "012"], "voice": false},
             {"page": "56", "bgm": "018", "se": ["005", "012"], "voice": false},
             {"page": "57", "bgm": "018", "se": ["005", "012"], "voice": true},
-            {"page": "58", "bgm": "018", "se": ["005", "012"], "voice": false},
-            {"page": "59", "bgm": null, "se": [], "voice": false},
-            {"page": "60", "bgm": null, "se": [], "voice": false}]
+            {"page": "58", "bgm": "018", "se": ["005", "012"], "voice": false}]
         , "5": [{"page": "01", "bgm": "018", "se": ["005", "012"], "voice": false},
             {"page": "02", "bgm": "018", "se": ["005", "012"], "voice": false},
             {"page": "03", "bgm": null, "se": ["005", "012"], "voice": false},
@@ -238,8 +234,7 @@
             {"page": "50", "bgm": "012", "se": ["012"], "voice": false},
             {"page": "51", "bgm": "012", "se": ["012"], "voice": false},
             {"page": "52", "bgm": null, "se": ["012"], "voice": true},
-            {"page": "53", "bgm": null, "se": ["012"], "voice": false},
-            {"page": "54", "bgm": null, "se": [], "voice": false}]
+            {"page": "53", "bgm": null, "se": ["012"], "voice": false}]
         , "6": [{"page": "01", "bgm": null, "se": ["012"], "voice": false},
             {"page": "02", "bgm": null, "se": ["012"], "voice": false},
             {"page": "03", "bgm": null, "se": ["012"], "voice": false},
@@ -284,8 +279,7 @@
             {"page": "42", "bgm": "023", "se": ["019"], "voice": false},
             {"page": "43", "bgm": "023", "se": ["019"], "voice": false},
             {"page": "44-45", "bgm": "023", "se": ["019"], "voice": false},
-            {"page": "46-47", "bgm": "023", "se": ["019"], "voice": false},
-            {"page": "48", "bgm": null, "se": [], "voice": false}]
+            {"page": "46-47", "bgm": "023", "se": ["019"], "voice": false}]
         , "7": [{"page": "01", "bgm": null, "se": ["012"], "voice": false},
             {"page": "02", "bgm": null, "se": ["005", "013"], "voice": false},
             {"page": "03", "bgm": "012", "se": [], "voice": false},
@@ -382,9 +376,7 @@
             {"page": "46", "bgm": null, "se": ["011"], "voice": false},
             {"page": "47", "bgm": null, "se": ["011"], "voice": false},
             {"page": "48", "bgm": null, "se": ["011"], "voice": false},
-            {"page": "49", "bgm": null, "se": ["011"], "voice": false},
-            {"page": "50", "bgm": null, "se": [], "voice": false},
-            {"page": "51", "bgm": null, "se": [], "voice": false}]
+            {"page": "49", "bgm": null, "se": ["011"], "voice": false}]
         , "9": [{"page": "01", "bgm": null, "se": ["011"], "voice": false},
             {"page": "02", "bgm": "026", "se": [], "voice": false},
             {"page": "03", "bgm": "026", "se": [], "voice": false},
@@ -431,8 +423,7 @@
             {"page": "46", "bgm": "019", "se": [], "voice": false},
             {"page": "47", "bgm": "019", "se": [], "voice": false},
             {"page": "48-49", "bgm": "019", "se": [], "voice": false},
-            {"page": "50", "bgm": "019", "se": [], "voice": false},
-            {"page": "51", "bgm": null, "se": [], "voice": false}]
+            {"page": "50", "bgm": "019", "se": [], "voice": false}]
         , "10": [{"page": "01", "bgm": "019", "se": [], "voice": false},
             {"page": "02", "bgm": "019", "se": [], "voice": false},
             {"page": "03", "bgm": "019", "se": [], "voice": false},
@@ -468,8 +459,7 @@
             {"page": "33", "bgm": "026", "se": ["005"], "voice": false},
             {"page": "34", "bgm": "026", "se": ["005"], "voice": false},
             {"page": "35", "bgm": "026", "se": ["005"], "voice": false},
-            {"page": "36-37", "bgm": "026", "se": ["005"], "voice": false},
-            {"page": "38", "bgm": null, "se": [], "voice": false}]
+            {"page": "36-37", "bgm": "026", "se": ["005"], "voice": false}]
         , "11": [{"page": "01", "bgm": "026", "se": ["005"], "voice": false},
             {"page": "02", "bgm": "026", "se": ["005"], "voice": false},
             {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -505,9 +495,7 @@
             {"page": "35", "bgm": "018", "se": ["005"], "voice": false},
             {"page": "36", "bgm": "018", "se": ["005", "012"], "voice": false},
             {"page": "37", "bgm": "018", "se": ["005", "012"], "voice": false},
-            {"page": "38", "bgm": "018", "se": ["005", "012"], "voice": false},
-            {"page": "39", "bgm": "018", "se": ["005", "012"], "voice": false},
-            {"page": "40", "bgm": null, "se": [], "voice": false}]
+            {"page": "38-39", "bgm": "018", "se": ["005", "012"], "voice": false}]
         , "12": [{"page": "01", "bgm": "018", "se": ["005", "012"], "voice": false},
             {"page": "02", "bgm": "018", "se": ["005", "012"], "voice": false},
             {"page": "03", "bgm": null, "se": ["013"], "voice": false},
@@ -529,8 +517,7 @@
             {"page": "19", "bgm": "019", "se": [], "voice": false},
             {"page": "20", "bgm": "019", "se": [], "voice": false},
             {"page": "21", "bgm": "019", "se": [], "voice": false},
-            {"page": "22", "bgm": "019", "se": [], "voice": false},
-            {"page": "23", "bgm": "019", "se": ["013"], "voice": false},
+            {"page": "22-23", "bgm": "019", "se": ["013"], "voice": false},
             {"page": "24", "bgm": "019", "se": ["013"], "voice": false},
             {"page": "25", "bgm": "019", "se": ["013"], "voice": false},
             {"page": "26", "bgm": "019", "se": ["013"], "voice": false},
@@ -595,9 +582,7 @@
             {"page": "37", "bgm": null, "se": ["005", "013"], "voice": false},
             {"page": "38", "bgm": null, "se": ["005", "013"], "voice": false},
             {"page": "39", "bgm": null, "se": ["005", "013"], "voice": false},
-            {"page": "40-41", "bgm": null, "se": ["005", "013"], "voice": false},
-            {"page": "42", "bgm": null, "se": [], "voice": false},
-            {"page": "43", "bgm": null, "se": [], "voice": false}]
+            {"page": "40-41", "bgm": null, "se": ["005", "013"], "voice": false}]
         , "14": [{"page": "01", "bgm": null, "se": [], "voice": false},
             {"page": "02", "bgm": null, "se": [], "voice": false},
             {"page": "03", "bgm": null, "se": ["012"], "voice": false},
@@ -634,8 +619,7 @@
             {"page": "35", "bgm": "015", "se": ["005", "013"], "voice": false},
             {"page": "36", "bgm": "015", "se": ["005", "013"], "voice": false},
             {"page": "37", "bgm": "015", "se": ["005", "013"], "voice": false},
-            {"page": "38-39", "bgm": "024", "se": [], "voice": false},
-            {"page": "40", "bgm": null, "se": [], "voice": false}]
+            {"page": "38-39", "bgm": "024", "se": [], "voice": false}]
         , "15": [{"page": "01", "bgm": "024", "se": [], "voice": false},
             {"page": "02", "bgm": "024", "se": [], "voice": false},
             {"page": "03", "bgm": "024", "se": [], "voice": false},
@@ -725,8 +709,7 @@
             {"page": "50", "bgm": "017", "se": [], "voice": false},
             {"page": "51", "bgm": "017", "se": [], "voice": false},
             {"page": "52", "bgm": "017", "se": [], "voice": false},
-            {"page": "53", "bgm": "017", "se": ["014"], "voice": false},
-            {"page": "54", "bgm": null, "se": [], "voice": false}]
+            {"page": "53", "bgm": "017", "se": ["014"], "voice": false}]
         , "17": [{"page": "01", "bgm": null, "se": ["012"], "voice": false},
             {"page": "02", "bgm": null, "se": ["012"], "voice": false},
             {"page": "03", "bgm": null, "se": ["012"], "voice": false},
@@ -777,8 +760,7 @@
             {"page": "48", "bgm": "026", "se": ["005"], "voice": false},
             {"page": "49", "bgm": "026", "se": ["005"], "voice": false},
             {"page": "50-51", "bgm": "026", "se": ["005"], "voice": false},
-            {"page": "52-53", "bgm": "026", "se": ["005"], "voice": false},
-            {"page": "54", "bgm": null, "se": [], "voice": false}]
+            {"page": "52-53", "bgm": "026", "se": ["005"], "voice": false}]
         , "18": [{"page": "01", "bgm": null, "se": ["011"], "voice": false},
             {"page": "02", "bgm": null, "se": ["011"], "voice": false},
             {"page": "03", "bgm": "030", "se": ["011", "013"], "voice": false},
@@ -857,8 +839,7 @@
             {"page": "34", "bgm": "038", "se": [], "voice": false},
             {"page": "35", "bgm": "038", "se": [], "voice": false},
             {"page": "36", "bgm": "038", "se": [], "voice": false},
-            {"page": "37", "bgm": "038", "se": [], "voice": false},
-            {"page": "38", "bgm": null, "se": [], "voice": false}]
+            {"page": "37", "bgm": "038", "se": [], "voice": false}]
         , "20": [{"page": "01", "bgm": "038", "se": [], "voice": false},
             {"page": "02", "bgm": "038", "se": ["005"], "voice": false},
             {"page": "03", "bgm": "038", "se": ["005", "013"], "voice": false},
@@ -910,8 +891,7 @@
             {"page": "52", "bgm": "024", "se": ["013", "maria_v"], "voice": false},
             {"page": "53", "bgm": "024", "se": ["013", "maria_v"], "voice": false},
             {"page": "54", "bgm": "024", "se": ["013", "maria_v"], "voice": false},
-            {"page": "55", "bgm": "024", "se": ["013", "maria_v"], "voice": false},
-            {"page": "56", "bgm": null, "se": [], "voice": false}]
+            {"page": "55", "bgm": "024", "se": ["013", "maria_v"], "voice": false}]
         , "21": [{"page": "01", "bgm": "024", "se": ["005", "013"], "voice": false},
             {"page": "02", "bgm": "024", "se": ["005", "013"], "voice": false},
             {"page": "03", "bgm": "024", "se": ["005", "013"], "voice": false},
@@ -1020,8 +1000,7 @@
             {"page": "57", "bgm": "041", "se": [], "voice": false},
             {"page": "58-59", "bgm": "041", "se": [], "voice": false},
             {"page": "60-61", "bgm": "041", "se": [], "voice": false},
-            {"page": "62", "bgm": "041", "se": [], "voice": false},
-            {"page": "63", "bgm": "041", "se": [], "voice": false}]
+            {"page": "62", "bgm": "041", "se": [], "voice": false}]
         , "23": [{"page": "01", "bgm": "040", "se": [], "voice": false},
             {"page": "02", "bgm": "040", "se": [], "voice": false},
             {"page": "03", "bgm": "040", "se": [], "voice": false},
