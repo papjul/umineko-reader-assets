@@ -842,7 +842,7 @@
             {"page": "12", "bgm": "055", "se": ["024"], "voice": false},
             {"page": "13", "bgm": "055", "se": ["024"], "voice": false},
             {"page": "14", "bgm": "055", "se": ["024"], "voice": false},
-            {"page": "15", "bgm": "055", "se": ["024", "TODO"], "voice": false},
+            {"page": "15", "bgm": "055", "se": ["024"], "voice": false},
             {"page": "16", "bgm": "055", "se": ["024"], "voice": false},
             {"page": "17", "bgm": "055", "se": ["024"], "voice": false},
             {"page": "18-19", "bgm": "055", "se": ["018", "021"], "voice": false},
