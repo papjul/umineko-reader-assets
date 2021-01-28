@@ -1273,7 +1273,6 @@
             {"page": "43-44", "bgm": "151", "se": [], "voice": false},
             {"page": "45", "bgm": "151", "se": [], "voice": false},
             {"page": "46", "bgm": "151", "se": [], "voice": false},
-            {"page": "46note", "bgm": "151", "se": [], "voice": false},
             {"page": "47", "bgm": "147", "se": ["024"], "voice": false},
             {"page": "48", "bgm": "147", "se": ["024"], "voice": false},
             {"page": "49", "bgm": "147", "se": ["024"], "voice": false},
