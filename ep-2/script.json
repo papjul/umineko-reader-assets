@@ -1,5 +1,5 @@
 {
-    "version": "20210204",
+    "version": "20210207",
     "lang": "en",
 
     "title": "Turn of the Golden Witch",
@@ -1054,7 +1054,7 @@
                 {"page": "17", "bgm": "019", "se": [], "voice": false},
                 {"page": "18", "bgm": "019", "se": [], "voice": false},
                 {"page": "19", "bgm": "019", "se": [], "voice": false},
-                {"page": "20", "bgm": "019", "se": [], "voice": false}],
+                {"page": "20", "bgm": "019", "se": [], "voice": false}]
         }
     }
 }
