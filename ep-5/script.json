@@ -1,5 +1,5 @@
 {
-    "version": "20210204",
+    "version": "20210209",
     "lang": "en",
 
     "title": "End of the Golden Witch",
@@ -18,8 +18,8 @@
     }, "chapters": {
         "1": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Promise",
+                "fr": "Promesse",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "038", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "038", "se": [], "voice": false},
@@ -66,8 +66,8 @@
                 {"page": "47", "bgm": null, "se": [], "voice": false}]
         }, "2": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "The Magic of Resurrection",
+                "fr": "La magie de résurrection",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "001", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "013", "se": [], "voice": false},
@@ -114,8 +114,8 @@
                 {"page": "44-45", "bgm": "043", "se": [], "voice": false}]
         }, "3": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "A Proper Mystery",
+                "fr": "Une enquête régulière",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "009", "se": [], "voice": false},
                 {"page": "02a", "bgm": "009", "se": [], "voice": false},
@@ -167,8 +167,8 @@
                 {"page": "44-45", "bgm": null, "se": [], "voice": false}]
         }, "4": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Storm Clouds",
+                "fr": "Nuages sombres",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": ["005"], "voice": false},
                 {"page": "02", "bgm": "085", "se": ["005"], "voice": false},
@@ -215,8 +215,8 @@
                 {"page": "40", "bgm": "036", "se": [], "voice": false}]
         }, "5": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "The Visitor",
+                "fr": "L’invitée",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": ["005", "013"], "voice": false},
                 {"page": "02-03", "bgm": null, "se": ["005", "013"], "voice": false},
@@ -260,8 +260,8 @@
                 {"page": "38-39", "bgm": "113", "se": [], "voice": false}]
         }, "6": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Detective",
+                "fr": "Détective",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "113", "se": [], "voice": false},
                 {"page": "02", "bgm": "113", "se": [], "voice": false},
@@ -290,8 +290,8 @@
                 {"page": "25", "bgm": null, "se": ["005", "012"], "voice": false}]
         }, "7": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Epitaph",
+                "fr": "Épitaphe",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "049", "se": [], "voice": false},
                 {"page": "02", "bgm": "049", "se": [], "voice": false},
@@ -333,8 +333,8 @@
                 {"page": "36", "bgm": null, "se": ["005", "013"], "voice": false}]
         }, "8": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "The Arrivers",
+                "fr": "Ceux qui ont atteint la capitale",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "038", "se": [], "voice": false},
                 {"page": "02", "bgm": "044", "se": [], "voice": false},
@@ -384,8 +384,8 @@
                 {"page": "50", "bgm": null, "se": ["005", "013"], "voice": false}]
         }, "9": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Tears",
+                "fr": "Larmes",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "017", "se": [], "voice": false},
                 {"page": "02", "bgm": "017", "se": [], "voice": false},
@@ -439,8 +439,8 @@
                 {"page": "52", "bgm": "112", "se": [], "voice": false}]
         }, "10": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Ring",
+                "fr": "Anneau",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "112", "se": [], "voice": false},
                 {"page": "02", "bgm": "112", "se": [], "voice": false},
@@ -471,8 +471,8 @@
                 {"page": "28-29", "bgm": "019", "se": [], "voice": false}]
         }, "11": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "A Game for Two",
+                "fr": "Notre jeu",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "019", "se": [], "voice": false},
                 {"page": "02", "bgm": "025", "se": [], "voice": false},
@@ -516,8 +516,8 @@
                 {"page": "42-43", "bgm": "009", "se": ["005", "012"], "voice": false}]
         }, "12": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "The First Night",
+                "fr": "Le premier crépuscule",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "049", "se": [], "voice": false},
                 {"page": "02", "bgm": "049", "se": [], "voice": false},
@@ -567,8 +567,8 @@
                 {"page": "46", "bgm": null, "se": [], "voice": false}]
         }, "13": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Detective’s Privilege",
+                "fr": "L’autorité du détective",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "114", "se": [], "voice": false},
                 {"page": "02", "bgm": "114", "se": [], "voice": false},
@@ -637,8 +637,8 @@
                 {"page": "62", "bgm": null, "se": ["005", "013"], "voice": false}]
         }, "14": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "The Tenfold Witch-Piercing Wedge ①",
+                "fr": "Dix entraves pour pourfendre les sorcières ①",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "026", "se": ["005", "013"], "voice": false},
                 {"page": "02-03", "bgm": "026", "se": ["005", "013"], "voice": false},
@@ -684,8 +684,8 @@
                 {"page": "44", "bgm": "119", "se": ["005"], "voice": false}]
         }, "15": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "The Tenfold Witch-Piercing Wedge ②",
+                "fr": "Dix entraves pour pourfendre les sorcières ②",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "119", "se": ["005"], "voice": false},
                 {"page": "02", "bgm": "119", "se": ["005"], "voice": false},
@@ -743,8 +743,8 @@
                 {"page": "58", "bgm": "106", "se": [], "voice": false}]
         }, "16": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "The Tenfold Witch-Piercing Wedge ③",
+                "fr": "Dix entraves pour pourfendre les sorcières ③",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "106", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "106", "se": [], "voice": false},
@@ -773,8 +773,8 @@
                 {"page": "29", "bgm": "123", "se": ["005", "013"], "voice": false}]
         }, "17": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Conclusion",
+                "fr": "Fin du duel",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "123", "se": ["005", "013"], "voice": false},
                 {"page": "02", "bgm": "123", "se": ["005", "013"], "voice": false},
@@ -811,8 +811,8 @@
                 {"page": "36", "bgm": "038", "se": ["012"], "voice": false}]
         }, "18": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Deduction and Inspection",
+                "fr": "Raisonnement et inspection",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "038", "se": ["012"], "voice": false},
                 {"page": "02", "bgm": "038", "se": ["012"], "voice": false},
@@ -880,8 +880,8 @@
                 {"page": "65", "bgm": "118", "se": [], "voice": false}]
         }, "19": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Closet",
+                "fr": "Armoire",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "114", "se": ["005", "013"], "voice": false},
                 {"page": "02", "bgm": "114", "se": ["005"], "voice": false},
@@ -936,8 +936,8 @@
                 {"page": "52", "bgm": null, "se": [], "voice": false}]
         }, "20": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Checkmate",
+                "fr": "Échec et mat",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "114", "se": ["005", "013"], "voice": false},
                 {"page": "02", "bgm": "114", "se": ["005", "013"], "voice": false},
@@ -989,8 +989,8 @@
                 {"page": "48-49", "bgm": "121", "se": [], "voice": false}]
         }, "21": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Different Truths ①",
+                "fr": "Une autre vérité ①",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "121", "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": ["005"], "voice": false},
@@ -1053,8 +1053,8 @@
                 {"page": "60", "bgm": "121", "se": [], "voice": false}]
         }, "22": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Different Truths ②",
+                "fr": "Une autre vérité ②",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "121", "se": [], "voice": false},
                 {"page": "02", "bgm": "121", "se": [], "voice": false},
@@ -1094,8 +1094,8 @@
                 {"page": "36-37", "bgm": "126", "se": [], "voice": true}]
         }, "23": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Court Dismissed",
+                "fr": "Séance levée",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "126", "se": [], "voice": false},
                 {"page": "02", "bgm": "126", "se": [], "voice": false},
@@ -1179,8 +1179,8 @@
                 {"page": "86-87", "bgm": null, "se": [], "voice": false}]
         }, "24": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Confession",
+                "fr": "Confession",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "116", "se": [], "voice": false},
                 {"page": "02", "bgm": "116", "se": [], "voice": false},
@@ -1259,8 +1259,8 @@
                 {"page": "80", "bgm": "124", "se": [], "voice": false}]
         }, "25": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Tea Party",
+                "fr": "Pause thé",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "131", "se": [], "voice": false},
                 {"page": "02", "bgm": "131", "se": [], "voice": false},
@@ -1289,8 +1289,8 @@
                 {"page": "26", "bgm": null, "se": ["005"], "voice": false}]
         }, "26": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Secret Tea Party ①",
+                "fr": "Pause thé secrète ①",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": ["005"], "voice": false},
                 {"page": "02", "bgm": "025", "se": [], "voice": false},
@@ -1336,8 +1336,8 @@
                 {"page": "44", "bgm": "132", "se": [], "voice": false}]
         }, "27": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Secret Tea Party ②",
+                "fr": "Pause thé secrète ②",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "119", "se": [], "voice": false},
                 {"page": "02", "bgm": "119", "se": [], "voice": false},

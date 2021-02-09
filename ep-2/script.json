@@ -1,5 +1,5 @@
 {
-    "version": "20210207",
+    "version": "20210209",
     "lang": "en",
 
     "title": "Turn of the Golden Witch",
@@ -17,8 +17,8 @@
     }, "chapters": {
         "1": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "A Dream at the Bottom of the Water",
+                "fr": "Un rêve venu de l’océan",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "021", "se": [], "voice": true},
                 {"page": "02", "bgm": "021", "se": [], "voice": true},
@@ -51,8 +51,8 @@
                 {"page": "31", "bgm": null, "se": [], "voice": false}]
         }, "2": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Furniture",
+                "fr": "Meuble",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": ["011"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["011"], "voice": false},
@@ -84,8 +84,8 @@
                 {"page": "27", "bgm": "017", "se": [], "voice": false}]
         }, "3": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Witch",
+                "fr": "Sorcière",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "017", "se": [], "voice": false},
                 {"page": "02", "bgm": "017", "se": [], "voice": false},
@@ -114,8 +114,8 @@
                 {"page": "27", "bgm": "044", "se": ["005", "012"], "voice": false}]
         }, "4": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Seals",
+                "fr": "Sceau",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "044", "se": ["005", "012"], "voice": false},
                 {"page": "02-03", "bgm": "044", "se": ["005"], "voice": false},
@@ -142,8 +142,8 @@
                 {"page": "26", "bgm": "019", "se": ["012"], "voice": false}]
         }, "5": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Love",
+                "fr": "Amour",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
@@ -178,8 +178,8 @@
                 {"page": "29", "bgm": null, "se": ["002"], "voice": false}]
         }, "6": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Something Unseen",
+                "fr": "Quelque chose d’invisible",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": ["002"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["002"], "voice": false},
@@ -205,8 +205,8 @@
                 {"page": "21", "bgm": "001", "se": ["005"], "voice": false}]
         }, "7": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "School Festival",
+                "fr": "La fête de l’école",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "007", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "007", "se": [], "voice": false},
@@ -231,8 +231,8 @@
                 {"page": "23", "bgm": "008", "se": [], "voice": false}]
         }, "8": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Rejection",
+                "fr": "Rejet",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "012", "se": [], "voice": false},
                 {"page": "02", "bgm": "012", "se": [], "voice": false},
@@ -275,8 +275,8 @@
                 {"page": "39", "bgm": "046", "se": [], "voice": false}]
         }, "9": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Mother & Daughter",
+                "fr": "Mère et fille",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "002", "se": [], "voice": false},
                 {"page": "02", "bgm": "002", "se": [], "voice": false},
@@ -302,8 +302,8 @@
                 {"page": "23", "bgm": "001", "se": [], "voice": false}]
         }, "10": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "The Battle Begins",
+                "fr": "Début des hostilités",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02-03", "bgm": null, "se": [], "voice": false},
@@ -340,8 +340,8 @@
                 {"page": "35", "bgm": "048", "se": [], "voice": false}]
         }, "11": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "The Little Witch",
+                "fr": "La petite sorcière",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "012", "se": [], "voice": false},
                 {"page": "02", "bgm": "012", "se": [], "voice": false},
@@ -370,8 +370,8 @@
                 {"page": "26", "bgm": null, "se": ["005"], "voice": false}]
         }, "12": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Submission",
+                "fr": "Soumission",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": ["005"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["005"], "voice": false},
@@ -408,8 +408,8 @@
                 {"page": "35", "bgm": "044", "se": ["013"], "voice": false}]
         }, "13": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Chessboard Logic",
+                "fr": "Théorie de l’échiquier",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "019", "se": [], "voice": false},
                 {"page": "02", "bgm": "019", "se": [], "voice": false},
@@ -436,8 +436,8 @@
                 {"page": "22", "bgm": "020", "se": [], "voice": false}]
         }, "14": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "The Devil’s Proof ①",
+                "fr": "Preuve du diable ①",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "020", "se": ["012"], "voice": false},
                 {"page": "02", "bgm": "020", "se": ["012"], "voice": false},
@@ -468,8 +468,8 @@
                 {"page": "27", "bgm": "014", "se": ["005", "013"], "voice": false}]
         }, "15": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "The Devil’s Proof ②",
+                "fr": "Preuve du diable ②",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": ["005", "013"], "voice": false},
                 {"page": "02", "bgm": "017", "se": [], "voice": false},
@@ -500,8 +500,8 @@
                 {"page": "28", "bgm": "023", "se": [], "voice": false}]
         }, "16": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Happy Halloween for Maria",
+                "fr": "Happy Halloween for Maria",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": ["013"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["012"], "voice": false},
@@ -539,8 +539,8 @@
                 {"page": "36", "bgm": "033", "se": ["005", "013"], "voice": false}]
         }, "17": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Furniture’s Blade",
+                "fr": "L’épée du meuble",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "033", "se": ["005", "013"], "voice": false},
                 {"page": "02", "bgm": "033", "se": ["005", "013"], "voice": false},
@@ -598,8 +598,8 @@
                 {"page": "61", "bgm": "034", "se": [], "voice": false}]
         }, "18": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "New Rule",
+                "fr": "Nouvelle règle",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "034", "se": [], "voice": false},
                 {"page": "02", "bgm": "044", "se": ["013"], "voice": false},
@@ -644,8 +644,8 @@
                 {"page": "41", "bgm": "019", "se": [], "voice": false}]
         }, "19": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Battler’s Counterattack",
+                "fr": "Battler contrattaque",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "051", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "051", "se": [], "voice": false},
@@ -670,8 +670,8 @@
                 {"page": "23", "bgm": "044", "se": [], "voice": false}]
         }, "20": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "The Wolves and Sheep Riddle",
+                "fr": "Problème de loups et d’agneaux",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "044", "se": [], "voice": false},
                 {"page": "02", "bgm": "044", "se": [], "voice": false},
@@ -725,8 +725,8 @@
                 {"page": "53", "bgm": "050", "se": [], "voice": false}]
         }, "21": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Vanishing Remains",
+                "fr": "Disparition des corps",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "039", "se": ["013"], "voice": false},
                 {"page": "02", "bgm": "039", "se": ["013"], "voice": false},
@@ -781,8 +781,8 @@
                 {"page": "56", "bgm": "051", "se": [], "voice": false}]
         }, "22": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Unreaching Red",
+                "fr": "Un rouge impossible à transmettre",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "051", "se": [], "voice": false},
                 {"page": "02", "bgm": "051", "se": [], "voice": false},
@@ -815,8 +815,8 @@
                 {"page": "31", "bgm": "039", "se": [], "voice": false}]
         }, "23": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Spirit Mirror",
+                "fr": "Miroir divin",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "039", "se": ["013"], "voice": false},
                 {"page": "02", "bgm": "039", "se": ["005", "013"], "voice": false},
@@ -851,8 +851,8 @@
                 {"page": "32", "bgm": "054", "se": [], "voice": false}]
         }, "24": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "An Eternal Promise",
+                "fr": "Vœux éternels",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "054", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "054", "se": [], "voice": false},
@@ -901,8 +901,8 @@
                 {"page": "55", "bgm": "031", "se": [], "voice": false}]
         }, "25": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Act Close",
+                "fr": "Fin de la pièce",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "031", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "031", "se": [], "voice": false},
@@ -952,8 +952,8 @@
                 {"page": "59", "bgm": "055", "se": [], "voice": false}]
         }, "26": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Feast",
+                "fr": "Banquet",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "019", "se": ["013"], "voice": true},
                 {"page": "02", "bgm": "019", "se": ["013"], "voice": true},
@@ -999,8 +999,8 @@
                 {"page": "48-49", "bgm": "054", "se": ["021"], "voice": false}]
         }, "27": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Tea Party",
+                "fr": "Pause thé",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": ["011"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["011"], "voice": false},
@@ -1033,8 +1033,8 @@
                 {"page": "32", "bgm": "058", "se": [], "voice": false}]
         }, "28": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Secret Tea Party",
+                "fr": "Pause thé secrète",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "040", "se": [], "voice": false},
                 {"page": "02", "bgm": "040", "se": [], "voice": false},

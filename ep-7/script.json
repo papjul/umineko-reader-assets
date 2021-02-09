@@ -1,5 +1,5 @@
 {
-    "version": "20210208",
+    "version": "20210209",
     "lang": "en",
 
     "title": "Requiem of the Golden Witch",
@@ -21,7 +21,7 @@
     }, "chapters": {
         "1": {
             "title": {
-                "en": null,
+                "en": "Invitation to the Game",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "155", "se": [], "voice": false},
@@ -87,7 +87,7 @@
                 {"page": "67", "bgm": "164", "se": ["012"], "voice": false}]
         }, "2": {
             "title": {
-                "en": null,
+                "en": "Beatrice’s Portrait",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "163", "se": [], "voice": false},
@@ -129,7 +129,7 @@
                 {"page": "36", "bgm": null, "se": ["005"], "voice": false}]
         }, "3": {
             "title": {
-                "en": null,
+                "en": "The Right to Spectate",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "110", "se": [], "voice": false},
@@ -166,7 +166,7 @@
                 {"page": "34a", "bgm": "038", "se": ["013"], "voice": false}]
         }, "4": {
             "title": {
-                "en": null,
+                "en": "Kinzō’s Confession",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01b", "bgm": "038", "se": ["013"], "voice": false},
@@ -205,7 +205,7 @@
                 {"page": "38-39", "bgm": "163", "se": [], "voice": false}]
         }, "5": {
             "title": {
-                "en": null,
+                "en": "Encounter on Rokkenjima",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01b", "bgm": "163", "se": [], "voice": false},
@@ -247,7 +247,7 @@
                 {"page": "38-39", "bgm": "169", "se": [], "voice": false}]
         }, "6": {
             "title": {
-                "en": null,
+                "en": "Submarine’s Payload",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "169", "se": ["005"], "voice": false},
@@ -282,7 +282,7 @@
                 {"page": "34", "bgm": "168", "se": ["005"], "voice": false}]
         }, "7": {
             "title": {
-                "en": null,
+                "en": "Bargaining",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "168", "se": ["005"], "voice": false},
@@ -324,7 +324,7 @@
                 {"page": "40", "bgm": "125", "se": [], "voice": false}]
         }, "8": {
             "title": {
-                "en": null,
+                "en": "Gold and Madness",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "125", "se": [], "voice": false},
@@ -366,7 +366,7 @@
                 {"page": "40", "bgm": "024", "se": ["005"], "voice": false}]
         }, "9": {
             "title": {
-                "en": null,
+                "en": "Golden Magic",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "024", "se": ["005"], "voice": false},
@@ -395,7 +395,7 @@
                 {"page": "26", "bgm": "064", "se": ["002", "003"], "voice": false}]
         }, "10": {
             "title": {
-                "en": null,
+                "en": "The Game Resumes",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "167", "se": [], "voice": false},
@@ -434,7 +434,7 @@
                 {"page": "34", "bgm": "163", "se": [], "voice": false}]
         }, "11": {
             "title": {
-                "en": null,
+                "en": "Maria the Witch",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "163", "se": [], "voice": false},
@@ -475,7 +475,7 @@
                 {"page": "41", "bgm": "169", "se": ["002"], "voice": false}]
         }, "12": {
             "title": {
-                "en": null,
+                "en": "Will’s Theory",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01b", "bgm": "169", "se": ["002"], "voice": false},
@@ -518,7 +518,7 @@
                 {"page": "39", "bgm": null, "se": ["012"], "voice": false}]
         }, "13": {
             "title": {
-                "en": null,
+                "en": "Jessica’s Confession",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "162", "se": [], "voice": false},
@@ -559,7 +559,7 @@
                 {"page": "40", "bgm": "017", "se": [], "voice": false}]
         }, "14": {
             "title": {
-                "en": null,
+                "en": "The Witch in the VIP Room",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "017", "se": [], "voice": false},
@@ -602,7 +602,7 @@
                 {"page": "40", "bgm": null, "se": ["023"], "voice": false}]
         }, "15": {
             "title": {
-                "en": null,
+                "en": "Two Testimonies",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": ["023"], "voice": false},
@@ -642,7 +642,7 @@
                 {"page": "36", "bgm": "162", "se": [], "voice": false}]
         }, "16": {
             "title": {
-                "en": null,
+                "en": "Will’s Hypothesis",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": ["013"], "voice": false},
@@ -675,7 +675,7 @@
                 {"page": "29-30", "bgm": null, "se": ["005"], "voice": false}]
         }, "17": {
             "title": {
-                "en": null,
+                "en": "The Identity of Lion Ushiromiya",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01b", "bgm": "163", "se": [], "voice": false},
@@ -713,7 +713,7 @@
                 {"page": "37", "bgm": "167", "se": [], "voice": false}]
         }, "18": {
             "title": {
-                "en": null,
+                "en": "The Beginning of Everything",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "167", "se": [], "voice": false},
@@ -748,7 +748,7 @@
                 {"page": "34-35", "bgm": null, "se": [], "voice": false}]
         }, "19": {
             "title": {
-                "en": null,
+                "en": "A New Life",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -793,7 +793,7 @@
                 {"page": "40", "bgm": null, "se": [], "voice": false}]
         }, "20": {
             "title": {
-                "en": null,
+                "en": "The Culprit’s Birth",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -833,7 +833,7 @@
                 {"page": "37", "bgm": null, "se": [], "voice": false}]
         }, "21": {
             "title": {
-                "en": null,
+                "en": "Yasu and the Witch",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -873,7 +873,7 @@
                 {"page": "40", "bgm": null, "se": [], "voice": false}]
         }, "22": {
             "title": {
-                "en": null,
+                "en": "Interactions with the Witch",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -912,7 +912,7 @@
                 {"page": "35", "bgm": null, "se": [], "voice": false}]
         }, "23": {
             "title": {
-                "en": null,
+                "en": "Changing Days",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -957,7 +957,7 @@
                 {"page": "40", "bgm": null, "se": [], "voice": false}]
         }, "24": {
             "title": {
-                "en": null,
+                "en": "Witch Magic",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -997,7 +997,7 @@
                 {"page": "41", "bgm": null, "se": [], "voice": false}]
         }, "25": {
             "title": {
-                "en": null,
+                "en": "Witch Manifestation",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1047,7 +1047,7 @@
                 {"page": "50", "bgm": null, "se": [], "voice": false}]
         }, "26": {
             "title": {
-                "en": null,
+                "en": "The Golden Paradise",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1086,7 +1086,7 @@
                 {"page": "40", "bgm": null, "se": [], "voice": false}]
         }, "27": {
             "title": {
-                "en": null,
+                "en": "An Answer Sought",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1133,7 +1133,7 @@
                 {"page": "46-47", "bgm": null, "se": [], "voice": false}]
         }, "28": {
             "title": {
-                "en": null,
+                "en": "Witch and Battler",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1178,7 +1178,7 @@
                 {"page": "40", "bgm": null, "se": [], "voice": false}]
         }, "29": {
             "title": {
-                "en": null,
+                "en": "The Time of Tribulation",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1220,7 +1220,7 @@
                 {"page": "38", "bgm": null, "se": [], "voice": false}]
         }, "30": {
             "title": {
-                "en": null,
+                "en": "At the End of the Trial",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1265,7 +1265,7 @@
                 {"page": "44", "bgm": null, "se": [], "voice": false}]
         }, "31": {
             "title": {
-                "en": null,
+                "en": "Shoots of Love",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1305,7 +1305,7 @@
                 {"page": "42", "bgm": null, "se": [], "voice": false}]
         }, "32": {
             "title": {
-                "en": null,
+                "en": "The Secret of the Epitaph",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1347,7 +1347,7 @@
                 {"page": "38", "bgm": null, "se": [], "voice": false}]
         }, "33": {
             "title": {
-                "en": null,
+                "en": "Attempting the Epitaph",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1385,7 +1385,7 @@
                 {"page": "36", "bgm": null, "se": [], "voice": false}]
         }, "34": {
             "title": {
-                "en": null,
+                "en": "The Answer",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1423,7 +1423,7 @@
                 {"page": "33", "bgm": null, "se": [], "voice": false}]
         }, "35": {
             "title": {
-                "en": null,
+                "en": "The Day of Fate",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1470,7 +1470,7 @@
                 {"page": "48", "bgm": null, "se": [], "voice": false}]
         }, "36": {
             "title": {
-                "en": null,
+                "en": "The Witch Returns",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1513,7 +1513,7 @@
                 {"page": "42", "bgm": null, "se": [], "voice": false}]
         }, "37": {
             "title": {
-                "en": null,
+                "en": "The End of the Witch’s Fantasy",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1552,7 +1552,7 @@
                 {"page": "36", "bgm": null, "se": [], "voice": false}]
         }, "38": {
             "title": {
-                "en": null,
+                "en": "Eternal Sleep",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1586,7 +1586,7 @@
                 {"page": "33", "bgm": null, "se": [], "voice": false}]
         }, "39": {
             "title": {
-                "en": null,
+                "en": "The End of the Game, and Then…",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1643,7 +1643,7 @@
                 {"page": "60", "bgm": null, "se": [], "voice": false}]
         }, "40": {
             "title": {
-                "en": null,
+                "en": "A Different Story’s First Day of Slaughter",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1688,7 +1688,7 @@
                 {"page": "42", "bgm": null, "se": [], "voice": false}]
         }, "41": {
             "title": {
-                "en": null,
+                "en": "The Witch’s Murder Plot",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1729,7 +1729,7 @@
                 {"page": "36", "bgm": null, "se": [], "voice": false}]
         }, "42": {
             "title": {
-                "en": null,
+                "en": "The Gold’s Magical Power",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1775,7 +1775,7 @@
                 {"page": "46", "bgm": null, "se": [], "voice": false}]
         }, "43": {
             "title": {
-                "en": null,
+                "en": "Rudolf and Kyrie",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1819,7 +1819,7 @@
                 {"page": "42", "bgm": null, "se": [], "voice": false}]
         }, "44": {
             "title": {
-                "en": null,
+                "en": "Accelerating Tragedy",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1864,7 +1864,7 @@
                 {"page": "40", "bgm": null, "se": [], "voice": false}]
         }, "45": {
             "title": {
-                "en": null,
+                "en": "In the End, the Survivor…",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1890,7 +1890,7 @@
                 {"page": "25", "bgm": null, "se": [], "voice": false}]
         }, "46": {
             "title": {
-                "en": null,
+                "en": "What Happened That Day",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1930,7 +1930,7 @@
                 {"page": "40", "bgm": null, "se": [], "voice": false}]
         }, "47": {
             "title": {
-                "en": null,
+                "en": "Inescapable Fate",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1973,7 +1973,7 @@
                 {"page": "48", "bgm": null, "se": [], "voice": false}]
         }, "48": {
             "title": {
-                "en": null,
+                "en": "In the Direction of Hope",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},

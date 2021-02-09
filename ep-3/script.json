@@ -1,5 +1,5 @@
 {
-    "version": "20210204",
+    "version": "20210209",
     "lang": "en",
 
     "title": "Banquet of the Golden Witch",
@@ -17,8 +17,8 @@
     }, "chapters": {
         "1": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "The Endless Witch",
+                "fr": "La sorcière de l’infini",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "009", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "060", "se": [], "voice": false},
@@ -66,8 +66,8 @@
                 {"page": "45", "bgm": "001", "se": ["003"], "voice": false}]
         }, "2": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Welcome Home",
+                "fr": "Bon retour",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "001", "se": ["003"], "voice": false},
                 {"page": "02", "bgm": "001", "se": ["003"], "voice": false},
@@ -115,8 +115,8 @@
                 {"page": "47", "bgm": "009", "se": [], "voice": false}]
         }, "3": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "The Devil’s Proof",
+                "fr": "Preuve du diable",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "002", "se": [], "voice": false},
                 {"page": "02", "bgm": "002", "se": [], "voice": false},
@@ -161,8 +161,8 @@
                 {"page": "44-45", "bgm": "044", "se": [], "voice": false}]
         }, "4": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Tenacity",
+                "fr": "Ténacité",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "061", "se": ["005", "013"], "voice": false},
                 {"page": "02", "bgm": "061", "se": ["005"], "voice": false},
@@ -210,8 +210,8 @@
                 {"page": "46-47", "bgm": "061", "se": [], "voice": false}]
         }, "5": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Confession",
+                "fr": "Confession",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "019", "se": [], "voice": false},
                 {"page": "02", "bgm": "019", "se": [], "voice": false},
@@ -256,8 +256,8 @@
                 {"page": "47", "bgm": "008", "se": [], "voice": false}]
         }, "6": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Kuwadorian",
+                "fr": "Kuwadorian",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "009", "se": [], "voice": false},
                 {"page": "02", "bgm": "009", "se": [], "voice": false},
@@ -311,8 +311,8 @@
                 {"page": "58", "bgm": "013", "se": [], "voice": false}]
         }, "7": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Furniture vs. Seven Sisters",
+                "fr": "Les meubles contre les sept pieux",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": ["005", "013"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["012"], "voice": false},
@@ -369,8 +369,8 @@
                 {"page": "61-62", "bgm": "063", "se": [], "voice": false}]
         }, "8": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Magic Battle",
+                "fr": "La grande bataille magique",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": ["005"], "voice": false},
                 {"page": "02", "bgm": "065", "se": [], "voice": false},
@@ -423,8 +423,8 @@
                 {"page": "54", "bgm": null, "se": ["013"], "voice": false}]
         }, "9": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Victory Conditions",
+                "fr": "Conditions de la victoire",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": ["013"], "voice": false},
                 {"page": "02", "bgm": "027", "se": [], "voice": false},
@@ -477,8 +477,8 @@
                 {"page": "56", "bgm": "059", "se": [], "voice": false}]
         }, "10": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Wish Fulfillment",
+                "fr": "Le vœu exaucé",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": ["005", "013"], "voice": false},
                 {"page": "02", "bgm": "030", "se": [], "voice": false},
@@ -527,8 +527,8 @@
                 {"page": "50-51", "bgm": "072", "se": [], "voice": false}]
         }, "11": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Succession Ceremony",
+                "fr": "Cérémonie de succession",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "072", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "072", "se": [], "voice": false},
@@ -593,8 +593,8 @@
                 {"page": "67-68", "bgm": "061", "se": [], "voice": false}]
         }, "12": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Separation",
+                "fr": "Séparation",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "061", "se": ["013"], "voice": false},
                 {"page": "02", "bgm": "061", "se": ["013"], "voice": false},
@@ -665,8 +665,8 @@
                 {"page": "72-73", "bgm": "055", "se": [], "voice": false}]
         }, "13": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "A Woman’s Jealousy",
+                "fr": "La jalousie d’une femme",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "038", "se": [], "voice": false},
                 {"page": "02", "bgm": "038", "se": [], "voice": false},
@@ -743,8 +743,8 @@
                 {"page": "78-79", "bgm": "054", "se": [], "voice": false}]
         }, "14": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "New Furniture",
+                "fr": "Nouveaux meubles",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "054", "se": [], "voice": false},
                 {"page": "02-03", "bgm": null, "se": ["005"], "voice": false},
@@ -813,8 +813,8 @@
                 {"page": "67", "bgm": "075", "se": [], "voice": false}]
         }, "15": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Resurrection Magic",
+                "fr": "La magie de résurrection",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "014", "se": ["013"], "voice": false},
                 {"page": "02", "bgm": "014", "se": ["013"], "voice": false},
@@ -882,8 +882,8 @@
                 {"page": "66-67", "bgm": "031", "se": [], "voice": false}]
         }, "16": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Internal Collapse",
+                "fr": "Effondrement intérieur",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "031", "se": [], "voice": false},
                 {"page": "02", "bgm": "031", "se": [], "voice": false},
@@ -941,8 +941,8 @@
                 {"page": "58", "bgm": "055", "se": [], "voice": false}]
         }, "17": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "The True Endless Witch",
+                "fr": "La vraie sorcière de l’infini",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "055", "se": [], "voice": false},
                 {"page": "02", "bgm": "055", "se": [], "voice": false},
@@ -1012,8 +1012,8 @@
                 {"page": "73", "bgm": "080", "se": [], "voice": false}]
         }, "18": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Battler vs. Eva",
+                "fr": "Battler contre Eva",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "080", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "080", "se": [], "voice": false},
@@ -1077,8 +1077,8 @@
                 {"page": "66", "bgm": null, "se": ["005"], "voice": false}]
         }, "19": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Red Truth",
+                "fr": "Vérité rouge",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "072", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "072", "se": [], "voice": false},
@@ -1144,8 +1144,8 @@
                 {"page": "73", "bgm": "079", "se": [], "voice": false}]
         }, "20": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "An Uninvited Guest",
+                "fr": "Un invité imprévu",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": "076", "se": [], "voice": false},
@@ -1209,8 +1209,8 @@
                 {"page": "74", "bgm": "069", "se": [], "voice": false}]
         }, "21": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Tea Party",
+                "fr": "Pause thé",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "040", "se": [], "voice": false},
                 {"page": "02", "bgm": "040", "se": [], "voice": false},
@@ -1233,8 +1233,8 @@
                 {"page": "19", "bgm": "077", "se": [], "voice": false}]
         }, "22": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Secret Tea Party",
+                "fr": "Pause thé secrète",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "001", "se": [], "voice": false},
                 {"page": "02", "bgm": "001", "se": [], "voice": false},

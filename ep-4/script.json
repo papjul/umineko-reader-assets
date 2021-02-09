@@ -18,8 +18,8 @@
     }, "chapters": {
         "1": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "One-Winged Eagle",
+                "fr": "L’aigle à une aile",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "004", "se": [], "voice": false},
                 {"page": "02", "bgm": "004", "se": [], "voice": false},
@@ -87,8 +87,8 @@
                 {"page": "68-69", "bgm": "090", "se": [], "voice": false}]
         }, "2": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Magic",
+                "fr": "Magie",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "090", "se": [], "voice": false},
                 {"page": "02", "bgm": "090", "se": [], "voice": false},
@@ -143,8 +143,8 @@
                 {"page": "51", "bgm": null, "se": ["005"], "voice": false}]
         }, "3": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "It Is the One Element",
+                "fr": "C’est l’élément unique",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "001", "se": [], "voice": false},
                 {"page": "02", "bgm": "001", "se": [], "voice": false},
@@ -202,8 +202,8 @@
                 {"page": "56", "bgm": "086", "se": [], "voice": false}]
         }, "4": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Truth Is Like a Kaleidoscope",
+                "fr": "La vérité est un kaléidoscope",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "086", "se": [], "voice": false},
                 {"page": "02", "bgm": "086", "se": [], "voice": false},
@@ -259,8 +259,8 @@
                 {"page": "54", "bgm": "058", "se": [], "voice": false}]
         }, "5": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Beatrice",
+                "fr": "Beatrice",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "001", "se": [], "voice": false},
                 {"page": "02", "bgm": "001", "se": [], "voice": false},
@@ -297,8 +297,8 @@
                 {"page": "34-35", "bgm": null, "se": [], "voice": false}]
         }, "6": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Mariage Sorcière",
+                "fr": "Mariage Sorcière",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "082", "se": [], "voice": false},
                 {"page": "02", "bgm": "082", "se": [], "voice": false},
@@ -356,8 +356,8 @@
                 {"page": "58-59", "bgm": "093", "se": [], "voice": false}]
         }, "7": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Two Butterflies",
+                "fr": "Deux papillons",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "093", "se": [], "voice": false},
                 {"page": "02", "bgm": "093", "se": [], "voice": false},
@@ -395,8 +395,8 @@
                 {"page": "38-39", "bgm": "012", "se": [], "voice": false}]
         }, "8": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "The Miracle of Magic",
+                "fr": "Le miracle de la magie",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
@@ -436,8 +436,8 @@
                 {"page": "38-39", "bgm": null, "se": [], "voice": false}]
         }, "9": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Reunion",
+                "fr": "Réouverture",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
@@ -496,8 +496,8 @@
                 {"page": "60-61", "bgm": "061", "se": [], "voice": false}]
         }, "10": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Opening",
+                "fr": "Lever de rideau",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "061", "se": [], "voice": false},
                 {"page": "02", "bgm": "082", "se": [], "voice": false},
@@ -551,8 +551,8 @@
                 {"page": "54-55", "bgm": "047", "se": [], "voice": false}]
         }, "11": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Mother",
+                "fr": "Mère",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "047", "se": [], "voice": false},
                 {"page": "02", "bgm": "014", "se": [], "voice": false},
@@ -609,8 +609,8 @@
                 {"page": "55", "bgm": "095", "se": [], "voice": false}]
         }, "12": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "The End of the Daydream",
+                "fr": "Fin du rêve éveillé",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "043", "se": [], "voice": false},
                 {"page": "02", "bgm": "043", "se": [], "voice": false},
@@ -664,8 +664,8 @@
                 {"page": "52", "bgm": "066", "se": [], "voice": false}]
         }, "13": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Sakutarō",
+                "fr": "Sakutarō",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": "091", "se": [], "voice": false},
@@ -724,8 +724,8 @@
                 {"page": "56", "bgm": "077", "se": [], "voice": false}]
         }, "14": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "The First Night",
+                "fr": "Le premier crépuscule",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": ["005", "013"], "voice": false},
                 {"page": "02", "bgm": "018", "se": ["005", "013"], "voice": false},
@@ -773,8 +773,8 @@
                 {"page": "50", "bgm": "096", "se": [], "voice": false}]
         }, "15": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Evil",
+                "fr": "Mère démoniaque",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "024", "se": [], "voice": false},
                 {"page": "02", "bgm": "024", "se": [], "voice": false},
@@ -841,8 +841,8 @@
                 {"page": "63", "bgm": "047", "se": [], "voice": false}]
         }, "16": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Future Heir",
+                "fr": "Le prochain chef",
                 "zh": null
             }, "pages": [{"page": "01b", "bgm": "040", "se": ["005", "013"], "voice": false},
                 {"page": "02", "bgm": "040", "se": ["005", "013"], "voice": false},
@@ -879,8 +879,8 @@
                 {"page": "37", "bgm": "098", "se": [], "voice": false}]
         }, "17": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Absolute Determination",
+                "fr": "Expansion",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "099", "se": [], "voice": false},
                 {"page": "02", "bgm": "099", "se": [], "voice": false},
@@ -927,8 +927,8 @@
                 {"page": "46", "bgm": "088", "se": [], "voice": false}]
         }, "18": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Battle",
+                "fr": "Attaque et défense",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "102", "se": [], "voice": false},
                 {"page": "02", "bgm": "102", "se": [], "voice": false},
@@ -967,8 +967,8 @@
                 {"page": "42", "bgm": null, "se": [], "voice": false}]
         }, "19": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "The End of the Feast",
+                "fr": "Fin du banquet",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "096", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "096", "se": [], "voice": false},
@@ -1017,8 +1017,8 @@
                 {"page": "46-47", "bgm": "104", "se": [], "voice": false}]
         }, "20": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Mission",
+                "fr": "Mission",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": ["003"], "voice": false},
                 {"page": "02", "bgm": "001", "se": ["003"], "voice": false},
@@ -1068,8 +1068,8 @@
                 {"page": "48-49", "bgm": "088", "se": [], "voice": false}]
         }, "21": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Sin",
+                "fr": "Crime",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "104", "se": [], "voice": false},
                 {"page": "02", "bgm": "104", "se": [], "voice": false},
@@ -1107,8 +1107,8 @@
                 {"page": "37-38", "bgm": "095", "se": [], "voice": false}]
         }, "22": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Battler Ushiromiya?",
+                "fr": "Battler Ushiromiya ?",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "019", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "019", "se": [], "voice": false},
@@ -1163,8 +1163,8 @@
                 {"page": "54", "bgm": "075", "se": [], "voice": false}]
         }, "23": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "It Can’t Be Seen Without Love",
+                "fr": "Sans amour, on ne peut la voir",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "001", "se": ["003"], "voice": false},
                 {"page": "02", "bgm": "001", "se": ["003"], "voice": false},
@@ -1205,8 +1205,8 @@
                 {"page": "38", "bgm": "082", "se": [], "voice": false}]
         }, "24": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Black and White",
+                "fr": "Noir et blanc",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "082", "se": [], "voice": false},
                 {"page": "02", "bgm": "082", "se": [], "voice": false},
@@ -1248,8 +1248,8 @@
                 {"page": "41", "bgm": "088", "se": [], "voice": false}]
         }, "25": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Conclusion",
+                "fr": "Conclusion",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "105", "se": [], "voice": false},
                 {"page": "02", "bgm": "105", "se": [], "voice": false},
@@ -1304,8 +1304,8 @@
                 {"page": "54", "bgm": "067", "se": [], "voice": false}]
         }, "26": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Ange Ushiromiya",
+                "fr": "Ange Ushiromiya",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "106", "se": [], "voice": false},
                 {"page": "02", "bgm": "106", "se": [], "voice": false},
@@ -1368,8 +1368,8 @@
                 {"page": "68", "bgm": "107", "se": [], "voice": false}]
         }, "27": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Tea Party ①",
+                "fr": "Pause thé ①",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "038", "se": ["012"], "voice": false},
                 {"page": "02", "bgm": "038", "se": ["012"], "voice": false},
@@ -1405,8 +1405,8 @@
                 {"page": "33", "bgm": null, "se": [], "voice": false}]
         }, "28": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Tea Party ②",
+                "fr": "Pause thé ②",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "106", "se": [], "voice": false},
                 {"page": "02", "bgm": "106", "se": [], "voice": false},
@@ -1470,8 +1470,8 @@
                 {"page": "68", "bgm": "109", "se": [], "voice": false}]
         }, "29": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Secret Tea Party",
+                "fr": "Pause thé secrète",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "110", "se": [], "voice": false},
                 {"page": "02", "bgm": "110", "se": [], "voice": false},

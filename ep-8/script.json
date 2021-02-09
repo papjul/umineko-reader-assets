@@ -1,5 +1,5 @@
 {
-    "version": "20210208",
+    "version": "20210209",
     "lang": "en",
 
     "title": "Twilight of the Golden Witch",
@@ -21,7 +21,7 @@
     }, "chapters": {
         "1": {
             "title": {
-                "en": null,
+                "en": "To Rokkenjima",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -93,7 +93,7 @@
                 {"page": "74", "bgm": null, "se": [], "voice": false}]
         }, "2": {
             "title": {
-                "en": null,
+                "en": "Six-Year-Old Ange",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -147,7 +147,7 @@
                 {"page": "52", "bgm": null, "se": [], "voice": false}]
         }, "3": {
             "title": {
-                "en": null,
+                "en": "The Gold Is Returned",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -198,7 +198,7 @@
                 {"page": "48", "bgm": null, "se": [], "voice": false}]
         }, "4": {
             "title": {
-                "en": null,
+                "en": "A Reason to Live",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -242,7 +242,7 @@
                 {"page": "40", "bgm": null, "se": [], "voice": false}]
         }, "5": {
             "title": {
-                "en": null,
+                "en": "Ceremonial Return",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -289,7 +289,7 @@
                 {"page": "45", "bgm": null, "se": [], "voice": false}]
         }, "6": {
             "title": {
-                "en": null,
+                "en": "The Halloween Party (1)",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -341,7 +341,7 @@
                 {"page": "48", "bgm": null, "se": [], "voice": false}]
         }, "7": {
             "title": {
-                "en": null,
+                "en": "The Halloween Party (2)",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -406,7 +406,7 @@
                 {"page": "60", "bgm": null, "se": [], "voice": false}]
         }, "8": {
             "title": {
-                "en": null,
+                "en": "The Halloween Party (3)",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -455,7 +455,7 @@
                 {"page": "44", "bgm": null, "se": [], "voice": false}]
         }, "9": {
             "title": {
-                "en": null,
+                "en": "The Party of Humans and Witches (1)",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -508,7 +508,7 @@
                 {"page": "53", "bgm": null, "se": [], "voice": false}]
         }, "10": {
             "title": {
-                "en": null,
+                "en": "The Party of Humans and Witches (2)",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -568,7 +568,7 @@
                 {"page": "56", "bgm": null, "se": [], "voice": false}]
         }, "11": {
             "title": {
-                "en": null,
+                "en": "Bern’s Question",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -629,7 +629,7 @@
                 {"page": "58", "bgm": null, "se": [], "voice": false}]
         }, "12": {
             "title": {
-                "en": null,
+                "en": "Bern’s Challenge",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -697,7 +697,7 @@
                 {"page": "64", "bgm": null, "se": [], "voice": false}]
         }, "13": {
             "title": {
-                "en": null,
+                "en": "A Late Visitor (1)",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -742,7 +742,7 @@
                 {"page": "43", "bgm": null, "se": [], "voice": false}]
         }, "14": {
             "title": {
-                "en": null,
+                "en": "A Late Visitor (2)",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -789,7 +789,7 @@
                 {"page": "46", "bgm": null, "se": [], "voice": false}]
         }, "15": {
             "title": {
-                "en": null,
+                "en": "A Late Visitor (3)",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -844,7 +844,7 @@
                 {"page": "52-53", "bgm": null, "se": [], "voice": false}]
         }, "16": {
             "title": {
-                "en": null,
+                "en": "Black Cat’s Claw Marks (1)",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -890,7 +890,7 @@
                 {"page": "48-49", "bgm": null, "se": [], "voice": false}]
         }, "17": {
             "title": {
-                "en": null,
+                "en": "Black Cat’s Claw Marks (2)",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -946,7 +946,7 @@
                 {"page": "57", "bgm": null, "se": [], "voice": false}]
         }, "18": {
             "title": {
-                "en": null,
+                "en": "Black Cat’s Claw Marks (3)",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -987,7 +987,7 @@
                 {"page": "38", "bgm": null, "se": [], "voice": false}]
         }, "19": {
             "title": {
-                "en": null,
+                "en": "Black Cat’s Claw Marks ④",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1030,7 +1030,7 @@
                 {"page": "40", "bgm": null, "se": [], "voice": false}]
         }, "20": {
             "title": {
-                "en": null,
+                "en": "Battle in the Chapel (1)",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1085,7 +1085,7 @@
                 {"page": "52", "bgm": null, "se": [], "voice": false}]
         }, "21": {
             "title": {
-                "en": null,
+                "en": "Battle in the Chapel (2)",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1135,7 +1135,7 @@
                 {"page": "49", "bgm": null, "se": [], "voice": false}]
         }, "22": {
             "title": {
-                "en": null,
+                "en": "City of Books",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1192,7 +1192,7 @@
                 {"page": "54-55", "bgm": null, "se": [], "voice": false}]
         }, "23": {
             "title": {
-                "en": null,
+                "en": "In the Golden Land",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1240,7 +1240,7 @@
                 {"page": "44", "bgm": null, "se": [], "voice": false}]
         }, "24": {
             "title": {
-                "en": null,
+                "en": "The Book of the One Truth",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1295,7 +1295,7 @@
                 {"page": "59", "bgm": null, "se": [], "voice": false}]
         }, "24b": {
             "title": {
-                "en": null,
+                "en": "Interlude: Ikuko Hachijō",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1345,7 +1345,7 @@
                 {"page": "49", "bgm": null, "se": [], "voice": false}]
         }, "24c1": {
             "title": {
-                "en": null,
+                "en": "Confession of the Golden Witch (1)",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1397,7 +1397,7 @@
                 {"page": "48", "bgm": null, "se": [], "voice": false}]
         }, "24c2": {
             "title": {
-                "en": null,
+                "en": "Confession of the Golden Witch (2)",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1448,7 +1448,7 @@
                 {"page": "48", "bgm": null, "se": [], "voice": false}]
         }, "24c3": {
             "title": {
-                "en": null,
+                "en": "Confession of the Golden Witch (3)",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1495,7 +1495,7 @@
                 {"page": "45", "bgm": null, "se": [], "voice": false}]
         }, "25": {
             "title": {
-                "en": null,
+                "en": "Cage of Constraints",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1540,7 +1540,7 @@
                 {"page": "44-45", "bgm": null, "se": [], "voice": false}]
         }, "26": {
             "title": {
-                "en": null,
+                "en": "Final Notice",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01","bgm": null,"se":[],"voice": false},
@@ -1586,7 +1586,7 @@
                 {"page": "44-45","bgm": null,"se":[],"voice": false}]
         }, "27": {
             "title": {
-                "en": null,
+                "en": "Detective",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01","bgm": null,"se":[],"voice": false},
@@ -1642,7 +1642,7 @@
                 {"page": "53","bgm": null,"se":[],"voice": false}]
         }, "28": {
             "title": {
-                "en": null,
+                "en": "Opening Hostilities",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01","bgm": null,"se":[],"voice": false},
@@ -1687,7 +1687,7 @@
                 {"page": "43","bgm": null,"se":[],"voice": false}]
         }, "29": {
             "title": {
-                "en": null,
+                "en": "Love-Hate Relationship",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01","bgm": null,"se":[],"voice": false},
@@ -1723,7 +1723,7 @@
                 {"page": "35","bgm": null,"se":[],"voice": false}]
         }, "30": {
             "title": {
-                "en": null,
+                "en": "Violation",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01","bgm": null,"se":[],"voice": false},
@@ -1778,7 +1778,7 @@
                 {"page": "52","bgm": null,"se":[],"voice": false}]
         }, "31": {
             "title": {
-                "en": null,
+                "en": "After the Battle",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01","bgm": null,"se":[],"voice": false},
@@ -1827,7 +1827,7 @@
                 {"page": "50","bgm": null,"se":[],"voice": false}]
         }, "32": {
             "title": {
-                "en": null,
+                "en": "Death",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01","bgm": null,"se":[],"voice": false},
@@ -1877,7 +1877,7 @@
                 {"page": "50-51","bgm": null,"se":[],"voice": false}]
         }, "33": {
             "title": {
-                "en": null,
+                "en": "Resurrection",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01","bgm": null,"se":[],"voice": false},
@@ -1923,7 +1923,7 @@
                 {"page": "54","bgm": null,"se":[],"voice": false}]
         }, "34": {
             "title": {
-                "en": null,
+                "en": "Ange’s Choice",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01","bgm": null,"se":[],"voice": false},
@@ -1962,7 +1962,7 @@
                 {"page": "38-39","bgm": null,"se":[],"voice": false}]
         }, "35": {
             "title": {
-                "en": null,
+                "en": "Beyond the Door — Sleight of Hand, and Then…",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01","bgm": null,"se":[],"voice": false},
@@ -2012,7 +2012,7 @@
                 {"page": "48","bgm": null,"se":[],"voice": false}]
         }, "36": {
             "title": {
-                "en": null,
+                "en": "Beyond the Door — Magic",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01","bgm": null,"se":[],"voice": false},
@@ -2055,7 +2055,7 @@
                 {"page": "40","bgm": null,"se":[],"voice": false}]
         }, "37": {
             "title": {
-                "en": null,
+                "en": "When the Seagulls Cry",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01","bgm": null,"se":[],"voice": false},
@@ -2136,10 +2136,70 @@
                 {"page": "82-83","bgm": null,"se":[],"voice": false}]
         }, "38": {
             "title": {
-                "en": null,
+                "en": "The Golden Land",
                 "fr": null,
                 "zh": null
-            }, "pages": []
+            }, "pages": [{"page": "01","bgm": null,"se":[],"voice": false},
+                {"page": "02","bgm": null,"se":[],"voice": false},
+                {"page": "03","bgm": null,"se":[],"voice": false},
+                {"page": "04","bgm": null,"se":[],"voice": false},
+                {"page": "05","bgm": null,"se":[],"voice": false},
+                {"page": "06","bgm": null,"se":[],"voice": false},
+                {"page": "07","bgm": null,"se":[],"voice": false},
+                {"page": "08","bgm": null,"se":[],"voice": false},
+                {"page": "09","bgm": null,"se":[],"voice": false},
+                {"page": "10","bgm": null,"se":[],"voice": false},
+                {"page": "11","bgm": null,"se":[],"voice": false},
+                {"page": "12","bgm": null,"se":[],"voice": false},
+                {"page": "13","bgm": null,"se":[],"voice": false},
+                {"page": "14","bgm": null,"se":[],"voice": false},
+                {"page": "15","bgm": null,"se":[],"voice": false},
+                {"page": "16","bgm": null,"se":[],"voice": false},
+                {"page": "17","bgm": null,"se":[],"voice": false},
+                {"page": "18","bgm": null,"se":[],"voice": false},
+                {"page": "19","bgm": null,"se":[],"voice": false},
+                {"page": "20","bgm": null,"se":[],"voice": false},
+                {"page": "21","bgm": null,"se":[],"voice": false},
+                {"page": "22","bgm": null,"se":[],"voice": false},
+                {"page": "23","bgm": null,"se":[],"voice": false},
+                {"page": "24","bgm": null,"se":[],"voice": false},
+                {"page": "25","bgm": null,"se":[],"voice": false},
+                {"page": "26","bgm": null,"se":[],"voice": false},
+                {"page": "27","bgm": null,"se":[],"voice": false},
+                {"page": "28","bgm": null,"se":[],"voice": false},
+                {"page": "29","bgm": null,"se":[],"voice": false},
+                {"page": "30","bgm": null,"se":[],"voice": false},
+                {"page": "31","bgm": null,"se":[],"voice": false},
+                {"page": "32","bgm": null,"se":[],"voice": false},
+                {"page": "33","bgm": null,"se":[],"voice": false},
+                {"page": "34","bgm": null,"se":[],"voice": false},
+                {"page": "35-36","bgm": null,"se":[],"voice": false},
+                {"page": "37","bgm": null,"se":[],"voice": false},
+                {"page": "38","bgm": null,"se":[],"voice": false},
+                {"page": "39","bgm": null,"se":[],"voice": false},
+                {"page": "40","bgm": null,"se":[],"voice": false},
+                {"page": "41","bgm": null,"se":[],"voice": false},
+                {"page": "42","bgm": null,"se":[],"voice": false},
+                {"page": "43","bgm": null,"se":[],"voice": false},
+                {"page": "44","bgm": null,"se":[],"voice": false},
+                {"page": "45","bgm": null,"se":[],"voice": false},
+                {"page": "46","bgm": null,"se":[],"voice": false},
+                {"page": "47-48","bgm": null,"se":[],"voice": false},
+                {"page": "49","bgm": null,"se":[],"voice": false},
+                {"page": "50","bgm": null,"se":[],"voice": false},
+                {"page": "51","bgm": null,"se":[],"voice": false},
+                {"page": "52","bgm": null,"se":[],"voice": false},
+                {"page": "53","bgm": null,"se":[],"voice": false},
+                {"page": "54","bgm": null,"se":[],"voice": false},
+                {"page": "55","bgm": null,"se":[],"voice": false},
+                {"page": "56","bgm": null,"se":[],"voice": false},
+                {"page": "57-58","bgm": null,"se":[],"voice": false},
+                {"page": "59","bgm": null,"se":[],"voice": false},
+                {"page": "60","bgm": null,"se":[],"voice": false},
+                {"page": "61","bgm": null,"se":[],"voice": false},
+                {"page": "62","bgm": null,"se":[],"voice": false},
+                {"page": "63-64","bgm": null,"se":[],"voice": false},
+                {"page": "65","bgm": null,"se":[],"voice": false}]
         }
     }
 }

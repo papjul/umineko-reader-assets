@@ -1,5 +1,5 @@
 {
-    "version": "20210208",
+    "version": "20210209",
     "lang": "en",
 
     "title": "Dawn of the Golden Witch",
@@ -18,8 +18,8 @@
     }, "chapters": {
         "1": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "The Sixth Game",
+                "fr": "La sixième partie",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "135", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "135", "se": [], "voice": false},
@@ -84,8 +84,8 @@
                 {"page": "71", "bgm": "013", "se": [], "voice": false}]
         }, "2": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Fledgling",
+                "fr": "Oisillon",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "139", "se": [], "voice": false},
                 {"page": "02", "bgm": "139", "se": [], "voice": false},
@@ -143,8 +143,8 @@
                 {"page": "58", "bgm": "009", "se": [], "voice": false}]
         }, "3": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Confession",
+                "fr": "Confession",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "140", "se": [], "voice": false},
                 {"page": "02", "bgm": "140", "se": [], "voice": false},
@@ -197,8 +197,8 @@
                 {"page": "52", "bgm": "126", "se": ["003", "005", "013"], "voice": false}]
         }, "4": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Beato’s Existence",
+                "fr": "L’existence de Beato",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "114", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "114", "se": [], "voice": false},
@@ -262,8 +262,8 @@
                 {"page": "62", "bgm": "114", "se": [], "voice": false}]
         }, "5": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "The Wedges of Blue Truth",
+                "fr": "Les entraves de la vérité bleue",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": "139", "se": [], "voice": false},
@@ -327,8 +327,8 @@
                 {"page": "62", "bgm": "025", "se": ["012"], "voice": false}]
         }, "6": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "As Each Grows",
+                "fr": "Chacun grandit à son rythme",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": ["012"], "voice": false},
                 {"page": "02", "bgm": "111", "se": [], "voice": false},
@@ -391,8 +391,8 @@
                 {"page": "60", "bgm": "082", "se": [], "voice": false}]
         }, "7": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "A Different Interpretation of Magic",
+                "fr": "La magie de l’interprétation",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "082", "se": [], "voice": false},
                 {"page": "02", "bgm": "082", "se": [], "voice": false},
@@ -449,8 +449,8 @@
                 {"page": "54", "bgm": "142", "se": [], "voice": false}]
         }, "8": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Trial of Lovers",
+                "fr": "L’épreuve des amants",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "043", "se": [], "voice": false},
                 {"page": "02", "bgm": "043", "se": [], "voice": false},
@@ -518,8 +518,8 @@
                 {"page": "66", "bgm": "142", "se": [], "voice": false}]
         }, "9": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Opening",
+                "fr": "Lever de rideau",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": ["005", "012"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["005", "012"], "voice": false},
@@ -580,8 +580,8 @@
                 {"page": "62", "bgm": null, "se": ["005", "012"], "voice": false}]
         }, "10": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Absolute Will",
+                "fr": "Une Volonté inébranlable",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": ["005", "012"], "voice": false},
                 {"page": "02-03", "bgm": "106", "se": [], "voice": false},
@@ -641,8 +641,8 @@
                 {"page": "59", "bgm": null, "se": ["005"], "voice": false}]
         }, "11": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "The Hell of Love",
+                "fr": "L’enfer amoureux",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": ["005"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["005"], "voice": false},
@@ -702,8 +702,8 @@
                 {"page": "60", "bgm": "065", "se": [], "voice": false}]
         }, "12": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Two in One",
+                "fr": "Deux contre un",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "065", "se": [], "voice": false},
                 {"page": "02", "bgm": "065", "se": [], "voice": false},
@@ -757,8 +757,8 @@
                 {"page": "58", "bgm": "131", "se": [], "voice": false}]
         }, "13": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Detective’s Privileges and the Premise of Magic",
+                "fr": "L’autorité du détective et les prérequis de la magie",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "001", "se": [], "voice": false},
                 {"page": "02", "bgm": "001", "se": [], "voice": false},
@@ -821,8 +821,8 @@
                 {"page": "60", "bgm": "044", "se": [], "voice": false}]
         }, "14": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Battle of Red and Blue",
+                "fr": "Bataille de bleu et de rouge",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "034", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "034", "se": [], "voice": false},
@@ -890,8 +890,8 @@
                 {"page": "63-64", "bgm": "130", "se": [], "voice": false}]
         }, "15": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Arrogance and a Trap",
+                "fr": "Un cadeau et un piège",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "043", "se": [], "voice": false},
                 {"page": "02", "bgm": "043", "se": [], "voice": false},
@@ -947,8 +947,8 @@
                 {"page": "56", "bgm": "144", "se": [], "voice": false}]
         }, "16": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "A Tiny Seam",
+                "fr": "A Tiny Seam",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "032", "se": ["013"], "voice": false},
                 {"page": "02", "bgm": "032", "se": ["013"], "voice": false},
@@ -1016,8 +1016,8 @@
                 {"page": "66", "bgm": "044", "se": [], "voice": false}]
         }, "17": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Battler’s Counter",
+                "fr": "Battler’s Counter",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "019", "se": [], "voice": false},
                 {"page": "02", "bgm": "019", "se": [], "voice": false},
@@ -1068,8 +1068,8 @@
                 {"page": "52", "bgm": "028", "se": [], "voice": false}]
         }, "18": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "The Skirmish Over Battler’s Disappearance",
+                "fr": "The Skirmish Over Battler’s Disappearance",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "028", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "028", "se": [], "voice": false},
@@ -1133,8 +1133,8 @@
                 {"page": "65", "bgm": "148", "se": [], "voice": false}]
         }, "19": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Erika’s Trap",
+                "fr": "Erika’s Trap",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "148", "se": [], "voice": false},
                 {"page": "02", "bgm": "148", "se": [], "voice": false},
@@ -1200,8 +1200,8 @@
                 {"page": "66", "bgm": "116", "se": [], "voice": false}]
         }, "20": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "The Prize for Victory",
+                "fr": "The Prize for Victory",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "142", "se": [], "voice": false},
                 {"page": "02", "bgm": "142", "se": [], "voice": false},
@@ -1273,8 +1273,8 @@
                 {"page": "66", "bgm": "146", "se": ["024"], "voice": false}]
         }, "21": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Ceremony and Duel",
+                "fr": "Ceremony and Duel",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "146", "se": [], "voice": false},
                 {"page": "02", "bgm": "146", "se": [], "voice": false},
@@ -1346,8 +1346,8 @@
                 {"page": "70", "bgm": null, "se": [], "voice": true}]
         }, "22": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Into One…",
+                "fr": "Into One…",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": "149", "se": ["005"], "voice": false},
@@ -1404,8 +1404,8 @@
                 {"page": "59", "bgm": "151", "se": [], "voice": false}]
         }, "23": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Detective’s Pride",
+                "fr": "Detective’s Pride",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "151", "se": [], "voice": false},
                 {"page": "02", "bgm": "151", "se": [], "voice": false},
@@ -1474,8 +1474,8 @@
                 {"page": "70-71", "bgm": "155", "se": [], "voice": false}]
         }, "24": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Conclusion",
+                "fr": "Conclusion",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "155", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "155", "se": [], "voice": false},
@@ -1547,8 +1547,8 @@
                 {"page": "78-79", "bgm": "160", "se": [], "voice": false}]
         }, "25": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Tea Party",
+                "fr": "Pause thé",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "148", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "148", "se": [], "voice": false},
@@ -1594,8 +1594,8 @@
                 {"page": "44", "bgm": "158", "se": [], "voice": false}]
         }, "26": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Secret Tea Party",
+                "fr": "Pause thé secrète",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": ["015"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["005"], "voice": false},

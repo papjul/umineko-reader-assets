@@ -1,5 +1,5 @@
 {
-    "version": "20210204",
+    "version": "20210209",
     "lang": "en",
 
     "title": "Legend of the Golden Witch",
@@ -16,7 +16,7 @@
     }, "chapters": {
         "1": {
             "title": {
-                "en": null,
+                "en": "Rokkenjima",
                 "fr": "Rokkenjima",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "013", "se": [], "voice": true},
@@ -49,8 +49,8 @@
                 {"page": "30", "bgm": null, "se": ["005"], "voice": false}]
         }, "2": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "The Legend of the Witch",
+                "fr": "La légende de la sorcière",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "007", "se": [], "voice": false},
                 {"page": "02", "bgm": "007", "se": [], "voice": false},
@@ -90,8 +90,8 @@
                 {"page": "40", "bgm": "001", "se": [], "voice": false}]
         }, "3": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "The Golden Witch",
+                "fr": "La sorcière dorée",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "012", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "012", "se": [], "voice": false},
@@ -153,8 +153,8 @@
                 {"page": "63-64", "bgm": "013", "se": [], "voice": false}]
         }, "4": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "The Golden Epitaph",
+                "fr": "L’inscription dorée",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "008", "se": [], "voice": false},
                 {"page": "02", "bgm": "008", "se": [], "voice": false},
@@ -213,8 +213,8 @@
                 {"page": "58", "bgm": "018", "se": ["005", "012"], "voice": false}]
         }, "5": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Letter from a Witch",
+                "fr": "La lettre de la sorcière",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "018", "se": ["005", "012"], "voice": false},
                 {"page": "02", "bgm": "018", "se": ["005", "012"], "voice": false},
@@ -269,8 +269,8 @@
                 {"page": "53", "bgm": null, "se": ["012"], "voice": false}]
         }, "6": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "The Eternal Promise",
+                "fr": "La promesse éternelle",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": ["012"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["012"], "voice": false},
@@ -319,8 +319,8 @@
                 {"page": "46-47", "bgm": "023", "se": ["019"], "voice": false}]
         }, "7": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "The First Night ①",
+                "fr": "Le premier crépuscule ①",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": ["012"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["005", "013"], "voice": false},
@@ -375,8 +375,8 @@
                 {"page": "56-57", "bgm": "024", "se": [], "voice": true}]
         }, "8": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "The First Night ②",
+                "fr": "Le premier crépuscule ②",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "024", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "024", "se": [], "voice": false},
@@ -426,8 +426,8 @@
                 {"page": "49", "bgm": null, "se": ["011"], "voice": false}]
         }, "9": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "The Witch’s Sacrifices",
+                "fr": "Les sacrifices de la sorcière",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": ["011"], "voice": false},
                 {"page": "02", "bgm": "026", "se": [], "voice": false},
@@ -478,8 +478,8 @@
                 {"page": "50", "bgm": "019", "se": [], "voice": false}]
         }, "10": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Witch without a Form",
+                "fr": "La sorcière sans forme",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "019", "se": [], "voice": false},
                 {"page": "02", "bgm": "019", "se": [], "voice": false},
@@ -519,8 +519,8 @@
                 {"page": "36-37", "bgm": "026", "se": ["005"], "voice": false}]
         }, "11": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "The Invisible Witch",
+                "fr": "La sorcière invisible",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "026", "se": ["005"], "voice": false},
                 {"page": "02", "bgm": "026", "se": ["005"], "voice": false},
@@ -560,8 +560,8 @@
                 {"page": "38-39", "bgm": "018", "se": ["005", "012"], "voice": false}]
         }, "12": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Eva vs. Natsuhi",
+                "fr": "Eva contre Natsuhi",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "018", "se": ["005", "012"], "voice": false},
                 {"page": "02", "bgm": "018", "se": ["005", "012"], "voice": false},
@@ -613,8 +613,8 @@
                 {"page": "50", "bgm": "031", "se": ["013"], "voice": false}]
         }, "13": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Battler vs. Eva",
+                "fr": "Battler contre Eva",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "031", "se": ["013"], "voice": false},
                 {"page": "02", "bgm": "029", "se": [], "voice": false},
@@ -657,8 +657,8 @@
                 {"page": "40-41", "bgm": null, "se": ["005", "013"], "voice": false}]
         }, "14": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "The Second Night ①",
+                "fr": "Le deuxième crépuscule ①",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
@@ -699,8 +699,8 @@
                 {"page": "38-39", "bgm": "024", "se": [], "voice": false}]
         }, "15": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "The Second Night ②",
+                "fr": "Le deuxième crépuscule ②",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "024", "se": [], "voice": false},
                 {"page": "02", "bgm": "024", "se": [], "voice": false},
@@ -744,8 +744,8 @@
                 {"page": "40", "bgm": null, "se": ["005", "021"], "voice": false}]
         }, "16": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Kanon vs. Beatrice",
+                "fr": "Kanon contre la sorcière",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": ["005"], "voice": false},
                 {"page": "02", "bgm": "028", "se": [], "voice": false},
@@ -799,8 +799,8 @@
                 {"page": "53", "bgm": "017", "se": ["014"], "voice": false}]
         }, "17": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Chessboard Logic",
+                "fr": "Raisonnement d’échiquier",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": ["012"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["012"], "voice": false},
@@ -855,8 +855,8 @@
                 {"page": "52-53", "bgm": "026", "se": ["005"], "voice": false}]
         }, "18": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Confinement",
+                "fr": "Barricade",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": ["011"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["011"], "voice": false},
@@ -904,8 +904,8 @@
                 {"page": "46", "bgm": "036", "se": ["005", "013"], "voice": false}]
         }, "19": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Separation",
+                "fr": "Séparation",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": ["011"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["011"], "voice": false},
@@ -944,8 +944,8 @@
                 {"page": "37", "bgm": "038", "se": [], "voice": false}]
         }, "20": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Discord",
+                "fr": "Discorde",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "038", "se": [], "voice": false},
                 {"page": "02", "bgm": "038", "se": ["005"], "voice": false},
@@ -1001,8 +1001,8 @@
                 {"page": "55", "bgm": "024", "se": ["013", "maria_v"], "voice": false}]
         }, "21": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Golden Land",
+                "fr": "Le pays doré",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "024", "se": ["005", "013"], "voice": false},
                 {"page": "02", "bgm": "024", "se": ["005", "013"], "voice": false},
@@ -1058,8 +1058,8 @@
                 {"page": "61", "bgm": "bring_the_fate", "se": [], "voice": false}]
         }, "22": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Tea Party",
+                "fr": "Pause thé",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02-03", "bgm": "040", "se": [], "voice": false},
@@ -1120,8 +1120,8 @@
                 {"page": "62", "bgm": "041", "se": [], "voice": false}]
         }, "23": {
             "title": {
-                "en": null,
-                "fr": null,
+                "en": "Secret Tea Party",
+                "fr": "Pause thé secrète",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "040", "se": [], "voice": false},
                 {"page": "02", "bgm": "040", "se": [], "voice": false},
