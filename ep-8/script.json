@@ -1,5 +1,5 @@
 {
-    "version": "20210209",
+    "version": "20210209b",
     "lang": "en",
 
     "title": "Twilight of the Golden Witch",
@@ -289,7 +289,7 @@
                 {"page": "45", "bgm": null, "se": [], "voice": false}]
         }, "6": {
             "title": {
-                "en": "The Halloween Party (1)",
+                "en": "The Halloween Party ①",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -341,7 +341,7 @@
                 {"page": "48", "bgm": null, "se": [], "voice": false}]
         }, "7": {
             "title": {
-                "en": "The Halloween Party (2)",
+                "en": "The Halloween Party ②",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -406,7 +406,7 @@
                 {"page": "60", "bgm": null, "se": [], "voice": false}]
         }, "8": {
             "title": {
-                "en": "The Halloween Party (3)",
+                "en": "The Halloween Party ③",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -455,7 +455,7 @@
                 {"page": "44", "bgm": null, "se": [], "voice": false}]
         }, "9": {
             "title": {
-                "en": "The Party of Humans and Witches (1)",
+                "en": "The Party of Humans and Witches ①",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -508,7 +508,7 @@
                 {"page": "53", "bgm": null, "se": [], "voice": false}]
         }, "10": {
             "title": {
-                "en": "The Party of Humans and Witches (2)",
+                "en": "The Party of Humans and Witches ②",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -697,7 +697,7 @@
                 {"page": "64", "bgm": null, "se": [], "voice": false}]
         }, "13": {
             "title": {
-                "en": "A Late Visitor (1)",
+                "en": "A Late Visitor ①",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -742,7 +742,7 @@
                 {"page": "43", "bgm": null, "se": [], "voice": false}]
         }, "14": {
             "title": {
-                "en": "A Late Visitor (2)",
+                "en": "A Late Visitor ②",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -789,7 +789,7 @@
                 {"page": "46", "bgm": null, "se": [], "voice": false}]
         }, "15": {
             "title": {
-                "en": "A Late Visitor (3)",
+                "en": "A Late Visitor ③",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -844,7 +844,7 @@
                 {"page": "52-53", "bgm": null, "se": [], "voice": false}]
         }, "16": {
             "title": {
-                "en": "Black Cat’s Claw Marks (1)",
+                "en": "Black Cat’s Claw Marks ①",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -890,7 +890,7 @@
                 {"page": "48-49", "bgm": null, "se": [], "voice": false}]
         }, "17": {
             "title": {
-                "en": "Black Cat’s Claw Marks (2)",
+                "en": "Black Cat’s Claw Marks ②",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -946,7 +946,7 @@
                 {"page": "57", "bgm": null, "se": [], "voice": false}]
         }, "18": {
             "title": {
-                "en": "Black Cat’s Claw Marks (3)",
+                "en": "Black Cat’s Claw Marks ③",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1030,7 +1030,7 @@
                 {"page": "40", "bgm": null, "se": [], "voice": false}]
         }, "20": {
             "title": {
-                "en": "Battle in the Chapel (1)",
+                "en": "Battle in the Chapel ①",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1085,7 +1085,7 @@
                 {"page": "52", "bgm": null, "se": [], "voice": false}]
         }, "21": {
             "title": {
-                "en": "Battle in the Chapel (2)",
+                "en": "Battle in the Chapel ②",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1345,7 +1345,7 @@
                 {"page": "49", "bgm": null, "se": [], "voice": false}]
         }, "24c1": {
             "title": {
-                "en": "Confession of the Golden Witch (1)",
+                "en": "Confession of the Golden Witch ①",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1397,7 +1397,7 @@
                 {"page": "48", "bgm": null, "se": [], "voice": false}]
         }, "24c2": {
             "title": {
-                "en": "Confession of the Golden Witch (2)",
+                "en": "Confession of the Golden Witch ②",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1448,7 +1448,7 @@
                 {"page": "48", "bgm": null, "se": [], "voice": false}]
         }, "24c3": {
             "title": {
-                "en": "Confession of the Golden Witch (3)",
+                "en": "Confession of the Golden Witch ③",
                 "fr": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
