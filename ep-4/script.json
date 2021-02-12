@@ -1,5 +1,5 @@
 {
-    "version": "20210204",
+    "version": "20210212",
     "lang": "en",
 
     "title": "Alliance of the Golden Witch",
@@ -7,7 +7,7 @@
     "translations": {
         "en": [],
         "fr": [{"name": "MiamMiamTeam", "url": "https://miammiam-team.org/"}],
-        "zh": []
+        "zh": [{"name": "四魂制作组", "url": null}]
     }, "volumes": {
         "1": ["1", "2", "3", "4"],
         "2": ["5", "6", "7", "8", "9"],
@@ -20,7 +20,7 @@
             "title": {
                 "en": "One-Winged Eagle",
                 "fr": "L’aigle à une aile",
-                "zh": null
+                "zh": "独羽之鹫"
             }, "pages": [{"page": "01", "bgm": "004", "se": [], "voice": false},
                 {"page": "02", "bgm": "004", "se": [], "voice": false},
                 {"page": "03", "bgm": "002", "se": [], "voice": false},
@@ -89,7 +89,7 @@
             "title": {
                 "en": "Magic",
                 "fr": "Magie",
-                "zh": null
+                "zh": "魔法"
             }, "pages": [{"page": "01", "bgm": "090", "se": [], "voice": false},
                 {"page": "02", "bgm": "090", "se": [], "voice": false},
                 {"page": "03", "bgm": "090", "se": [], "voice": false},
@@ -145,7 +145,7 @@
             "title": {
                 "en": "It Is the One Element",
                 "fr": "C’est l’élément unique",
-                "zh": null
+                "zh": "那是第一元素"
             }, "pages": [{"page": "01", "bgm": "001", "se": [], "voice": false},
                 {"page": "02", "bgm": "001", "se": [], "voice": false},
                 {"page": "03", "bgm": "001", "se": [], "voice": false},
@@ -204,7 +204,7 @@
             "title": {
                 "en": "Truth Is Like a Kaleidoscope",
                 "fr": "La vérité est un kaléidoscope",
-                "zh": null
+                "zh": "真实如同万华镜"
             }, "pages": [{"page": "01", "bgm": "086", "se": [], "voice": false},
                 {"page": "02", "bgm": "086", "se": [], "voice": false},
                 {"page": "03", "bgm": "086", "se": [], "voice": false},
@@ -261,7 +261,7 @@
             "title": {
                 "en": "Beatrice",
                 "fr": "Beatrice",
-                "zh": null
+                "zh": "贝阿朵莉切"
             }, "pages": [{"page": "01", "bgm": "001", "se": [], "voice": false},
                 {"page": "02", "bgm": "001", "se": [], "voice": false},
                 {"page": "03", "bgm": "001", "se": [], "voice": false},
@@ -299,7 +299,7 @@
             "title": {
                 "en": "Mariage Sorcière",
                 "fr": "Mariage Sorcière",
-                "zh": null
+                "zh": "Mariage Sorcière"
             }, "pages": [{"page": "01", "bgm": "082", "se": [], "voice": false},
                 {"page": "02", "bgm": "082", "se": [], "voice": false},
                 {"page": "03", "bgm": "082", "se": [], "voice": false},
@@ -358,7 +358,7 @@
             "title": {
                 "en": "Two Butterflies",
                 "fr": "Deux papillons",
-                "zh": null
+                "zh": "两只蝴蝶"
             }, "pages": [{"page": "01", "bgm": "093", "se": [], "voice": false},
                 {"page": "02", "bgm": "093", "se": [], "voice": false},
                 {"page": "03", "bgm": "093", "se": [], "voice": false},
@@ -397,7 +397,7 @@
             "title": {
                 "en": "The Miracle of Magic",
                 "fr": "Le miracle de la magie",
-                "zh": null
+                "zh": "魔法的奇迹"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -438,7 +438,7 @@
             "title": {
                 "en": "Reunion",
                 "fr": "Réouverture",
-                "zh": null
+                "zh": "再开"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -498,7 +498,7 @@
             "title": {
                 "en": "Opening",
                 "fr": "Lever de rideau",
-                "zh": null
+                "zh": "开幕"
             }, "pages": [{"page": "01", "bgm": "061", "se": [], "voice": false},
                 {"page": "02", "bgm": "082", "se": [], "voice": false},
                 {"page": "03", "bgm": "082", "se": [], "voice": false},
@@ -553,7 +553,7 @@
             "title": {
                 "en": "Mother",
                 "fr": "Mère",
-                "zh": null
+                "zh": "母亲"
             }, "pages": [{"page": "01", "bgm": "047", "se": [], "voice": false},
                 {"page": "02", "bgm": "014", "se": [], "voice": false},
                 {"page": "03", "bgm": "014", "se": [], "voice": false},
@@ -611,7 +611,7 @@
             "title": {
                 "en": "The End of the Daydream",
                 "fr": "Fin du rêve éveillé",
-                "zh": null
+                "zh": "白日梦的完结"
             }, "pages": [{"page": "01", "bgm": "043", "se": [], "voice": false},
                 {"page": "02", "bgm": "043", "se": [], "voice": false},
                 {"page": "03", "bgm": "043", "se": [], "voice": false},
@@ -666,7 +666,7 @@
             "title": {
                 "en": "Sakutarō",
                 "fr": "Sakutarō",
-                "zh": null
+                "zh": "樱太郎"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": "091", "se": [], "voice": false},
                 {"page": "03", "bgm": "091", "se": [], "voice": false},
@@ -726,7 +726,7 @@
             "title": {
                 "en": "The First Night",
                 "fr": "Le premier crépuscule",
-                "zh": null
+                "zh": "第一晚"
             }, "pages": [{"page": "01", "bgm": null, "se": ["005", "013"], "voice": false},
                 {"page": "02", "bgm": "018", "se": ["005", "013"], "voice": false},
                 {"page": "03", "bgm": "021", "se": ["005", "013"], "voice": false},
@@ -775,7 +775,7 @@
             "title": {
                 "en": "Evil",
                 "fr": "Mère démoniaque",
-                "zh": null
+                "zh": "魔"
             }, "pages": [{"page": "01", "bgm": "024", "se": [], "voice": false},
                 {"page": "02", "bgm": "024", "se": [], "voice": false},
                 {"page": "03", "bgm": "024", "se": [], "voice": false},
@@ -843,7 +843,7 @@
             "title": {
                 "en": "Future Heir",
                 "fr": "Le prochain chef",
-                "zh": null
+                "zh": "下任当主"
             }, "pages": [{"page": "01b", "bgm": "040", "se": ["005", "013"], "voice": false},
                 {"page": "02", "bgm": "040", "se": ["005", "013"], "voice": false},
                 {"page": "03", "bgm": "036", "se": ["012"], "voice": false},
@@ -881,7 +881,7 @@
             "title": {
                 "en": "Absolute Determination",
                 "fr": "Expansion",
-                "zh": null
+                "zh": "绝对的意志"
             }, "pages": [{"page": "01", "bgm": "099", "se": [], "voice": false},
                 {"page": "02", "bgm": "099", "se": [], "voice": false},
                 {"page": "03", "bgm": "099", "se": [], "voice": false},
@@ -929,7 +929,7 @@
             "title": {
                 "en": "Battle",
                 "fr": "Attaque et défense",
-                "zh": null
+                "zh": "攻防"
             }, "pages": [{"page": "01", "bgm": "102", "se": [], "voice": false},
                 {"page": "02", "bgm": "102", "se": [], "voice": false},
                 {"page": "03", "bgm": "102", "se": [], "voice": false},
@@ -969,7 +969,7 @@
             "title": {
                 "en": "The End of the Feast",
                 "fr": "Fin du banquet",
-                "zh": null
+                "zh": "宴会的终焉"
             }, "pages": [{"page": "01", "bgm": "096", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "096", "se": [], "voice": false},
                 {"page": "04", "bgm": "096", "se": [], "voice": false},
@@ -1019,7 +1019,7 @@
             "title": {
                 "en": "Mission",
                 "fr": "Mission",
-                "zh": null
+                "zh": "使命"
             }, "pages": [{"page": "01", "bgm": null, "se": ["003"], "voice": false},
                 {"page": "02", "bgm": "001", "se": ["003"], "voice": false},
                 {"page": "03", "bgm": "001", "se": ["003"], "voice": false},
@@ -1070,7 +1070,7 @@
             "title": {
                 "en": "Sin",
                 "fr": "Crime",
-                "zh": null
+                "zh": "罪"
             }, "pages": [{"page": "01", "bgm": "104", "se": [], "voice": false},
                 {"page": "02", "bgm": "104", "se": [], "voice": false},
                 {"page": "03", "bgm": "104", "se": [], "voice": false},
@@ -1109,7 +1109,7 @@
             "title": {
                 "en": "Battler Ushiromiya?",
                 "fr": "Battler Ushiromiya ?",
-                "zh": null
+                "zh": "右代宫战人？"
             }, "pages": [{"page": "01", "bgm": "019", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "019", "se": [], "voice": false},
                 {"page": "04", "bgm": "019", "se": [], "voice": false},
@@ -1165,7 +1165,7 @@
             "title": {
                 "en": "It Can’t Be Seen Without Love",
                 "fr": "Sans amour, on ne peut la voir",
-                "zh": null
+                "zh": "没有爱就看不到"
             }, "pages": [{"page": "01", "bgm": "001", "se": ["003"], "voice": false},
                 {"page": "02", "bgm": "001", "se": ["003"], "voice": false},
                 {"page": "03", "bgm": "001", "se": ["003"], "voice": false},
@@ -1207,7 +1207,7 @@
             "title": {
                 "en": "Black and White",
                 "fr": "Noir et blanc",
-                "zh": null
+                "zh": "白与黑"
             }, "pages": [{"page": "01", "bgm": "082", "se": [], "voice": false},
                 {"page": "02", "bgm": "082", "se": [], "voice": false},
                 {"page": "03", "bgm": "082", "se": [], "voice": false},
@@ -1250,7 +1250,7 @@
             "title": {
                 "en": "Conclusion",
                 "fr": "Conclusion",
-                "zh": null
+                "zh": "结束"
             }, "pages": [{"page": "01", "bgm": "105", "se": [], "voice": false},
                 {"page": "02", "bgm": "105", "se": [], "voice": false},
                 {"page": "03", "bgm": "105", "se": [], "voice": false},
@@ -1306,7 +1306,7 @@
             "title": {
                 "en": "Ange Ushiromiya",
                 "fr": "Ange Ushiromiya",
-                "zh": null
+                "zh": "右代宫缘寿"
             }, "pages": [{"page": "01", "bgm": "106", "se": [], "voice": false},
                 {"page": "02", "bgm": "106", "se": [], "voice": false},
                 {"page": "03", "bgm": "106", "se": [], "voice": false},
@@ -1370,7 +1370,7 @@
             "title": {
                 "en": "Tea Party ①",
                 "fr": "Pause thé ①",
-                "zh": null
+                "zh": "茶会①"
             }, "pages": [{"page": "01", "bgm": "038", "se": ["012"], "voice": false},
                 {"page": "02", "bgm": "038", "se": ["012"], "voice": false},
                 {"page": "03", "bgm": "038", "se": ["012"], "voice": false},
@@ -1407,7 +1407,7 @@
             "title": {
                 "en": "Tea Party ②",
                 "fr": "Pause thé ②",
-                "zh": null
+                "zh": "茶会②"
             }, "pages": [{"page": "01", "bgm": "106", "se": [], "voice": false},
                 {"page": "02", "bgm": "106", "se": [], "voice": false},
                 {"page": "03", "bgm": "106", "se": [], "voice": false},
@@ -1472,7 +1472,7 @@
             "title": {
                 "en": "Secret Tea Party",
                 "fr": "Pause thé secrète",
-                "zh": null
+                "zh": "里茶会"
             }, "pages": [{"page": "01", "bgm": "110", "se": [], "voice": false},
                 {"page": "02", "bgm": "110", "se": [], "voice": false},
                 {"page": "03", "bgm": "110", "se": [], "voice": false},

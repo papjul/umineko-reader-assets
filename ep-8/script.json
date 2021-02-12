@@ -1,5 +1,5 @@
 {
-    "version": "20210209b",
+    "version": "20210212",
     "lang": "en",
 
     "title": "Twilight of the Golden Witch",
@@ -7,7 +7,7 @@
     "translations": {
         "en": [],
         "fr": [{"name": "MiamMiamTeam", "url": "https://miammiam-team.org/"}],
-        "zh": []
+        "zh": [{"name": "四魂制作组", "url": null}]
     }, "volumes": {
         "1": ["1", "2", "3", "4", "5"],
         "2": ["6", "7", "8", "9", "10"],
@@ -23,7 +23,7 @@
             "title": {
                 "en": "To Rokkenjima",
                 "fr": null,
-                "zh": null
+                "zh": "前往六轩岛"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02-03", "bgm": null, "se": [], "voice": false},
                 {"page": "04", "bgm": null, "se": [], "voice": false},
@@ -95,7 +95,7 @@
             "title": {
                 "en": "Six-Year-Old Ange",
                 "fr": null,
-                "zh": null
+                "zh": "6岁的缘寿"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -149,7 +149,7 @@
             "title": {
                 "en": "The Gold Is Returned",
                 "fr": null,
-                "zh": null
+                "zh": "黄金的归还"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -200,7 +200,7 @@
             "title": {
                 "en": "A Reason to Live",
                 "fr": null,
-                "zh": null
+                "zh": "活下去的目的"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -244,7 +244,7 @@
             "title": {
                 "en": "Ceremonial Return",
                 "fr": null,
-                "zh": null
+                "zh": "归还仪式"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -291,7 +291,7 @@
             "title": {
                 "en": "The Halloween Party ①",
                 "fr": null,
-                "zh": null
+                "zh": "万圣节宴会①"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -343,7 +343,7 @@
             "title": {
                 "en": "The Halloween Party ②",
                 "fr": null,
-                "zh": null
+                "zh": "万圣节宴会②"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -408,7 +408,7 @@
             "title": {
                 "en": "The Halloween Party ③",
                 "fr": null,
-                "zh": null
+                "zh": "万圣节宴会③"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -457,7 +457,7 @@
             "title": {
                 "en": "The Party of Humans and Witches ①",
                 "fr": null,
-                "zh": null
+                "zh": "人类与魔女的聚会①"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -510,7 +510,7 @@
             "title": {
                 "en": "The Party of Humans and Witches ②",
                 "fr": null,
-                "zh": null
+                "zh": "人类与魔女的聚会②"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -570,7 +570,7 @@
             "title": {
                 "en": "Bern’s Question",
                 "fr": null,
-                "zh": null
+                "zh": "贝伦的出题"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -631,7 +631,7 @@
             "title": {
                 "en": "Bern’s Challenge",
                 "fr": null,
-                "zh": null
+                "zh": "贝伦的挑战"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -699,7 +699,7 @@
             "title": {
                 "en": "A Late Visitor ①",
                 "fr": null,
-                "zh": null
+                "zh": "迟来的来访者①"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -744,7 +744,7 @@
             "title": {
                 "en": "A Late Visitor ②",
                 "fr": null,
-                "zh": null
+                "zh": "迟来的来访者②"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -791,7 +791,7 @@
             "title": {
                 "en": "A Late Visitor ③",
                 "fr": null,
-                "zh": null
+                "zh": "迟来的来访者③"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -846,7 +846,7 @@
             "title": {
                 "en": "Black Cat’s Claw Marks ①",
                 "fr": null,
-                "zh": null
+                "zh": "黑猫的抓痕①"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02-03", "bgm": null, "se": [], "voice": false},
                 {"page": "04", "bgm": null, "se": [], "voice": false},
@@ -892,7 +892,7 @@
             "title": {
                 "en": "Black Cat’s Claw Marks ②",
                 "fr": null,
-                "zh": null
+                "zh": "黑猫的抓痕②"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -948,7 +948,7 @@
             "title": {
                 "en": "Black Cat’s Claw Marks ③",
                 "fr": null,
-                "zh": null
+                "zh": "黑猫的抓痕③"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02-03", "bgm": null, "se": [], "voice": false},
                 {"page": "04", "bgm": null, "se": [], "voice": false},
@@ -989,7 +989,7 @@
             "title": {
                 "en": "Black Cat’s Claw Marks ④",
                 "fr": null,
-                "zh": null
+                "zh": "黑猫的抓痕④"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02-03", "bgm": null, "se": [], "voice": false},
                 {"page": "04", "bgm": null, "se": [], "voice": false},
@@ -1032,7 +1032,7 @@
             "title": {
                 "en": "Battle in the Chapel ①",
                 "fr": null,
-                "zh": null
+                "zh": "教堂的攻防①"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -1087,7 +1087,7 @@
             "title": {
                 "en": "Battle in the Chapel ②",
                 "fr": null,
-                "zh": null
+                "zh": "教堂的攻防②"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -1137,7 +1137,7 @@
             "title": {
                 "en": "City of Books",
                 "fr": null,
-                "zh": null
+                "zh": "书本之都"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -1194,7 +1194,7 @@
             "title": {
                 "en": "In the Golden Land",
                 "fr": null,
-                "zh": null
+                "zh": "于黄金乡"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -1242,7 +1242,7 @@
             "title": {
                 "en": "The Book of the One Truth",
                 "fr": null,
-                "zh": null
+                "zh": "唯一的真实之书"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -1297,7 +1297,7 @@
             "title": {
                 "en": "Interlude: Ikuko Hachijō",
                 "fr": null,
-                "zh": null
+                "zh": "interlude-八城几子"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02-03", "bgm": null, "se": [], "voice": false},
                 {"page": "04", "bgm": null, "se": [], "voice": false},
@@ -1347,7 +1347,7 @@
             "title": {
                 "en": "Confession of the Golden Witch ①",
                 "fr": null,
-                "zh": null
+                "zh": "黄金魔女的自白①"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -1399,7 +1399,7 @@
             "title": {
                 "en": "Confession of the Golden Witch ②",
                 "fr": null,
-                "zh": null
+                "zh": "黄金魔女的自白②"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -1450,7 +1450,7 @@
             "title": {
                 "en": "Confession of the Golden Witch ③",
                 "fr": null,
-                "zh": null
+                "zh": "黄金魔女的自白③"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -1497,7 +1497,7 @@
             "title": {
                 "en": "Cage of Constraints",
                 "fr": null,
-                "zh": null
+                "zh": "纠葛的牢笼"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -1542,7 +1542,7 @@
             "title": {
                 "en": "Final Notice",
                 "fr": null,
-                "zh": null
+                "zh": "最后通牒"
             }, "pages": [{"page": "01","bgm": null,"se":[],"voice": false},
                 {"page": "02","bgm": null,"se":[],"voice": false},
                 {"page": "03","bgm": null,"se":[],"voice": false},
@@ -1588,7 +1588,7 @@
             "title": {
                 "en": "Detective",
                 "fr": null,
-                "zh": null
+                "zh": "侦探"
             }, "pages": [{"page": "01","bgm": null,"se":[],"voice": false},
                 {"page": "02","bgm": null,"se":[],"voice": false},
                 {"page": "03","bgm": null,"se":[],"voice": false},
@@ -1644,7 +1644,7 @@
             "title": {
                 "en": "Opening Hostilities",
                 "fr": null,
-                "zh": null
+                "zh": "开战"
             }, "pages": [{"page": "01","bgm": null,"se":[],"voice": false},
                 {"page": "02","bgm": null,"se":[],"voice": false},
                 {"page": "03","bgm": null,"se":[],"voice": false},
@@ -1689,7 +1689,7 @@
             "title": {
                 "en": "Love-Hate Relationship",
                 "fr": null,
-                "zh": null
+                "zh": "爱恨游戏"
             }, "pages": [{"page": "01","bgm": null,"se":[],"voice": false},
                 {"page": "02","bgm": null,"se":[],"voice": false},
                 {"page": "03","bgm": null,"se":[],"voice": false},

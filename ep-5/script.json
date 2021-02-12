@@ -1,5 +1,5 @@
 {
-    "version": "20210209",
+    "version": "20210212",
     "lang": "en",
 
     "title": "End of the Golden Witch",
@@ -7,7 +7,7 @@
     "translations": {
         "en": [],
         "fr": [{"name": "MiamMiamTeam", "url": "https://miammiam-team.org/"}],
-        "zh": []
+        "zh": [{"name": "四魂制作组", "url": null}]
     }, "volumes": {
         "1": ["1", "2", "3", "4", "5"],
         "2": ["6", "7", "8", "9", "10", "11"],
@@ -20,7 +20,7 @@
             "title": {
                 "en": "Promise",
                 "fr": "Promesse",
-                "zh": null
+                "zh": "约定"
             }, "pages": [{"page": "01", "bgm": "038", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "038", "se": [], "voice": false},
                 {"page": "04", "bgm": "038", "se": [], "voice": false},
@@ -68,7 +68,7 @@
             "title": {
                 "en": "The Magic of Resurrection",
                 "fr": "La magie de résurrection",
-                "zh": null
+                "zh": "反魂的魔法"
             }, "pages": [{"page": "01", "bgm": "001", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "013", "se": [], "voice": false},
                 {"page": "04", "bgm": "013", "se": [], "voice": false},
@@ -116,7 +116,7 @@
             "title": {
                 "en": "A Proper Mystery",
                 "fr": "Une enquête régulière",
-                "zh": null
+                "zh": "正式的推理剧"
             }, "pages": [{"page": "01", "bgm": "009", "se": [], "voice": false},
                 {"page": "02a", "bgm": "009", "se": [], "voice": false},
                 {"page": "02b", "bgm": "043", "se": [], "voice": false},
@@ -169,7 +169,7 @@
             "title": {
                 "en": "Storm Clouds",
                 "fr": "Nuages sombres",
-                "zh": null
+                "zh": "暗云"
             }, "pages": [{"page": "01", "bgm": null, "se": ["005"], "voice": false},
                 {"page": "02", "bgm": "085", "se": ["005"], "voice": false},
                 {"page": "03", "bgm": "085", "se": [], "voice": false},
@@ -217,7 +217,7 @@
             "title": {
                 "en": "The Visitor",
                 "fr": "L’invitée",
-                "zh": null
+                "zh": "来访者"
             }, "pages": [{"page": "01", "bgm": null, "se": ["005", "013"], "voice": false},
                 {"page": "02-03", "bgm": null, "se": ["005", "013"], "voice": false},
                 {"page": "04", "bgm": "002", "se": [], "voice": false},
@@ -262,7 +262,7 @@
             "title": {
                 "en": "Detective",
                 "fr": "Détective",
-                "zh": null
+                "zh": "侦探"
             }, "pages": [{"page": "01", "bgm": "113", "se": [], "voice": false},
                 {"page": "02", "bgm": "113", "se": [], "voice": false},
                 {"page": "03", "bgm": "113", "se": [], "voice": false},
@@ -292,7 +292,7 @@
             "title": {
                 "en": "Epitaph",
                 "fr": "Épitaphe",
-                "zh": null
+                "zh": "碑文"
             }, "pages": [{"page": "01", "bgm": "049", "se": [], "voice": false},
                 {"page": "02", "bgm": "049", "se": [], "voice": false},
                 {"page": "03a", "bgm": "049", "se": [], "voice": false},
@@ -335,7 +335,7 @@
             "title": {
                 "en": "The Arrivers",
                 "fr": "Ceux qui ont atteint la capitale",
-                "zh": null
+                "zh": "抵达者"
             }, "pages": [{"page": "01", "bgm": "038", "se": [], "voice": false},
                 {"page": "02", "bgm": "044", "se": [], "voice": false},
                 {"page": "03", "bgm": "044", "se": [], "voice": false},
@@ -386,7 +386,7 @@
             "title": {
                 "en": "Tears",
                 "fr": "Larmes",
-                "zh": null
+                "zh": "泪"
             }, "pages": [{"page": "01", "bgm": "017", "se": [], "voice": false},
                 {"page": "02", "bgm": "017", "se": [], "voice": false},
                 {"page": "03", "bgm": "017", "se": [], "voice": false},
@@ -441,7 +441,7 @@
             "title": {
                 "en": "Ring",
                 "fr": "Anneau",
-                "zh": null
+                "zh": "戒指"
             }, "pages": [{"page": "01", "bgm": "112", "se": [], "voice": false},
                 {"page": "02", "bgm": "112", "se": [], "voice": false},
                 {"page": "03", "bgm": "112", "se": [], "voice": false},
@@ -473,7 +473,7 @@
             "title": {
                 "en": "A Game for Two",
                 "fr": "Notre jeu",
-                "zh": null
+                "zh": "两人的游戏"
             }, "pages": [{"page": "01", "bgm": "019", "se": [], "voice": false},
                 {"page": "02", "bgm": "025", "se": [], "voice": false},
                 {"page": "03", "bgm": "025", "se": [], "voice": false},
@@ -518,7 +518,7 @@
             "title": {
                 "en": "The First Night",
                 "fr": "Le premier crépuscule",
-                "zh": null
+                "zh": "第一晚"
             }, "pages": [{"page": "01", "bgm": "049", "se": [], "voice": false},
                 {"page": "02", "bgm": "049", "se": [], "voice": false},
                 {"page": "03", "bgm": "049", "se": [], "voice": false},
@@ -569,7 +569,7 @@
             "title": {
                 "en": "Detective’s Privilege",
                 "fr": "L’autorité du détective",
-                "zh": null
+                "zh": "侦探权限"
             }, "pages": [{"page": "01", "bgm": "114", "se": [], "voice": false},
                 {"page": "02", "bgm": "114", "se": [], "voice": false},
                 {"page": "03", "bgm": "114", "se": [], "voice": false},
@@ -639,7 +639,7 @@
             "title": {
                 "en": "The Tenfold Witch-Piercing Wedge ①",
                 "fr": "Dix entraves pour pourfendre les sorcières ①",
-                "zh": null
+                "zh": "贯穿魔女的十楔①"
             }, "pages": [{"page": "01", "bgm": "026", "se": ["005", "013"], "voice": false},
                 {"page": "02-03", "bgm": "026", "se": ["005", "013"], "voice": false},
                 {"page": "04", "bgm": "026", "se": ["005", "013"], "voice": false},
@@ -686,7 +686,7 @@
             "title": {
                 "en": "The Tenfold Witch-Piercing Wedge ②",
                 "fr": "Dix entraves pour pourfendre les sorcières ②",
-                "zh": null
+                "zh": "贯穿魔女的十楔②"
             }, "pages": [{"page": "01", "bgm": "119", "se": ["005"], "voice": false},
                 {"page": "02", "bgm": "119", "se": ["005"], "voice": false},
                 {"page": "03", "bgm": "119", "se": ["005"], "voice": false},
@@ -745,7 +745,7 @@
             "title": {
                 "en": "The Tenfold Witch-Piercing Wedge ③",
                 "fr": "Dix entraves pour pourfendre les sorcières ③",
-                "zh": null
+                "zh": "贯穿魔女的十楔③"
             }, "pages": [{"page": "01", "bgm": "106", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "106", "se": [], "voice": false},
                 {"page": "04", "bgm": "106", "se": [], "voice": false},
@@ -775,7 +775,7 @@
             "title": {
                 "en": "Conclusion",
                 "fr": "Fin du duel",
-                "zh": null
+                "zh": "分出胜负"
             }, "pages": [{"page": "01", "bgm": "123", "se": ["005", "013"], "voice": false},
                 {"page": "02", "bgm": "123", "se": ["005", "013"], "voice": false},
                 {"page": "03", "bgm": "123", "se": ["005", "013"], "voice": false},
@@ -813,7 +813,7 @@
             "title": {
                 "en": "Deduction and Inspection",
                 "fr": "Raisonnement et inspection",
-                "zh": null
+                "zh": "推理与验证"
             }, "pages": [{"page": "01", "bgm": "038", "se": ["012"], "voice": false},
                 {"page": "02", "bgm": "038", "se": ["012"], "voice": false},
                 {"page": "03", "bgm": "038", "se": ["013"], "voice": false},
@@ -882,7 +882,7 @@
             "title": {
                 "en": "Closet",
                 "fr": "Armoire",
-                "zh": null
+                "zh": "衣橱"
             }, "pages": [{"page": "01", "bgm": "114", "se": ["005", "013"], "voice": false},
                 {"page": "02", "bgm": "114", "se": ["005"], "voice": false},
                 {"page": "03", "bgm": "114", "se": ["005"], "voice": false},
@@ -938,7 +938,7 @@
             "title": {
                 "en": "Checkmate",
                 "fr": "Échec et mat",
-                "zh": null
+                "zh": "Checkmate"
             }, "pages": [{"page": "01", "bgm": "114", "se": ["005", "013"], "voice": false},
                 {"page": "02", "bgm": "114", "se": ["005", "013"], "voice": false},
                 {"page": "03", "bgm": "114", "se": ["005", "013"], "voice": false},
@@ -991,7 +991,7 @@
             "title": {
                 "en": "Different Truths ①",
                 "fr": "Une autre vérité ①",
-                "zh": null
+                "zh": "相异的真实①"
             }, "pages": [{"page": "01", "bgm": "121", "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": ["005"], "voice": false},
                 {"page": "03", "bgm": null, "se": ["005"], "voice": true},
@@ -1055,7 +1055,7 @@
             "title": {
                 "en": "Different Truths ②",
                 "fr": "Une autre vérité ②",
-                "zh": null
+                "zh": "相异的真实②"
             }, "pages": [{"page": "01", "bgm": "121", "se": [], "voice": false},
                 {"page": "02", "bgm": "121", "se": [], "voice": false},
                 {"page": "03", "bgm": "124", "se": [], "voice": false},
@@ -1096,7 +1096,7 @@
             "title": {
                 "en": "Court Dismissed",
                 "fr": "Séance levée",
-                "zh": null
+                "zh": "闭庭"
             }, "pages": [{"page": "01", "bgm": "126", "se": [], "voice": false},
                 {"page": "02", "bgm": "126", "se": [], "voice": false},
                 {"page": "03", "bgm": "126", "se": [], "voice": false},
@@ -1181,7 +1181,7 @@
             "title": {
                 "en": "Confession",
                 "fr": "Confession",
-                "zh": null
+                "zh": "最终话-自白"
             }, "pages": [{"page": "01", "bgm": "116", "se": [], "voice": false},
                 {"page": "02", "bgm": "116", "se": [], "voice": false},
                 {"page": "03", "bgm": "116", "se": [], "voice": false},
@@ -1261,7 +1261,7 @@
             "title": {
                 "en": "Tea Party",
                 "fr": "Pause thé",
-                "zh": null
+                "zh": "茶会"
             }, "pages": [{"page": "01", "bgm": "131", "se": [], "voice": false},
                 {"page": "02", "bgm": "131", "se": [], "voice": false},
                 {"page": "03", "bgm": "131", "se": [], "voice": false},
@@ -1291,7 +1291,7 @@
             "title": {
                 "en": "Secret Tea Party ①",
                 "fr": "Pause thé secrète ①",
-                "zh": null
+                "zh": "里茶会①"
             }, "pages": [{"page": "01", "bgm": null, "se": ["005"], "voice": false},
                 {"page": "02", "bgm": "025", "se": [], "voice": false},
                 {"page": "03", "bgm": "025", "se": [], "voice": false},
@@ -1338,7 +1338,7 @@
             "title": {
                 "en": "Secret Tea Party ②",
                 "fr": "Pause thé secrète ②",
-                "zh": null
+                "zh": "里茶会②"
             }, "pages": [{"page": "01", "bgm": "119", "se": [], "voice": false},
                 {"page": "02", "bgm": "119", "se": [], "voice": false},
                 {"page": "03", "bgm": "119", "se": [], "voice": false},

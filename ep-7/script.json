@@ -1,5 +1,5 @@
 {
-    "version": "20210209",
+    "version": "20210212",
     "lang": "en",
 
     "title": "Requiem of the Golden Witch",
@@ -7,7 +7,7 @@
     "translations": {
         "en": [],
         "fr": [{"name": "MiamMiamTeam", "url": "https://miammiam-team.org/"}],
-        "zh": []
+        "zh": [{"name": "四魂制作组", "url": null}]
     }, "volumes": {
         "1": ["1", "2", "3", "4", "5", "6", "7", "8"],
         "2": ["9", "10", "11", "12", "13", "14"],
@@ -23,7 +23,7 @@
             "title": {
                 "en": "Invitation to the Game",
                 "fr": null,
-                "zh": null
+                "zh": "魔女的招待券"
             }, "pages": [{"page": "01", "bgm": "155", "se": [], "voice": false},
                 {"page": "02", "bgm": "155", "se": [], "voice": false},
                 {"page": "03", "bgm": "155", "se": [], "voice": false},
@@ -89,7 +89,7 @@
             "title": {
                 "en": "Beatrice’s Portrait",
                 "fr": null,
-                "zh": null
+                "zh": "贝阿朵莉切的肖像"
             }, "pages": [{"page": "01", "bgm": "163", "se": [], "voice": false},
                 {"page": "02", "bgm": "163", "se": [], "voice": false},
                 {"page": "03a", "bgm": "163", "se": ["013"], "voice": false},
@@ -131,7 +131,7 @@
             "title": {
                 "en": "The Right to Spectate",
                 "fr": null,
-                "zh": null
+                "zh": "观剧者权限"
             }, "pages": [{"page": "01", "bgm": "110", "se": [], "voice": false},
                 {"page": "02", "bgm": "110", "se": [], "voice": false},
                 {"page": "03", "bgm": "110", "se": [], "voice": false},
@@ -168,7 +168,7 @@
             "title": {
                 "en": "Kinzō’s Confession",
                 "fr": null,
-                "zh": null
+                "zh": "金藏的自白"
             }, "pages": [{"page": "01b", "bgm": "038", "se": ["013"], "voice": false},
                 {"page": "02-03", "bgm": "038", "se": ["013"], "voice": false},
                 {"page": "04", "bgm": "038", "se": ["013"], "voice": false},
@@ -207,7 +207,7 @@
             "title": {
                 "en": "Encounter on Rokkenjima",
                 "fr": null,
-                "zh": null
+                "zh": "六轩岛的相遇"
             }, "pages": [{"page": "01b", "bgm": "163", "se": [], "voice": false},
                 {"page": "02", "bgm": "163", "se": [], "voice": false},
                 {"page": "03", "bgm": "163", "se": [], "voice": false},
@@ -249,7 +249,7 @@
             "title": {
                 "en": "Submarine’s Payload",
                 "fr": null,
-                "zh": null
+                "zh": "潜水艇的货物"
             }, "pages": [{"page": "01", "bgm": "169", "se": ["005"], "voice": false},
                 {"page": "02-03", "bgm": "169", "se": ["005"], "voice": false},
                 {"page": "04", "bgm": "169", "se": ["002"], "voice": false},
@@ -284,7 +284,7 @@
             "title": {
                 "en": "Bargaining",
                 "fr": null,
-                "zh": null
+                "zh": "策略"
             }, "pages": [{"page": "01", "bgm": "168", "se": ["005"], "voice": false},
                 {"page": "02-03", "bgm": "168", "se": ["005"], "voice": false},
                 {"page": "04a", "bgm": "168", "se": ["005"], "voice": false},
@@ -326,7 +326,7 @@
             "title": {
                 "en": "Gold and Madness",
                 "fr": null,
-                "zh": null
+                "zh": "黄金与疯狂"
             }, "pages": [{"page": "01", "bgm": "125", "se": [], "voice": false},
                 {"page": "02", "bgm": "125", "se": [], "voice": false},
                 {"page": "03", "bgm": "125", "se": [], "voice": false},
@@ -368,7 +368,7 @@
             "title": {
                 "en": "Golden Magic",
                 "fr": null,
-                "zh": null
+                "zh": "黄金的魔法"
             }, "pages": [{"page": "01", "bgm": "024", "se": ["005"], "voice": false},
                 {"page": "02-03", "bgm": "024", "se": ["005"], "voice": false},
                 {"page": "04", "bgm": null, "se": ["005"], "voice": false},
@@ -397,7 +397,7 @@
             "title": {
                 "en": "The Game Resumes",
                 "fr": null,
-                "zh": null
+                "zh": "游戏再开"
             }, "pages": [{"page": "01", "bgm": "167", "se": [], "voice": false},
                 {"page": "02", "bgm": "167", "se": [], "voice": false},
                 {"page": "03", "bgm": "167", "se": [], "voice": false},
@@ -436,7 +436,7 @@
             "title": {
                 "en": "Maria the Witch",
                 "fr": null,
-                "zh": null
+                "zh": "魔女玛利亚"
             }, "pages": [{"page": "01", "bgm": "163", "se": [], "voice": false},
                 {"page": "02", "bgm": "163", "se": [], "voice": false},
                 {"page": "03", "bgm": "163", "se": ["005"], "voice": false},
@@ -477,7 +477,7 @@
             "title": {
                 "en": "Will’s Theory",
                 "fr": null,
-                "zh": null
+                "zh": "威尔的考察"
             }, "pages": [{"page": "01b", "bgm": "169", "se": ["002"], "voice": false},
                 {"page": "02-03", "bgm": "064", "se": [], "voice": false},
                 {"page": "04", "bgm": "064", "se": [], "voice": false},
@@ -520,7 +520,7 @@
             "title": {
                 "en": "Jessica’s Confession",
                 "fr": null,
-                "zh": null
+                "zh": "朱志香的告白"
             }, "pages": [{"page": "01", "bgm": "162", "se": [], "voice": false},
                 {"page": "02", "bgm": "162", "se": [], "voice": false},
                 {"page": "03", "bgm": "162", "se": [], "voice": false},
@@ -561,7 +561,7 @@
             "title": {
                 "en": "The Witch in the VIP Room",
                 "fr": null,
-                "zh": null
+                "zh": "贵宾室的魔女"
             }, "pages": [{"page": "01", "bgm": "017", "se": [], "voice": false},
                 {"page": "02", "bgm": "017", "se": [], "voice": false},
                 {"page": "03", "bgm": "017", "se": [], "voice": false},
@@ -604,7 +604,7 @@
             "title": {
                 "en": "Two Testimonies",
                 "fr": null,
-                "zh": null
+                "zh": "两种证言"
             }, "pages": [{"page": "01", "bgm": null, "se": ["023"], "voice": false},
                 {"page": "02a", "bgm": null, "se": ["023"], "voice": false},
                 {"page": "02b", "bgm": null, "se": [], "voice": false},
@@ -644,7 +644,7 @@
             "title": {
                 "en": "Will’s Hypothesis",
                 "fr": null,
-                "zh": null
+                "zh": "威尔的推理"
             }, "pages": [{"page": "01", "bgm": null, "se": ["013"], "voice": false},
                 {"page": "02", "bgm": "166", "se": [], "voice": false},
                 {"page": "03", "bgm": "166", "se": [], "voice": false},
@@ -677,7 +677,7 @@
             "title": {
                 "en": "The Identity of Lion Ushiromiya",
                 "fr": null,
-                "zh": null
+                "zh": "右代宫理御的真正身份"
             }, "pages": [{"page": "01b", "bgm": "163", "se": [], "voice": false},
                 {"page": "02", "bgm": "163", "se": [], "voice": false},
                 {"page": "03", "bgm": "163", "se": [], "voice": false},
@@ -715,7 +715,7 @@
             "title": {
                 "en": "The Beginning of Everything",
                 "fr": null,
-                "zh": null
+                "zh": "魔女贝阿朵切莉的真面目近在眼前"
             }, "pages": [{"page": "01", "bgm": "167", "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -750,7 +750,7 @@
             "title": {
                 "en": "A New Life",
                 "fr": null,
-                "zh": null
+                "zh": "崭新的生活"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -795,7 +795,7 @@
             "title": {
                 "en": "The Culprit’s Birth",
                 "fr": null,
-                "zh": null
+                "zh": "犯人的诞生"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -835,7 +835,7 @@
             "title": {
                 "en": "Yasu and the Witch",
                 "fr": null,
-                "zh": null
+                "zh": "小安与魔女"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -875,7 +875,7 @@
             "title": {
                 "en": "Interactions with the Witch",
                 "fr": null,
-                "zh": null
+                "zh": "跟魔女的交流"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -914,7 +914,7 @@
             "title": {
                 "en": "Changing Days",
                 "fr": null,
-                "zh": null
+                "zh": "日新月异的日常"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -959,7 +959,7 @@
             "title": {
                 "en": "Witch Magic",
                 "fr": null,
-                "zh": null
+                "zh": "魔女的魔法"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -999,7 +999,7 @@
             "title": {
                 "en": "Witch Manifestation",
                 "fr": null,
-                "zh": null
+                "zh": "魔女显现"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -1049,7 +1049,7 @@
             "title": {
                 "en": "The Golden Paradise",
                 "fr": null,
-                "zh": null
+                "zh": "黄金理想乡"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -1088,7 +1088,7 @@
             "title": {
                 "en": "An Answer Sought",
                 "fr": null,
-                "zh": null
+                "zh": "追求的答案"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02-03", "bgm": null, "se": [], "voice": false},
                 {"page": "04", "bgm": null, "se": [], "voice": false},
@@ -1135,7 +1135,7 @@
             "title": {
                 "en": "Witch and Battler",
                 "fr": null,
-                "zh": null
+                "zh": "魔女与战人"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -1180,7 +1180,7 @@
             "title": {
                 "en": "The Time of Tribulation",
                 "fr": null,
-                "zh": null
+                "zh": "试练之时"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -1222,7 +1222,7 @@
             "title": {
                 "en": "At the End of the Trial",
                 "fr": null,
-                "zh": null
+                "zh": "试练的终结"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -1267,7 +1267,7 @@
             "title": {
                 "en": "Shoots of Love",
                 "fr": null,
-                "zh": null
+                "zh": "恋爱之芽"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
@@ -1307,7 +1307,7 @@
             "title": {
                 "en": "The Secret of the Epitaph",
                 "fr": null,
-                "zh": null
+                "zh": "碑文的秘密"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
                 {"page": "03", "bgm": null, "se": [], "voice": false},
