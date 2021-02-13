@@ -1,0 +1,77 @@
+{
+    "version": "20210213",
+    "lang": "en",
+
+    "title": "Forgery of the Purple Logic",
+    "art": "Kurumi Suzushiro",
+    "translations": {
+        "en": [{"name": "SoaringPegasus", "url": "https://spscanlations.wordpress.com/"}],
+        "fr": [],
+        "zh": []
+    }, "volumes": {
+        "1": ["1", "2", "3", "4", "5"],
+        "2": ["6", "7", "8", "9", "10"]
+    }, "chapters": {
+        "1": {
+            "title": {
+                "en": null,
+                "fr": null,
+                "zh": null
+            }, "pages": []
+        }, "2": {
+            "title": {
+                "en": null,
+                "fr": null,
+                "zh": null
+            }, "pages": []
+        }, "3": {
+            "title": {
+                "en": null,
+                "fr": null,
+                "zh": null
+            }, "pages": []
+        }, "4": {
+            "title": {
+                "en": null,
+                "fr": null,
+                "zh": null
+            }, "pages": []
+        }, "5": {
+            "title": {
+                "en": null,
+                "fr": null,
+                "zh": null
+            }, "pages": []
+        }, "6": {
+            "title": {
+                "en": null,
+                "fr": null,
+                "zh": null
+            }, "pages": []
+        }, "7": {
+            "title": {
+                "en": null,
+                "fr": null,
+                "zh": null
+            }, "pages": []
+        }, "8": {
+            "title": {
+                "en": null,
+                "fr": null,
+                "zh": null
+            }, "pages": []
+        }, "9": {
+            "title": {
+                "en": null,
+                "fr": null,
+                "zh": null
+            }, "pages": []
+        }, "10": {
+            "title": {
+                "en": null,
+                "fr": null,
+                "zh": null
+            }, "pages": []
+        }
+    }
+}
