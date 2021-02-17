@@ -1,5 +1,5 @@
 {
-    "version": "20210217",
+    "version": "20210217b",
     "lang": "en",
 
     "title": "Requiem of the Golden Witch",
@@ -785,7 +785,8 @@
                 {"page": "31", "bgm": "174", "se": [], "voice": false},
                 {"page": "32", "bgm": "174", "se": [], "voice": false},
                 {"page": "33", "bgm": "174", "se": [], "voice": false},
-                {"page": "34", "bgm": "174", "se": [], "voice": false},
+                {"page": "34a", "bgm": "174", "se": [], "voice": false},
+                {"page": "34b", "bgm": "167", "se": [], "voice": false},
                 {"page": "35", "bgm": "167", "se": [], "voice": false},
                 {"page": "36", "bgm": "167", "se": [], "voice": false},
                 {"page": "37", "bgm": "167", "se": [], "voice": false},
