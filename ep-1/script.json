@@ -1,5 +1,5 @@
 {
-    "version": "20210212",
+    "version": "20210309",
     "lang": "en",
 
     "title": "Legend of the Golden Witch",
@@ -7,6 +7,7 @@
     "translations": {
         "en": [],
         "fr": [{"name": "MiamMiamTeam", "url": "https://miammiam-team.org/"}],
+        "pl": [{"name": "Animan Skanlacje", "url": null}],
         "zh": [{"name": "MMR軒島調查隊", "url": null}, {"name": "S1榊野学園漫研", "url": null}]
     }, "volumes": {
         "1": ["1", "2", "3", "4", "5"],
@@ -18,6 +19,7 @@
             "title": {
                 "en": "Rokkenjima",
                 "fr": "Rokkenjima",
+                "pl": null,
                 "zh": "六轩岛"
             }, "pages": [{"page": "01", "bgm": "013", "se": [], "voice": true},
                 {"page": "02-03", "bgm": "013", "se": [], "voice": true},
@@ -51,6 +53,7 @@
             "title": {
                 "en": "The Legend of the Witch",
                 "fr": "La légende de la sorcière",
+                "pl": null,
                 "zh": "魔女传说"
             }, "pages": [{"page": "01", "bgm": "007", "se": [], "voice": false},
                 {"page": "02", "bgm": "007", "se": [], "voice": false},
@@ -92,6 +95,7 @@
             "title": {
                 "en": "The Golden Witch",
                 "fr": "La sorcière dorée",
+                "pl": null,
                 "zh": "黄金的魔女"
             }, "pages": [{"page": "01", "bgm": "012", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "012", "se": [], "voice": false},
@@ -155,6 +159,7 @@
             "title": {
                 "en": "The Golden Epitaph",
                 "fr": "L’inscription dorée",
+                "pl": null,
                 "zh": "黄金碑文"
             }, "pages": [{"page": "01", "bgm": "008", "se": [], "voice": false},
                 {"page": "02", "bgm": "008", "se": [], "voice": false},
@@ -215,6 +220,7 @@
             "title": {
                 "en": "Letter from a Witch",
                 "fr": "La lettre de la sorcière",
+                "pl": null,
                 "zh": "来自魔女的信"
             }, "pages": [{"page": "01", "bgm": "018", "se": ["005", "012"], "voice": false},
                 {"page": "02", "bgm": "018", "se": ["005", "012"], "voice": false},
@@ -271,6 +277,7 @@
             "title": {
                 "en": "The Eternal Promise",
                 "fr": "La promesse éternelle",
+                "pl": null,
                 "zh": "永远的约定"
             }, "pages": [{"page": "01", "bgm": null, "se": ["012"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["012"], "voice": false},
@@ -321,6 +328,7 @@
             "title": {
                 "en": "The First Night ①",
                 "fr": "Le premier crépuscule ①",
+                "pl": null,
                 "zh": "第一晚①"
             }, "pages": [{"page": "01", "bgm": null, "se": ["012"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["005", "013"], "voice": false},
@@ -377,6 +385,7 @@
             "title": {
                 "en": "The First Night ②",
                 "fr": "Le premier crépuscule ②",
+                "pl": null,
                 "zh": "第一晚②"
             }, "pages": [{"page": "01", "bgm": "024", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "024", "se": [], "voice": false},
@@ -428,6 +437,7 @@
             "title": {
                 "en": "The Witch’s Sacrifices",
                 "fr": "Les sacrifices de la sorcière",
+                "pl": null,
                 "zh": "魔女的活祭"
             }, "pages": [{"page": "01", "bgm": null, "se": ["011"], "voice": false},
                 {"page": "02", "bgm": "026", "se": [], "voice": false},
@@ -480,6 +490,7 @@
             "title": {
                 "en": "Witch without a Form",
                 "fr": "La sorcière sans forme",
+                "pl": null,
                 "zh": "无形的魔女"
             }, "pages": [{"page": "01", "bgm": "019", "se": [], "voice": false},
                 {"page": "02", "bgm": "019", "se": [], "voice": false},
@@ -521,6 +532,7 @@
             "title": {
                 "en": "The Invisible Witch",
                 "fr": "La sorcière invisible",
+                "pl": null,
                 "zh": "看不见的魔女"
             }, "pages": [{"page": "01", "bgm": "026", "se": ["005"], "voice": false},
                 {"page": "02", "bgm": "026", "se": ["005"], "voice": false},
@@ -562,6 +574,7 @@
             "title": {
                 "en": "Eva vs. Natsuhi",
                 "fr": "Eva contre Natsuhi",
+                "pl": null,
                 "zh": "绘羽VS夏妃"
             }, "pages": [{"page": "01", "bgm": "018", "se": ["005", "012"], "voice": false},
                 {"page": "02", "bgm": "018", "se": ["005", "012"], "voice": false},
@@ -615,6 +628,7 @@
             "title": {
                 "en": "Battler vs. Eva",
                 "fr": "Battler contre Eva",
+                "pl": null,
                 "zh": "战人VS绘羽"
             }, "pages": [{"page": "01", "bgm": "031", "se": ["013"], "voice": false},
                 {"page": "02", "bgm": "029", "se": [], "voice": false},
@@ -659,6 +673,7 @@
             "title": {
                 "en": "The Second Night ①",
                 "fr": "Le deuxième crépuscule ①",
+                "pl": null,
                 "zh": "第二晚①"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
@@ -701,6 +716,7 @@
             "title": {
                 "en": "The Second Night ②",
                 "fr": "Le deuxième crépuscule ②",
+                "pl": null,
                 "zh": "第二晚②"
             }, "pages": [{"page": "01", "bgm": "024", "se": [], "voice": false},
                 {"page": "02", "bgm": "024", "se": [], "voice": false},
@@ -746,6 +762,7 @@
             "title": {
                 "en": "Kanon vs. Beatrice",
                 "fr": "Kanon contre la sorcière",
+                "pl": null,
                 "zh": "嘉音VS魔女"
             }, "pages": [{"page": "01", "bgm": null, "se": ["005"], "voice": false},
                 {"page": "02", "bgm": "028", "se": [], "voice": false},
@@ -801,6 +818,7 @@
             "title": {
                 "en": "Chessboard Logic",
                 "fr": "Raisonnement d’échiquier",
+                "pl": null,
                 "zh": "棋盘思考"
             }, "pages": [{"page": "01", "bgm": null, "se": ["012"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["012"], "voice": false},
@@ -857,6 +875,7 @@
             "title": {
                 "en": "Confinement",
                 "fr": "Barricade",
+                "pl": null,
                 "zh": "笼城"
             }, "pages": [{"page": "01", "bgm": null, "se": ["011"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["011"], "voice": false},
@@ -906,6 +925,7 @@
             "title": {
                 "en": "Separation",
                 "fr": "Séparation",
+                "pl": null,
                 "zh": "离散单行本"
             }, "pages": [{"page": "01", "bgm": null, "se": ["011"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["011"], "voice": false},
@@ -946,6 +966,7 @@
             "title": {
                 "en": "Discord",
                 "fr": "Discorde",
+                "pl": null,
                 "zh": "不和"
             }, "pages": [{"page": "01", "bgm": "038", "se": [], "voice": false},
                 {"page": "02", "bgm": "038", "se": ["005"], "voice": false},
@@ -1003,6 +1024,7 @@
             "title": {
                 "en": "Golden Land",
                 "fr": "Le pays doré",
+                "pl": null,
                 "zh": "最终话 黄金乡"
             }, "pages": [{"page": "01", "bgm": "024", "se": ["005", "013"], "voice": false},
                 {"page": "02", "bgm": "024", "se": ["005", "013"], "voice": false},
@@ -1060,6 +1082,7 @@
             "title": {
                 "en": "Tea Party",
                 "fr": "Pause thé",
+                "pl": null,
                 "zh": "茶会"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02-03", "bgm": "040", "se": [], "voice": false},
@@ -1122,6 +1145,7 @@
             "title": {
                 "en": "Secret Tea Party",
                 "fr": "Pause thé secrète",
+                "pl": null,
                 "zh": "里茶会"
             }, "pages": [{"page": "01", "bgm": "040", "se": [], "voice": false},
                 {"page": "02", "bgm": "040", "se": [], "voice": false},
