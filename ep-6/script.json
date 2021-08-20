@@ -1,5 +1,5 @@
 {
-    "version": "20210413",
+    "version": "20210820",
     "lang": "en",
 
     "title": "Dawn of the Golden Witch",
@@ -948,7 +948,7 @@
         }, "16": {
             "title": {
                 "en": "A Tiny Seam",
-                "fr": "A Tiny Seam",
+                "fr": "Une faille minuscule",
                 "zh": "微笑的破绽"
             }, "pages": [{"page": "01", "bgm": "032", "se": ["013"], "voice": false},
                 {"page": "02", "bgm": "032", "se": ["013"], "voice": false},
@@ -1017,7 +1017,7 @@
         }, "17": {
             "title": {
                 "en": "Battler’s Counter",
-                "fr": "Battler’s Counter",
+                "fr": "La riposte de Battler",
                 "zh": "战人的对策"
             }, "pages": [{"page": "01", "bgm": "019", "se": [], "voice": false},
                 {"page": "02", "bgm": "019", "se": [], "voice": false},
@@ -1069,7 +1069,7 @@
         }, "18": {
             "title": {
                 "en": "The Skirmish Over Battler’s Disappearance",
-                "fr": "The Skirmish Over Battler’s Disappearance",
+                "fr": "L’escarmouche autour de la disparition de Battler",
                 "zh": "围绕战人消失攻防"
             }, "pages": [{"page": "01", "bgm": "028", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "028", "se": [], "voice": false},
