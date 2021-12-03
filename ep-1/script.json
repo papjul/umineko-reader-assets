@@ -1,5 +1,5 @@
 {
-    "version": "20210309",
+    "version": "20211203",
     "lang": "en",
 
     "title": "Legend of the Golden Witch",
@@ -8,6 +8,7 @@
         "en": [],
         "fr": [{"name": "MiamMiamTeam", "url": "https://miammiam-team.org/"}],
         "pl": [{"name": "Animan Skanlacje", "url": null}],
+        "pt": [{"name": "Breaker Scans", "url": null}, {"name": "Umineko Brasil", "url": null}],
         "zh": [{"name": "MMR軒島調查隊", "url": null}, {"name": "S1榊野学園漫研", "url": null}]
     }, "volumes": {
         "1": ["1", "2", "3", "4", "5"],
@@ -20,6 +21,7 @@
                 "en": "Rokkenjima",
                 "fr": "Rokkenjima",
                 "pl": null,
+                "pt": "Rokkenjima",
                 "zh": "六轩岛"
             }, "pages": [{"page": "01", "bgm": "013", "se": [], "voice": true},
                 {"page": "02-03", "bgm": "013", "se": [], "voice": true},
@@ -54,6 +56,7 @@
                 "en": "The Legend of the Witch",
                 "fr": "La légende de la sorcière",
                 "pl": null,
+                "pt": "A Lenda da Bruxa",
                 "zh": "魔女传说"
             }, "pages": [{"page": "01", "bgm": "007", "se": [], "voice": false},
                 {"page": "02", "bgm": "007", "se": [], "voice": false},
@@ -96,6 +99,7 @@
                 "en": "The Golden Witch",
                 "fr": "La sorcière dorée",
                 "pl": null,
+                "pt": "A Bruxa Dourada",
                 "zh": "黄金的魔女"
             }, "pages": [{"page": "01", "bgm": "012", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "012", "se": [], "voice": false},
@@ -160,6 +164,7 @@
                 "en": "The Golden Epitaph",
                 "fr": "L’inscription dorée",
                 "pl": null,
+                "pt": "A Inscrição Dourada",
                 "zh": "黄金碑文"
             }, "pages": [{"page": "01", "bgm": "008", "se": [], "voice": false},
                 {"page": "02", "bgm": "008", "se": [], "voice": false},
@@ -221,6 +226,7 @@
                 "en": "Letter from a Witch",
                 "fr": "La lettre de la sorcière",
                 "pl": null,
+                "pt": "A Carta da Bruxa",
                 "zh": "来自魔女的信"
             }, "pages": [{"page": "01", "bgm": "018", "se": ["005", "012"], "voice": false},
                 {"page": "02", "bgm": "018", "se": ["005", "012"], "voice": false},
@@ -278,6 +284,7 @@
                 "en": "The Eternal Promise",
                 "fr": "La promesse éternelle",
                 "pl": null,
+                "pt": "Promessa Eterna",
                 "zh": "永远的约定"
             }, "pages": [{"page": "01", "bgm": null, "se": ["012"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["012"], "voice": false},
@@ -329,6 +336,7 @@
                 "en": "The First Night ①",
                 "fr": "Le premier crépuscule ①",
                 "pl": null,
+                "pt": "A Primeira Noite ①",
                 "zh": "第一晚①"
             }, "pages": [{"page": "01", "bgm": null, "se": ["012"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["005", "013"], "voice": false},
@@ -386,6 +394,7 @@
                 "en": "The First Night ②",
                 "fr": "Le premier crépuscule ②",
                 "pl": null,
+                "pt": "A Primeira Noite ②",
                 "zh": "第一晚②"
             }, "pages": [{"page": "01", "bgm": "024", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "024", "se": [], "voice": false},
@@ -438,6 +447,7 @@
                 "en": "The Witch’s Sacrifices",
                 "fr": "Les sacrifices de la sorcière",
                 "pl": null,
+                "pt": "Oferenda da Bruxa",
                 "zh": "魔女的活祭"
             }, "pages": [{"page": "01", "bgm": null, "se": ["011"], "voice": false},
                 {"page": "02", "bgm": "026", "se": [], "voice": false},
@@ -491,6 +501,7 @@
                 "en": "Witch without a Form",
                 "fr": "La sorcière sans forme",
                 "pl": null,
+                "pt": "A Bruxa sem Forma",
                 "zh": "无形的魔女"
             }, "pages": [{"page": "01", "bgm": "019", "se": [], "voice": false},
                 {"page": "02", "bgm": "019", "se": [], "voice": false},
@@ -533,6 +544,7 @@
                 "en": "The Invisible Witch",
                 "fr": "La sorcière invisible",
                 "pl": null,
+                "pt": "A Bruxa Invisível",
                 "zh": "看不见的魔女"
             }, "pages": [{"page": "01", "bgm": "026", "se": ["005"], "voice": false},
                 {"page": "02", "bgm": "026", "se": ["005"], "voice": false},
@@ -575,6 +587,7 @@
                 "en": "Eva vs. Natsuhi",
                 "fr": "Eva contre Natsuhi",
                 "pl": null,
+                "pt": "Eva vs Natsuhi",
                 "zh": "绘羽VS夏妃"
             }, "pages": [{"page": "01", "bgm": "018", "se": ["005", "012"], "voice": false},
                 {"page": "02", "bgm": "018", "se": ["005", "012"], "voice": false},
@@ -629,6 +642,7 @@
                 "en": "Battler vs. Eva",
                 "fr": "Battler contre Eva",
                 "pl": null,
+                "pt": "Battler vs Eva",
                 "zh": "战人VS绘羽"
             }, "pages": [{"page": "01", "bgm": "031", "se": ["013"], "voice": false},
                 {"page": "02", "bgm": "029", "se": [], "voice": false},
@@ -674,6 +688,7 @@
                 "en": "The Second Night ①",
                 "fr": "Le deuxième crépuscule ①",
                 "pl": null,
+                "pt": "A Segunda Noite ①",
                 "zh": "第二晚①"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
@@ -717,6 +732,7 @@
                 "en": "The Second Night ②",
                 "fr": "Le deuxième crépuscule ②",
                 "pl": null,
+                "pt": "A Segunda Noite ②",
                 "zh": "第二晚②"
             }, "pages": [{"page": "01", "bgm": "024", "se": [], "voice": false},
                 {"page": "02", "bgm": "024", "se": [], "voice": false},
@@ -763,6 +779,7 @@
                 "en": "Kanon vs. Beatrice",
                 "fr": "Kanon contre la sorcière",
                 "pl": null,
+                "pt": "Kanon vs Beatrice",
                 "zh": "嘉音VS魔女"
             }, "pages": [{"page": "01", "bgm": null, "se": ["005"], "voice": false},
                 {"page": "02", "bgm": "028", "se": [], "voice": false},
@@ -819,6 +836,7 @@
                 "en": "Chessboard Logic",
                 "fr": "Raisonnement d’échiquier",
                 "pl": null,
+                "pt": "Pensamento de um Tabuleiro de Xadrez",
                 "zh": "棋盘思考"
             }, "pages": [{"page": "01", "bgm": null, "se": ["012"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["012"], "voice": false},
@@ -876,6 +894,7 @@
                 "en": "Confinement",
                 "fr": "Barricade",
                 "pl": null,
+                "pt": "Fortificação",
                 "zh": "笼城"
             }, "pages": [{"page": "01", "bgm": null, "se": ["011"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["011"], "voice": false},
@@ -926,6 +945,7 @@
                 "en": "Separation",
                 "fr": "Séparation",
                 "pl": null,
+                "pt": "Dispersão",
                 "zh": "离散单行本"
             }, "pages": [{"page": "01", "bgm": null, "se": ["011"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["011"], "voice": false},
@@ -967,6 +987,7 @@
                 "en": "Discord",
                 "fr": "Discorde",
                 "pl": null,
+                "pt": "Discórdia",
                 "zh": "不和"
             }, "pages": [{"page": "01", "bgm": "038", "se": [], "voice": false},
                 {"page": "02", "bgm": "038", "se": ["005"], "voice": false},
@@ -1025,6 +1046,7 @@
                 "en": "Golden Land",
                 "fr": "Le pays doré",
                 "pl": null,
+                "pt": "A Terra Dourada",
                 "zh": "最终话 黄金乡"
             }, "pages": [{"page": "01", "bgm": "024", "se": ["005", "013"], "voice": false},
                 {"page": "02", "bgm": "024", "se": ["005", "013"], "voice": false},
@@ -1083,6 +1105,7 @@
                 "en": "Tea Party",
                 "fr": "Pause thé",
                 "pl": null,
+                "pt": "A Festa do Chá",
                 "zh": "茶会"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02-03", "bgm": "040", "se": [], "voice": false},
@@ -1146,6 +1169,7 @@
                 "en": "Secret Tea Party",
                 "fr": "Pause thé secrète",
                 "pl": null,
+                "pt": "A Festa do Chá ???",
                 "zh": "里茶会"
             }, "pages": [{"page": "01", "bgm": "040", "se": [], "voice": false},
                 {"page": "02", "bgm": "040", "se": [], "voice": false},
