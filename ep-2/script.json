@@ -1,5 +1,5 @@
 {
-    "version": "20210212",
+    "version": "20211210b",
     "lang": "en",
 
     "title": "Turn of the Golden Witch",
@@ -7,6 +7,7 @@
     "translations": {
         "en": [],
         "fr": [{"name": "MiamMiamTeam", "url": "https://miammiam-team.org/"}],
+        "pt": [{"name": "Breaker Scans", "url": null}, {"name": "Umineko Brasil", "url": null}],
         "zh": [{"name": "动漫之家", "url": "https://dmzj.com/"}]
     }, "volumes": {
         "1": ["1", "2", "3", "4", "5", "6"],
@@ -19,6 +20,7 @@
             "title": {
                 "en": "A Dream at the Bottom of the Water",
                 "fr": "Un rêve venu de l’océan",
+                "pt": "Um sonho visto debaixo d’água",
                 "zh": "水底看到的梦"
             }, "pages": [{"page": "01", "bgm": "021", "se": [], "voice": true},
                 {"page": "02", "bgm": "021", "se": [], "voice": true},
@@ -47,12 +49,12 @@
                 {"page": "26", "bgm": null, "se": ["003", "005"], "voice": false},
                 {"page": "27", "bgm": null, "se": ["003", "005"], "voice": false},
                 {"page": "28", "bgm": null, "se": ["003", "005"], "voice": false},
-                {"page": "29-30", "bgm": null, "se": ["003", "005"], "voice": true},
-                {"page": "31", "bgm": null, "se": [], "voice": false}]
+                {"page": "29-30", "bgm": null, "se": ["003", "005"], "voice": true}]
         }, "2": {
             "title": {
                 "en": "Furniture",
                 "fr": "Meuble",
+                "pt": "Mobília",
                 "zh": "家具"
             }, "pages": [{"page": "01", "bgm": null, "se": ["011"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["011"], "voice": false},
@@ -86,6 +88,7 @@
             "title": {
                 "en": "Witch",
                 "fr": "Sorcière",
+                "pt": "Bruxa",
                 "zh": "魔女"
             }, "pages": [{"page": "01", "bgm": "017", "se": [], "voice": false},
                 {"page": "02", "bgm": "017", "se": [], "voice": false},
@@ -116,6 +119,7 @@
             "title": {
                 "en": "Seals",
                 "fr": "Sceau",
+                "pt": "Selo Esculpido",
                 "zh": "刻印"
             }, "pages": [{"page": "01", "bgm": "044", "se": ["005", "012"], "voice": false},
                 {"page": "02-03", "bgm": "044", "se": ["005"], "voice": false},
@@ -144,6 +148,7 @@
             "title": {
                 "en": "Love",
                 "fr": "Amour",
+                "pt": "Amor",
                 "zh": "恋"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
@@ -180,6 +185,7 @@
             "title": {
                 "en": "Something Unseen",
                 "fr": "Quelque chose d’invisible",
+                "pt": "“Coisa Invisível”",
                 "zh": "看不见的东西"
             }, "pages": [{"page": "01", "bgm": null, "se": ["002"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["002"], "voice": false},
@@ -207,6 +213,7 @@
             "title": {
                 "en": "School Festival",
                 "fr": "La fête de l’école",
+                "pt": "O Festival Escolar",
                 "zh": "学园祭"
             }, "pages": [{"page": "01", "bgm": "007", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "007", "se": [], "voice": false},
@@ -233,6 +240,7 @@
             "title": {
                 "en": "Rejection",
                 "fr": "Rejet",
+                "pt": "Rejeição",
                 "zh": "拒绝"
             }, "pages": [{"page": "01", "bgm": "012", "se": [], "voice": false},
                 {"page": "02", "bgm": "012", "se": [], "voice": false},
@@ -277,6 +285,7 @@
             "title": {
                 "en": "Mother & Daughter",
                 "fr": "Mère et fille",
+                "pt": "Mãe e Filha",
                 "zh": "母女"
             }, "pages": [{"page": "01", "bgm": "002", "se": [], "voice": false},
                 {"page": "02", "bgm": "002", "se": [], "voice": false},
@@ -304,6 +313,7 @@
             "title": {
                 "en": "The Battle Begins",
                 "fr": "Début des hostilités",
+                "pt": "Surto de Guerra",
                 "zh": "开战"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02-03", "bgm": null, "se": [], "voice": false},
@@ -342,6 +352,7 @@
             "title": {
                 "en": "The Little Witch",
                 "fr": "La petite sorcière",
+                "pt": "Pequena Bruxa",
                 "zh": "小魔女"
             }, "pages": [{"page": "01", "bgm": "012", "se": [], "voice": false},
                 {"page": "02", "bgm": "012", "se": [], "voice": false},
@@ -372,6 +383,7 @@
             "title": {
                 "en": "Submission",
                 "fr": "Soumission",
+                "pt": "Submissão",
                 "zh": "屈服"
             }, "pages": [{"page": "01", "bgm": null, "se": ["005"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["005"], "voice": false},
@@ -410,6 +422,7 @@
             "title": {
                 "en": "Chessboard Logic",
                 "fr": "Théorie de l’échiquier",
+                "pt": "A Teoria do Tabuleiro de Xadrez",
                 "zh": "翻转棋盘理论"
             }, "pages": [{"page": "01", "bgm": "019", "se": [], "voice": false},
                 {"page": "02", "bgm": "019", "se": [], "voice": false},
@@ -438,6 +451,7 @@
             "title": {
                 "en": "The Devil’s Proof ①",
                 "fr": "Preuve du diable ①",
+                "pt": "A Prova do Demônio ①",
                 "zh": "恶魔的证明①"
             }, "pages": [{"page": "01", "bgm": "020", "se": ["012"], "voice": false},
                 {"page": "02", "bgm": "020", "se": ["012"], "voice": false},
@@ -470,6 +484,7 @@
             "title": {
                 "en": "The Devil’s Proof ②",
                 "fr": "Preuve du diable ②",
+                "pt": "A Prova do Demônio ②",
                 "zh": "恶魔的证明②"
             }, "pages": [{"page": "01", "bgm": null, "se": ["005", "013"], "voice": false},
                 {"page": "02", "bgm": "017", "se": [], "voice": false},
@@ -502,6 +517,7 @@
             "title": {
                 "en": "Happy Halloween for Maria",
                 "fr": "Happy Halloween for Maria",
+                "pt": "Happy Halloween for Maria",
                 "zh": "万圣节快乐 真里亚"
             }, "pages": [{"page": "01", "bgm": null, "se": ["013"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["012"], "voice": false},
@@ -541,6 +557,7 @@
             "title": {
                 "en": "Furniture’s Blade",
                 "fr": "L’épée du meuble",
+                "pt": "A Lâmina da Mobília",
                 "zh": "家具之刃"
             }, "pages": [{"page": "01", "bgm": "033", "se": ["005", "013"], "voice": false},
                 {"page": "02", "bgm": "033", "se": ["005", "013"], "voice": false},
@@ -600,6 +617,7 @@
             "title": {
                 "en": "New Rule",
                 "fr": "Nouvelle règle",
+                "pt": "A Nova Regra",
                 "zh": "新的规则"
             }, "pages": [{"page": "01", "bgm": "034", "se": [], "voice": false},
                 {"page": "02", "bgm": "044", "se": ["013"], "voice": false},
@@ -646,6 +664,7 @@
             "title": {
                 "en": "Battler’s Counterattack",
                 "fr": "Battler contrattaque",
+                "pt": "O contra-ataque de Battler",
                 "zh": "战人的反击"
             }, "pages": [{"page": "01", "bgm": "051", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "051", "se": [], "voice": false},
@@ -672,6 +691,7 @@
             "title": {
                 "en": "The Wolves and Sheep Riddle",
                 "fr": "Problème de loups et d’agneaux",
+                "pt": "Jogo de ovelhas e lobos",
                 "zh": "狼与羊的谜题"
             }, "pages": [{"page": "01", "bgm": "044", "se": [], "voice": false},
                 {"page": "02", "bgm": "044", "se": [], "voice": false},
@@ -727,6 +747,7 @@
             "title": {
                 "en": "Vanishing Remains",
                 "fr": "Disparition des corps",
+                "pt": "Os Cadáveres Desaparecidos",
                 "zh": "遗体消失"
             }, "pages": [{"page": "01", "bgm": "039", "se": ["013"], "voice": false},
                 {"page": "02", "bgm": "039", "se": ["013"], "voice": false},
@@ -783,6 +804,7 @@
             "title": {
                 "en": "Unreaching Red",
                 "fr": "Un rouge impossible à transmettre",
+                "pt": "Vermelho Inalcançável",
                 "zh": "无法传达的红字"
             }, "pages": [{"page": "01", "bgm": "051", "se": [], "voice": false},
                 {"page": "02", "bgm": "051", "se": [], "voice": false},
@@ -817,6 +839,7 @@
             "title": {
                 "en": "Spirit Mirror",
                 "fr": "Miroir divin",
+                "pt": "O Espelho Espiritual",
                 "zh": "灵镜"
             }, "pages": [{"page": "01", "bgm": "039", "se": ["013"], "voice": false},
                 {"page": "02", "bgm": "039", "se": ["005", "013"], "voice": false},
@@ -853,6 +876,7 @@
             "title": {
                 "en": "An Eternal Promise",
                 "fr": "Vœux éternels",
+                "pt": "Votos Eternos",
                 "zh": "永远的誓言"
             }, "pages": [{"page": "01", "bgm": "054", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "054", "se": [], "voice": false},
@@ -903,6 +927,7 @@
             "title": {
                 "en": "Act Close",
                 "fr": "Fin de la pièce",
+                "pt": "Fim de Jogo",
                 "zh": "剧终"
             }, "pages": [{"page": "01", "bgm": "031", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "031", "se": [], "voice": false},
@@ -954,6 +979,7 @@
             "title": {
                 "en": "Feast",
                 "fr": "Banquet",
+                "pt": "Banquete",
                 "zh": "宴会"
             }, "pages": [{"page": "01", "bgm": "019", "se": ["013"], "voice": true},
                 {"page": "02", "bgm": "019", "se": ["013"], "voice": true},
@@ -1001,6 +1027,7 @@
             "title": {
                 "en": "Tea Party",
                 "fr": "Pause thé",
+                "pt": "Festa do Chá",
                 "zh": "茶会"
             }, "pages": [{"page": "01", "bgm": null, "se": ["011"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["011"], "voice": false},
@@ -1035,6 +1062,7 @@
             "title": {
                 "en": "Secret Tea Party",
                 "fr": "Pause thé secrète",
+                "pt": "Festa do Chá Oculta",
                 "zh": "里茶会"
             }, "pages": [{"page": "01", "bgm": "040", "se": [], "voice": false},
                 {"page": "02", "bgm": "040", "se": [], "voice": false},
