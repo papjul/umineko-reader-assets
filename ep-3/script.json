@@ -1,5 +1,5 @@
 {
-    "version": "20210212",
+    "version": "20211217",
     "lang": "en",
 
     "title": "Banquet of the Golden Witch",
@@ -7,6 +7,7 @@
     "translations": {
         "en": [],
         "fr": [{"name": "MiamMiamTeam", "url": "https://miammiam-team.org/"}],
+        "pt": [{"name": "Breaker Scans", "url": null}, {"name": "NekoBreaker Scan", "url": "https://nekobreakerscan.com/"}, {"name": "Sirius Scanlator", "url": "https://siriusscanlator.com/"}],
         "zh": [{"name": "四魂制作组", "url": null}]
     }, "volumes": {
         "1": ["1", "2", "3", "4", "5"],
@@ -19,6 +20,7 @@
             "title": {
                 "en": "The Endless Witch",
                 "fr": "La sorcière de l’infini",
+                "pt": "A Bruxa Infinita",
                 "zh": "无限的魔女"
             }, "pages": [{"page": "01", "bgm": "009", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "060", "se": [], "voice": false},
@@ -68,6 +70,7 @@
             "title": {
                 "en": "Welcome Home",
                 "fr": "Bon retour",
+                "pt": "Bem-vinda à sua Casa",
                 "zh": "欢迎回来"
             }, "pages": [{"page": "01", "bgm": "001", "se": ["003"], "voice": false},
                 {"page": "02", "bgm": "001", "se": ["003"], "voice": false},
@@ -117,6 +120,7 @@
             "title": {
                 "en": "The Devil’s Proof",
                 "fr": "Preuve du diable",
+                "pt": "A Prova do Diabo",
                 "zh": "恶魔的证明"
             }, "pages": [{"page": "01", "bgm": "002", "se": [], "voice": false},
                 {"page": "02", "bgm": "002", "se": [], "voice": false},
@@ -163,6 +167,7 @@
             "title": {
                 "en": "Tenacity",
                 "fr": "Ténacité",
+                "pt": "Persistência",
                 "zh": "执念"
             }, "pages": [{"page": "01", "bgm": "061", "se": ["005", "013"], "voice": false},
                 {"page": "02", "bgm": "061", "se": ["005"], "voice": false},
@@ -212,6 +217,7 @@
             "title": {
                 "en": "Confession",
                 "fr": "Confession",
+                "pt": "Confissão",
                 "zh": "告白"
             }, "pages": [{"page": "01", "bgm": "019", "se": [], "voice": false},
                 {"page": "02", "bgm": "019", "se": [], "voice": false},
@@ -258,6 +264,7 @@
             "title": {
                 "en": "Kuwadorian",
                 "fr": "Kuwadorian",
+                "pt": "Kuwadorian",
                 "zh": "九羽鸟庵"
             }, "pages": [{"page": "01", "bgm": "009", "se": [], "voice": false},
                 {"page": "02", "bgm": "009", "se": [], "voice": false},
@@ -313,6 +320,7 @@
             "title": {
                 "en": "Furniture vs. Seven Sisters",
                 "fr": "Les meubles contre les sept pieux",
+                "pt": "Objetos vs As Sete Estacas",
                 "zh": "家具VS七桩"
             }, "pages": [{"page": "01", "bgm": null, "se": ["005", "013"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["012"], "voice": false},
@@ -371,6 +379,7 @@
             "title": {
                 "en": "Magic Battle",
                 "fr": "La grande bataille magique",
+                "pt": "A Grande Batalha Mágica",
                 "zh": "魔法大战"
             }, "pages": [{"page": "01", "bgm": null, "se": ["005"], "voice": false},
                 {"page": "02", "bgm": "065", "se": [], "voice": false},
@@ -425,6 +434,7 @@
             "title": {
                 "en": "Victory Conditions",
                 "fr": "Conditions de la victoire",
+                "pt": "Condições para a Vitória",
                 "zh": "胜利条件"
             }, "pages": [{"page": "01", "bgm": null, "se": ["013"], "voice": false},
                 {"page": "02", "bgm": "027", "se": [], "voice": false},
@@ -479,6 +489,7 @@
             "title": {
                 "en": "Wish Fulfillment",
                 "fr": "Le vœu exaucé",
+                "pt": "Desejo da Realização",
                 "zh": "达成悲愿"
             }, "pages": [{"page": "01", "bgm": null, "se": ["005", "013"], "voice": false},
                 {"page": "02", "bgm": "030", "se": [], "voice": false},
@@ -529,6 +540,7 @@
             "title": {
                 "en": "Succession Ceremony",
                 "fr": "Cérémonie de succession",
+                "pt": "Cerimônia da Sucessão",
                 "zh": "继承仪式"
             }, "pages": [{"page": "01", "bgm": "072", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "072", "se": [], "voice": false},
@@ -595,6 +607,7 @@
             "title": {
                 "en": "Separation",
                 "fr": "Séparation",
+                "pt": "Adeus",
                 "zh": "诀别"
             }, "pages": [{"page": "01", "bgm": "061", "se": ["013"], "voice": false},
                 {"page": "02", "bgm": "061", "se": ["013"], "voice": false},
@@ -667,6 +680,7 @@
             "title": {
                 "en": "A Woman’s Jealousy",
                 "fr": "La jalousie d’une femme",
+                "pt": "A Inveja da Bruxa",
                 "zh": "女人的嫉妒"
             }, "pages": [{"page": "01", "bgm": "038", "se": [], "voice": false},
                 {"page": "02", "bgm": "038", "se": [], "voice": false},
@@ -745,6 +759,7 @@
             "title": {
                 "en": "New Furniture",
                 "fr": "Nouveaux meubles",
+                "pt": "Novo Objeto",
                 "zh": "无题"
             }, "pages": [{"page": "01", "bgm": "054", "se": [], "voice": false},
                 {"page": "02-03", "bgm": null, "se": ["005"], "voice": false},
@@ -815,6 +830,7 @@
             "title": {
                 "en": "Resurrection Magic",
                 "fr": "La magie de résurrection",
+                "pt": "Magia da Ressureição",
                 "zh": "反魂魔法"
             }, "pages": [{"page": "01", "bgm": "014", "se": ["013"], "voice": false},
                 {"page": "02", "bgm": "014", "se": ["013"], "voice": false},
@@ -884,6 +900,7 @@
             "title": {
                 "en": "Internal Collapse",
                 "fr": "Effondrement intérieur",
+                "pt": "Colapso Interno",
                 "zh": "内部崩毁"
             }, "pages": [{"page": "01", "bgm": "031", "se": [], "voice": false},
                 {"page": "02", "bgm": "031", "se": [], "voice": false},
@@ -943,6 +960,7 @@
             "title": {
                 "en": "The True Endless Witch",
                 "fr": "La vraie sorcière de l’infini",
+                "pt": "A Verdadeira Bruxa Infinita",
                 "zh": "真正的无限魔女"
             }, "pages": [{"page": "01", "bgm": "055", "se": [], "voice": false},
                 {"page": "02", "bgm": "055", "se": [], "voice": false},
@@ -1014,6 +1032,7 @@
             "title": {
                 "en": "Battler vs. Eva",
                 "fr": "Battler contre Eva",
+                "pt": "Battler vs. Eva",
                 "zh": "战人VS夏娃"
             }, "pages": [{"page": "01", "bgm": "080", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "080", "se": [], "voice": false},
@@ -1079,6 +1098,7 @@
             "title": {
                 "en": "Red Truth",
                 "fr": "Vérité rouge",
+                "pt": "Verdade Vermelha",
                 "zh": "红色真实"
             }, "pages": [{"page": "01", "bgm": "072", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "072", "se": [], "voice": false},
@@ -1146,6 +1166,7 @@
             "title": {
                 "en": "An Uninvited Guest",
                 "fr": "Un invité imprévu",
+                "pt": "Um Convidado Indesejado",
                 "zh": "不速之客"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": "076", "se": [], "voice": false},
@@ -1211,6 +1232,7 @@
             "title": {
                 "en": "Tea Party",
                 "fr": "Pause thé",
+                "pt": "Festa do Chá",
                 "zh": "茶会"
             }, "pages": [{"page": "01", "bgm": "040", "se": [], "voice": false},
                 {"page": "02", "bgm": "040", "se": [], "voice": false},
@@ -1235,6 +1257,7 @@
             "title": {
                 "en": "Secret Tea Party",
                 "fr": "Pause thé secrète",
+                "pt": "Festa do Chá Oculta",
                 "zh": "里茶会"
             }, "pages": [{"page": "01", "bgm": "001", "se": [], "voice": false},
                 {"page": "02", "bgm": "001", "se": [], "voice": false},
