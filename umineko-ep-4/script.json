@@ -8,7 +8,7 @@
     "translations": {
         "en": [],
         "fr": [{"name": "MiamMiamTeam", "url": "https://miammiam-team.org/"}],
-        "pt": [{"name": "Breaker Scans", "url": null}, {"name": "NekoBreaker Scan", "url": "https://nekobreakerscan.com/"}, {"name": "Sirius Scanlator", "url": "https://siriusscanlator.com/"}],
+        "pt": [{"name": "Sirius Scanlator", "url": "https://siriusscanlator.com/"}],
         "zh": [{"name": "四魂制作组", "url": null}]
     }, "volumes": {
         "1": ["1", "2", "3", "4"],
