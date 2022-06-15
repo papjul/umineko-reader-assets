@@ -1,8 +1,9 @@
 {
-    "version": "20211217",
+    "version": "20220615",
     "lang": "en",
+    "soundDir": "umineko-sound",
 
-    "title": "Dawn of the Golden Witch",
+    "title": "Umineko E6 - Dawn of the Golden Witch",
     "art": "Hinase Momoyama",
     "translations": {
         "en": [],

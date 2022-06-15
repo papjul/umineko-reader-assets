@@ -1,8 +1,9 @@
 {
-    "version": "20211217",
+    "version": "20220615",
     "lang": "en",
+    "soundDir": "umineko-sound",
 
-    "title": "Twilight of the Golden Witch",
+    "title": "Umineko E8 - Twilight of the Golden Witch",
     "art": "Kei Natsumi",
     "translations": {
         "en": [],

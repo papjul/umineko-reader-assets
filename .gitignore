@@ -1,7 +1,3 @@
-common/bgm/umib_0*.ogg
-common/bgm/umib_1*.ogg
-common/bgm/umib_2*.ogg
-common/se/umilse_0*.ogg
-common/se/umilse_1*.ogg
-common/se/umilse_maria*.ogg
-ep-*/img/ch-*/*.jpg
+umineko-*/img/ch-*/*.jpg
+umineko-sound/bgm/*.ogg
+umineko-sound/se/*.ogg

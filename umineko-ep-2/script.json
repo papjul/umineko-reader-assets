@@ -1,8 +1,9 @@
 {
-    "version": "20211218",
+    "version": "20220615",
     "lang": "en",
+    "soundDir": "umineko-sound",
 
-    "title": "Turn of the Golden Witch",
+    "title": "Umineko E2 - Turn of the Golden Witch",
     "art": "Jirō Suzuki",
     "translations": {
         "en": [],

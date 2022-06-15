@@ -1,8 +1,9 @@
 {
-    "version": "20211217",
+    "version": "20220615",
     "lang": "en",
+    "soundDir": "umineko-sound",
 
-    "title": "",
+    "title": "Umineko Tsubasa",
     "art": "Itō Fumi",
     "translations": {
         "en": [{"name": "WTDND Group", "url": "https://wtdnd.wordpress.com/"}],

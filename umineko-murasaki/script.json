@@ -1,8 +1,9 @@
 {
-    "version": "20210213",
+    "version": "20220615",
     "lang": "en",
+    "soundDir": "umineko-sound",
 
-    "title": "Forgery of the Purple Logic",
+    "title": "Umineko Murasaki - Forgery of the Purple Logic",
     "art": "Kurumi Suzushiro",
     "translations": {
         "en": [{"name": "SoaringPegasus", "url": "https://spscanlations.wordpress.com/"}],

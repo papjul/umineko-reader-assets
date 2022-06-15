@@ -1,8 +1,9 @@
 {
-    "version": "20211217",
+    "version": "20220615",
     "lang": "en",
+    "soundDir": "umineko-sound",
 
-    "title": "Requiem of the Golden Witch",
+    "title": "Umineko E7 - Requiem of the Golden Witch",
     "art": "Eita Mizuno",
     "translations": {
         "en": [],

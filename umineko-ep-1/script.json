@@ -1,8 +1,9 @@
 {
-    "version": "20211217",
+    "version": "20220615",
     "lang": "en",
+    "soundDir": "umineko-sound",
 
-    "title": "Legend of the Golden Witch",
+    "title": "Umineko E1 - Legend of the Golden Witch",
     "art": "Kei Natsumi",
     "translations": {
         "en": [],

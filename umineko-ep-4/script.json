@@ -1,12 +1,14 @@
 {
-    "version": "20211217",
+    "version": "20220615",
     "lang": "en",
+    "soundDir": "umineko-sound",
 
-    "title": "Alliance of the Golden Witch",
+    "title": "Umineko E4 - Alliance of the Golden Witch",
     "art": "Jirō Suzuki",
     "translations": {
         "en": [],
         "fr": [{"name": "MiamMiamTeam", "url": "https://miammiam-team.org/"}],
+        "pt": [{"name": "Breaker Scans", "url": null}, {"name": "NekoBreaker Scan", "url": "https://nekobreakerscan.com/"}, {"name": "Sirius Scanlator", "url": "https://siriusscanlator.com/"}],
         "zh": [{"name": "四魂制作组", "url": null}]
     }, "volumes": {
         "1": ["1", "2", "3", "4"],
@@ -20,6 +22,7 @@
             "title": {
                 "en": "One-Winged Eagle",
                 "fr": "L’aigle à une aile",
+                "pt": "Águia de Uma Só Asa",
                 "zh": "独羽之鹫"
             }, "pages": [{"page": "01", "bgm": "004", "se": [], "voice": false},
                 {"page": "02", "bgm": "004", "se": [], "voice": false},
@@ -89,6 +92,7 @@
             "title": {
                 "en": "Magic",
                 "fr": "Magie",
+                "pt": "Magia",
                 "zh": "魔法"
             }, "pages": [{"page": "01", "bgm": "090", "se": [], "voice": false},
                 {"page": "02", "bgm": "090", "se": [], "voice": false},
@@ -145,6 +149,7 @@
             "title": {
                 "en": "It Is the One Element",
                 "fr": "C’est l’élément unique",
+                "pt": "Este é o Único Elemento",
                 "zh": "那是第一元素"
             }, "pages": [{"page": "01", "bgm": "001", "se": [], "voice": false},
                 {"page": "02", "bgm": "001", "se": [], "voice": false},
@@ -204,6 +209,7 @@
             "title": {
                 "en": "Truth Is Like a Kaleidoscope",
                 "fr": "La vérité est un kaléidoscope",
+                "pt": "A Verdade é Como Um Caleidoscópio",
                 "zh": "真实如同万华镜"
             }, "pages": [{"page": "01", "bgm": "086", "se": [], "voice": false},
                 {"page": "02", "bgm": "086", "se": [], "voice": false},
@@ -261,6 +267,7 @@
             "title": {
                 "en": "Beatrice",
                 "fr": "Beatrice",
+                "pt": "Beatrice",
                 "zh": "贝阿朵莉切"
             }, "pages": [{"page": "01", "bgm": "001", "se": [], "voice": false},
                 {"page": "02", "bgm": "001", "se": [], "voice": false},
@@ -299,6 +306,7 @@
             "title": {
                 "en": "Mariage Sorcière",
                 "fr": "Mariage Sorcière",
+                "pt": "Mariage Sorcière",
                 "zh": "Mariage Sorcière"
             }, "pages": [{"page": "01", "bgm": "082", "se": [], "voice": false},
                 {"page": "02", "bgm": "082", "se": [], "voice": false},
@@ -358,6 +366,7 @@
             "title": {
                 "en": "Two Butterflies",
                 "fr": "Deux papillons",
+                "pt": "Duas Borboletas",
                 "zh": "两只蝴蝶"
             }, "pages": [{"page": "01", "bgm": "093", "se": [], "voice": false},
                 {"page": "02", "bgm": "093", "se": [], "voice": false},
@@ -397,6 +406,7 @@
             "title": {
                 "en": "The Miracle of Magic",
                 "fr": "Le miracle de la magie",
+                "pt": "O Milagre da Magia",
                 "zh": "魔法的奇迹"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
@@ -438,6 +448,7 @@
             "title": {
                 "en": "Reunion",
                 "fr": "Réouverture",
+                "pt": "Reunião",
                 "zh": "再开"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": null, "se": [], "voice": false},
@@ -498,6 +509,7 @@
             "title": {
                 "en": "Opening",
                 "fr": "Lever de rideau",
+                "pt": "Abertura",
                 "zh": "开幕"
             }, "pages": [{"page": "01", "bgm": "061", "se": [], "voice": false},
                 {"page": "02", "bgm": "082", "se": [], "voice": false},
@@ -553,6 +565,7 @@
             "title": {
                 "en": "Mother",
                 "fr": "Mère",
+                "pt": "Mãe",
                 "zh": "母亲"
             }, "pages": [{"page": "01", "bgm": "047", "se": [], "voice": false},
                 {"page": "02", "bgm": "014", "se": [], "voice": false},
@@ -611,6 +624,7 @@
             "title": {
                 "en": "The End of the Daydream",
                 "fr": "Fin du rêve éveillé",
+                "pt": "O Fim de um Sonho",
                 "zh": "白日梦的完结"
             }, "pages": [{"page": "01", "bgm": "043", "se": [], "voice": false},
                 {"page": "02", "bgm": "043", "se": [], "voice": false},
@@ -666,6 +680,7 @@
             "title": {
                 "en": "Sakutarō",
                 "fr": "Sakutarō",
+                "pt": "Sakutarō",
                 "zh": "樱太郎"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": "091", "se": [], "voice": false},
@@ -726,6 +741,7 @@
             "title": {
                 "en": "The First Night",
                 "fr": "Le premier crépuscule",
+                "pt": "Primeiro Crepúsculo",
                 "zh": "第一晚"
             }, "pages": [{"page": "01", "bgm": null, "se": ["005", "013"], "voice": false},
                 {"page": "02", "bgm": "018", "se": ["005", "013"], "voice": false},
@@ -775,6 +791,7 @@
             "title": {
                 "en": "Evil",
                 "fr": "Mère démoniaque",
+                "pt": "Cruel",
                 "zh": "魔"
             }, "pages": [{"page": "01", "bgm": "024", "se": [], "voice": false},
                 {"page": "02", "bgm": "024", "se": [], "voice": false},
@@ -843,6 +860,7 @@
             "title": {
                 "en": "Future Heir",
                 "fr": "Le prochain chef",
+                "pt": "Próximo Líder",
                 "zh": "下任当主"
             }, "pages": [{"page": "01b", "bgm": "040", "se": ["005", "013"], "voice": false},
                 {"page": "02", "bgm": "040", "se": ["005", "013"], "voice": false},
@@ -881,6 +899,7 @@
             "title": {
                 "en": "Absolute Determination",
                 "fr": "Expansion",
+                "pt": "Determinação Absoluta",
                 "zh": "绝对的意志"
             }, "pages": [{"page": "01", "bgm": "099", "se": [], "voice": false},
                 {"page": "02", "bgm": "099", "se": [], "voice": false},
@@ -929,6 +948,7 @@
             "title": {
                 "en": "Battle",
                 "fr": "Attaque et défense",
+                "pt": "Batalha",
                 "zh": "攻防"
             }, "pages": [{"page": "01", "bgm": "102", "se": [], "voice": false},
                 {"page": "02", "bgm": "102", "se": [], "voice": false},
@@ -969,6 +989,7 @@
             "title": {
                 "en": "The End of the Feast",
                 "fr": "Fin du banquet",
+                "pt": "O Fim da Celebração",
                 "zh": "宴会的终焉"
             }, "pages": [{"page": "01", "bgm": "096", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "096", "se": [], "voice": false},
@@ -1019,6 +1040,7 @@
             "title": {
                 "en": "Mission",
                 "fr": "Mission",
+                "pt": "Missão",
                 "zh": "使命"
             }, "pages": [{"page": "01", "bgm": null, "se": ["003"], "voice": false},
                 {"page": "02", "bgm": "001", "se": ["003"], "voice": false},
@@ -1070,6 +1092,7 @@
             "title": {
                 "en": "Sin",
                 "fr": "Crime",
+                "pt": "Pecado",
                 "zh": "罪"
             }, "pages": [{"page": "01", "bgm": "104", "se": [], "voice": false},
                 {"page": "02", "bgm": "104", "se": [], "voice": false},
@@ -1109,6 +1132,7 @@
             "title": {
                 "en": "Battler Ushiromiya?",
                 "fr": "Battler Ushiromiya ?",
+                "pt": "Battler Ushiromiya?",
                 "zh": "右代宫战人？"
             }, "pages": [{"page": "01", "bgm": "019", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "019", "se": [], "voice": false},
@@ -1165,6 +1189,7 @@
             "title": {
                 "en": "It Can’t Be Seen Without Love",
                 "fr": "Sans amour, on ne peut la voir",
+                "pt": "Sem Amor Não Pode Ser Visto",
                 "zh": "没有爱就看不到"
             }, "pages": [{"page": "01", "bgm": "001", "se": ["003"], "voice": false},
                 {"page": "02", "bgm": "001", "se": ["003"], "voice": false},
@@ -1207,6 +1232,7 @@
             "title": {
                 "en": "Black and White",
                 "fr": "Noir et blanc",
+                "pt": "Preto e Branco",
                 "zh": "白与黑"
             }, "pages": [{"page": "01", "bgm": "082", "se": [], "voice": false},
                 {"page": "02", "bgm": "082", "se": [], "voice": false},
@@ -1250,6 +1276,7 @@
             "title": {
                 "en": "Conclusion",
                 "fr": "Conclusion",
+                "pt": "Conclusão",
                 "zh": "结束"
             }, "pages": [{"page": "01", "bgm": "105", "se": [], "voice": false},
                 {"page": "02", "bgm": "105", "se": [], "voice": false},
@@ -1306,6 +1333,7 @@
             "title": {
                 "en": "Ange Ushiromiya",
                 "fr": "Ange Ushiromiya",
+                "pt": "Ange Ushiromiya",
                 "zh": "右代宫缘寿"
             }, "pages": [{"page": "01", "bgm": "106", "se": [], "voice": false},
                 {"page": "02", "bgm": "106", "se": [], "voice": false},
@@ -1370,6 +1398,7 @@
             "title": {
                 "en": "Tea Party ①",
                 "fr": "Pause thé ①",
+                "pt": "Festa do Chá ①",
                 "zh": "茶会①"
             }, "pages": [{"page": "01", "bgm": "038", "se": ["012"], "voice": false},
                 {"page": "02", "bgm": "038", "se": ["012"], "voice": false},
@@ -1407,6 +1436,7 @@
             "title": {
                 "en": "Tea Party ②",
                 "fr": "Pause thé ②",
+                "pt": "Festa do Chá ②",
                 "zh": "茶会②"
             }, "pages": [{"page": "01", "bgm": "106", "se": [], "voice": false},
                 {"page": "02", "bgm": "106", "se": [], "voice": false},
@@ -1472,6 +1502,7 @@
             "title": {
                 "en": "Secret Tea Party",
                 "fr": "Pause thé secrète",
+                "pt": "Festa do Chá Oculta",
                 "zh": "里茶会"
             }, "pages": [{"page": "01", "bgm": "110", "se": [], "voice": false},
                 {"page": "02", "bgm": "110", "se": [], "voice": false},
