@@ -1135,7 +1135,7 @@
         }, "19": {
             "title": {
                 "en": "Erika’s Trap",
-                "fr": "Erika’s Trap",
+                "fr": "Le piège d’Erika",
                 "zh": "绘梨花的陷阱"
             }, "pages": [{"page": "01", "bgm": "148", "se": [], "voice": false},
                 {"page": "02", "bgm": "148", "se": [], "voice": false},
@@ -1202,7 +1202,7 @@
         }, "20": {
             "title": {
                 "en": "The Prize for Victory",
-                "fr": "The Prize for Victory",
+                "fr": "Récompense pour la victoire",
                 "zh": "胜利的奖赏"
             }, "pages": [{"page": "01", "bgm": "142", "se": [], "voice": false},
                 {"page": "02", "bgm": "142", "se": [], "voice": false},
