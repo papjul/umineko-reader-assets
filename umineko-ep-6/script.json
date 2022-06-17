@@ -1,5 +1,5 @@
 {
-    "version": "20220615",
+    "version": "20220617",
     "lang": "en",
     "soundDir": "umineko-sound",
 
@@ -8,6 +8,7 @@
     "translations": {
         "en": [],
         "fr": [{"name": "MiamMiamTeam", "url": "https://miammiam-team.org/"}],
+        "pt": [{"name": "Sirius Scanlator", "url": "https://siriusscanlator.com/"}],
         "zh": [{"name": "四魂制作组", "url": null}]
     }, "volumes": {
         "1": ["1", "2", "3", "4"],
@@ -21,6 +22,7 @@
             "title": {
                 "en": "The Sixth Game",
                 "fr": "La sixième partie",
+                "pt": "O sexto Jogo",
                 "zh": "第6盘游戏"
             }, "pages": [{"page": "01", "bgm": "135", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "135", "se": [], "voice": false},
@@ -87,6 +89,7 @@
             "title": {
                 "en": "Fledgling",
                 "fr": "Oisillon",
+                "pt": "Filha",
                 "zh": "雏鸟"
             }, "pages": [{"page": "01", "bgm": "139", "se": [], "voice": false},
                 {"page": "02", "bgm": "139", "se": [], "voice": false},
@@ -146,6 +149,7 @@
             "title": {
                 "en": "Confession",
                 "fr": "Confession",
+                "pt": "Confissão",
                 "zh": "告白"
             }, "pages": [{"page": "01", "bgm": "140", "se": [], "voice": false},
                 {"page": "02", "bgm": "140", "se": [], "voice": false},
@@ -200,6 +204,7 @@
             "title": {
                 "en": "Beato’s Existence",
                 "fr": "L’existence de Beato",
+                "pt": "A Existência da Beato",
                 "zh": "贝阿朵的存在"
             }, "pages": [{"page": "01", "bgm": "114", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "114", "se": [], "voice": false},
@@ -265,6 +270,7 @@
             "title": {
                 "en": "The Wedges of Blue Truth",
                 "fr": "Les entraves de la vérité bleue",
+                "pt": "A Estaca da Verdade Azul",
                 "zh": "蓝色真实之楔"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": "139", "se": [], "voice": false},
@@ -330,6 +336,7 @@
             "title": {
                 "en": "As Each Grows",
                 "fr": "Chacun grandit à son rythme",
+                "pt": "Amadurecimento",
                 "zh": "各自的成长"
             }, "pages": [{"page": "01", "bgm": null, "se": ["012"], "voice": false},
                 {"page": "02", "bgm": "111", "se": [], "voice": false},
@@ -394,6 +401,7 @@
             "title": {
                 "en": "A Different Interpretation of Magic",
                 "fr": "La magie de l’interprétation",
+                "pt": "A Magia de uma Interpretação Diferente",
                 "zh": "另一种解释的魔法"
             }, "pages": [{"page": "01", "bgm": "082", "se": [], "voice": false},
                 {"page": "02", "bgm": "082", "se": [], "voice": false},
@@ -452,6 +460,7 @@
             "title": {
                 "en": "Trial of Lovers",
                 "fr": "L’épreuve des amants",
+                "pt": "O Julgamento dos Casais",
                 "zh": "相爱者们的试炼"
             }, "pages": [{"page": "01", "bgm": "043", "se": [], "voice": false},
                 {"page": "02", "bgm": "043", "se": [], "voice": false},
@@ -521,6 +530,7 @@
             "title": {
                 "en": "Opening",
                 "fr": "Lever de rideau",
+                "pt": "As Cortinas se Abrem",
                 "zh": "开幕"
             }, "pages": [{"page": "01", "bgm": null, "se": ["005", "012"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["005", "012"], "voice": false},
@@ -583,6 +593,7 @@
             "title": {
                 "en": "Absolute Will",
                 "fr": "Une Volonté inébranlable",
+                "pt": "Determinação Absoluta",
                 "zh": "绝对的意志"
             }, "pages": [{"page": "01", "bgm": null, "se": ["005", "012"], "voice": false},
                 {"page": "02-03", "bgm": "106", "se": [], "voice": false},
@@ -644,6 +655,7 @@
             "title": {
                 "en": "The Hell of Love",
                 "fr": "L’enfer amoureux",
+                "pt": "Inferno do Amor",
                 "zh": "恋之地狱"
             }, "pages": [{"page": "01", "bgm": null, "se": ["005"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["005"], "voice": false},
@@ -705,6 +717,7 @@
             "title": {
                 "en": "Two in One",
                 "fr": "Deux contre un",
+                "pt": "Dois Amantes em Um",
                 "zh": "两人即为一人"
             }, "pages": [{"page": "01", "bgm": "065", "se": [], "voice": false},
                 {"page": "02", "bgm": "065", "se": [], "voice": false},
@@ -760,6 +773,7 @@
             "title": {
                 "en": "Detective’s Privileges and the Premise of Magic",
                 "fr": "L’autorité du détective et les prérequis de la magie",
+                "pt": "A Autoridade do Detetive e a Premissa da Magia",
                 "zh": "侦探权限魔法前提"
             }, "pages": [{"page": "01", "bgm": "001", "se": [], "voice": false},
                 {"page": "02", "bgm": "001", "se": [], "voice": false},
@@ -824,6 +838,7 @@
             "title": {
                 "en": "Battle of Red and Blue",
                 "fr": "Bataille de bleu et de rouge",
+                "pt": "Batalha do Vermelho e Azul",
                 "zh": "红与蓝的论战"
             }, "pages": [{"page": "01", "bgm": "034", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "034", "se": [], "voice": false},
@@ -893,6 +908,7 @@
             "title": {
                 "en": "Arrogance and a Trap",
                 "fr": "Un cadeau et un piège",
+                "pt": "O Convencido e a Armadilha",
                 "zh": "傲慢与陷阱"
             }, "pages": [{"page": "01", "bgm": "043", "se": [], "voice": false},
                 {"page": "02", "bgm": "043", "se": [], "voice": false},
@@ -950,6 +966,7 @@
             "title": {
                 "en": "A Tiny Seam",
                 "fr": "Une faille minuscule",
+                "pt": "Um Pequeno Erro",
                 "zh": "微笑的破绽"
             }, "pages": [{"page": "01", "bgm": "032", "se": ["013"], "voice": false},
                 {"page": "02", "bgm": "032", "se": ["013"], "voice": false},
@@ -1019,6 +1036,7 @@
             "title": {
                 "en": "Battler’s Counter",
                 "fr": "La riposte de Battler",
+                "pt": "Contra-Ataque do Battler",
                 "zh": "战人的对策"
             }, "pages": [{"page": "01", "bgm": "019", "se": [], "voice": false},
                 {"page": "02", "bgm": "019", "se": [], "voice": false},
@@ -1071,6 +1089,7 @@
             "title": {
                 "en": "The Skirmish Over Battler’s Disappearance",
                 "fr": "L’escarmouche autour de la disparition de Battler",
+                "pt": "O Alvoroço Sobre o Desaparecimento do Battler",
                 "zh": "围绕战人消失攻防"
             }, "pages": [{"page": "01", "bgm": "028", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "028", "se": [], "voice": false},
@@ -1136,6 +1155,7 @@
             "title": {
                 "en": "Erika’s Trap",
                 "fr": "Le piège d’Erika",
+                "pt": "Armadilha da Erika",
                 "zh": "绘梨花的陷阱"
             }, "pages": [{"page": "01", "bgm": "148", "se": [], "voice": false},
                 {"page": "02", "bgm": "148", "se": [], "voice": false},
@@ -1203,6 +1223,7 @@
             "title": {
                 "en": "The Prize for Victory",
                 "fr": "Récompense pour la victoire",
+                "pt": "Recompensa pela Vitória",
                 "zh": "胜利的奖赏"
             }, "pages": [{"page": "01", "bgm": "142", "se": [], "voice": false},
                 {"page": "02", "bgm": "142", "se": [], "voice": false},
@@ -1276,6 +1297,7 @@
             "title": {
                 "en": "Ceremony and Duel",
                 "fr": "Ceremony and Duel",
+                "pt": "Casamento e Duelo",
                 "zh": "婚礼与决斗"
             }, "pages": [{"page": "01", "bgm": "146", "se": [], "voice": false},
                 {"page": "02", "bgm": "146", "se": [], "voice": false},
@@ -1349,6 +1371,7 @@
             "title": {
                 "en": "Into One…",
                 "fr": "Into One…",
+                "pt": "Um Só…",
                 "zh": "合而为一"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
                 {"page": "02", "bgm": "149", "se": ["005"], "voice": false},
@@ -1407,6 +1430,7 @@
             "title": {
                 "en": "Detective’s Pride",
                 "fr": "Detective’s Pride",
+                "pt": "O Orgulho da Detetive",
                 "zh": "侦探的自尊"
             }, "pages": [{"page": "01", "bgm": "151", "se": [], "voice": false},
                 {"page": "02", "bgm": "151", "se": [], "voice": false},
@@ -1477,6 +1501,7 @@
             "title": {
                 "en": "Conclusion",
                 "fr": "Conclusion",
+                "pt": "Conclusão",
                 "zh": "胜负分晓"
             }, "pages": [{"page": "01", "bgm": "155", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "155", "se": [], "voice": false},
@@ -1550,6 +1575,7 @@
             "title": {
                 "en": "Tea Party",
                 "fr": "Pause thé",
+                "pt": "Festa do Chá",
                 "zh": "茶会"
             }, "pages": [{"page": "01", "bgm": "148", "se": [], "voice": false},
                 {"page": "02-03", "bgm": "148", "se": [], "voice": false},
@@ -1597,6 +1623,7 @@
             "title": {
                 "en": "Secret Tea Party",
                 "fr": "Pause thé secrète",
+                "pt": "Festa do Chá Oculta",
                 "zh": "里茶会"
             }, "pages": [{"page": "01", "bgm": null, "se": ["015"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["005"], "voice": false},
