@@ -1,5 +1,5 @@
 {
-    "version": "20220615",
+    "version": "20220617",
     "lang": "en",
     "soundDir": "umineko-sound",
 
@@ -8,6 +8,7 @@
     "translations": {
         "en": [],
         "fr": [{"name": "MiamMiamTeam", "url": "https://miammiam-team.org/"}],
+        "pt": [{"name": "Sirius Scanlator", "url": "https://siriusscanlator.com/"}],
         "zh": [{"name": "四魂制作组", "url": null}]
     }, "volumes": {
         "1": ["1", "2", "3", "4", "5", "6", "7", "8"],
@@ -24,6 +25,7 @@
             "title": {
                 "en": "Invitation to the Game",
                 "fr": null,
+                "pt": "Convite para o Jogo",
                 "zh": "魔女的招待券"
             }, "pages": [{"page": "01", "bgm": "155", "se": [], "voice": false},
                 {"page": "02", "bgm": "155", "se": [], "voice": false},
@@ -90,6 +92,7 @@
             "title": {
                 "en": "Beatrice’s Portrait",
                 "fr": null,
+                "pt": "O Quadro da Beatrice",
                 "zh": "贝阿朵莉切的肖像"
             }, "pages": [{"page": "01", "bgm": "163", "se": [], "voice": false},
                 {"page": "02", "bgm": "163", "se": [], "voice": false},
@@ -132,6 +135,7 @@
             "title": {
                 "en": "The Right to Spectate",
                 "fr": null,
+                "pt": "O Direito de Assistir",
                 "zh": "观剧者权限"
             }, "pages": [{"page": "01", "bgm": "110", "se": [], "voice": false},
                 {"page": "02", "bgm": "110", "se": [], "voice": false},
@@ -169,6 +173,7 @@
             "title": {
                 "en": "Kinzō’s Confession",
                 "fr": null,
+                "pt": "Confissão do Kinzo",
                 "zh": "金藏的自白"
             }, "pages": [{"page": "01b", "bgm": "038", "se": ["013"], "voice": false},
                 {"page": "02-03", "bgm": "038", "se": ["013"], "voice": false},
@@ -208,6 +213,7 @@
             "title": {
                 "en": "Encounter on Rokkenjima",
                 "fr": null,
+                "pt": "Encontro em Rokkenjima",
                 "zh": "六轩岛的相遇"
             }, "pages": [{"page": "01b", "bgm": "163", "se": [], "voice": false},
                 {"page": "02", "bgm": "163", "se": [], "voice": false},
@@ -250,6 +256,7 @@
             "title": {
                 "en": "Submarine’s Payload",
                 "fr": null,
+                "pt": "Submarino de Carga",
                 "zh": "潜水艇的货物"
             }, "pages": [{"page": "01", "bgm": "169", "se": ["005"], "voice": false},
                 {"page": "02-03", "bgm": "169", "se": ["005"], "voice": false},
@@ -285,6 +292,7 @@
             "title": {
                 "en": "Bargaining",
                 "fr": null,
+                "pt": "Barganha",
                 "zh": "策略"
             }, "pages": [{"page": "01", "bgm": "168", "se": ["005"], "voice": false},
                 {"page": "02-03", "bgm": "168", "se": ["005"], "voice": false},
@@ -327,6 +335,7 @@
             "title": {
                 "en": "Gold and Madness",
                 "fr": null,
+                "pt": "Ouro e Loucura",
                 "zh": "黄金与疯狂"
             }, "pages": [{"page": "01", "bgm": "125", "se": [], "voice": false},
                 {"page": "02", "bgm": "125", "se": [], "voice": false},
@@ -369,6 +378,7 @@
             "title": {
                 "en": "Golden Magic",
                 "fr": null,
+                "pt": "Magia Dourada",
                 "zh": "黄金的魔法"
             }, "pages": [{"page": "01", "bgm": "024", "se": ["005"], "voice": false},
                 {"page": "02-03", "bgm": "024", "se": ["005"], "voice": false},
@@ -398,6 +408,7 @@
             "title": {
                 "en": "The Game Resumes",
                 "fr": null,
+                "pt": "O Jogo Recomeça",
                 "zh": "游戏再开"
             }, "pages": [{"page": "01", "bgm": "167", "se": [], "voice": false},
                 {"page": "02", "bgm": "167", "se": [], "voice": false},
@@ -437,6 +448,7 @@
             "title": {
                 "en": "Maria the Witch",
                 "fr": null,
+                "pt": "Maria, a Bruxa",
                 "zh": "魔女玛利亚"
             }, "pages": [{"page": "01", "bgm": "163", "se": [], "voice": false},
                 {"page": "02", "bgm": "163", "se": [], "voice": false},
@@ -478,6 +490,7 @@
             "title": {
                 "en": "Will’s Theory",
                 "fr": null,
+                "pt": "Teoria do Will",
                 "zh": "威尔的考察"
             }, "pages": [{"page": "01b", "bgm": "169", "se": ["002"], "voice": false},
                 {"page": "02-03", "bgm": "064", "se": [], "voice": false},
@@ -521,6 +534,7 @@
             "title": {
                 "en": "Jessica’s Confession",
                 "fr": null,
+                "pt": "A Confissão da Jessica",
                 "zh": "朱志香的告白"
             }, "pages": [{"page": "01", "bgm": "162", "se": [], "voice": false},
                 {"page": "02", "bgm": "162", "se": [], "voice": false},
@@ -562,6 +576,7 @@
             "title": {
                 "en": "The Witch in the VIP Room",
                 "fr": null,
+                "pt": "A Bruxa no Quarto de Hóspedes",
                 "zh": "贵宾室的魔女"
             }, "pages": [{"page": "01", "bgm": "017", "se": [], "voice": false},
                 {"page": "02", "bgm": "017", "se": [], "voice": false},
@@ -605,6 +620,7 @@
             "title": {
                 "en": "Two Testimonies",
                 "fr": null,
+                "pt": "Dois Depoimentos",
                 "zh": "两种证言"
             }, "pages": [{"page": "01", "bgm": null, "se": ["023"], "voice": false},
                 {"page": "02a", "bgm": null, "se": ["023"], "voice": false},
@@ -645,6 +661,7 @@
             "title": {
                 "en": "Will’s Hypothesis",
                 "fr": null,
+                "pt": "A Hipótese do Will",
                 "zh": "威尔的推理"
             }, "pages": [{"page": "01", "bgm": null, "se": ["013"], "voice": false},
                 {"page": "02", "bgm": "166", "se": [], "voice": false},
@@ -678,6 +695,7 @@
             "title": {
                 "en": "The Identity of Lion Ushiromiya",
                 "fr": null,
+                "pt": "A Identidade de Lion Ushiromiya",
                 "zh": "右代宫理御的真正身份"
             }, "pages": [{"page": "01b", "bgm": "163", "se": [], "voice": false},
                 {"page": "02", "bgm": "163", "se": [], "voice": false},
@@ -716,6 +734,7 @@
             "title": {
                 "en": "The Beginning of Everything",
                 "fr": null,
+                "pt": "O Começo de Tudo",
                 "zh": "魔女贝阿朵切莉的真面目近在眼前"
             }, "pages": [{"page": "01", "bgm": "167", "se": [], "voice": false},
                 {"page": "02", "bgm": "167", "se": [], "voice": false},
@@ -751,6 +770,7 @@
             "title": {
                 "en": "A New Life",
                 "fr": null,
+                "pt": "Uma Nova Vida",
                 "zh": "崭新的生活"
             }, "pages": [{"page": "01", "bgm": "174", "se": [], "voice": false},
                 {"page": "02", "bgm": "174", "se": [], "voice": false},
@@ -798,6 +818,7 @@
             "title": {
                 "en": "The Culprit’s Birth",
                 "fr": null,
+                "pt": "O Nascimento do Culpado",
                 "zh": "犯人的诞生"
             }, "pages": [{"page": "01", "bgm": "167", "se": [], "voice": false},
                 {"page": "02", "bgm": "167", "se": [], "voice": false},
@@ -838,6 +859,7 @@
             "title": {
                 "en": "Yasu and the Witch",
                 "fr": null,
+                "pt": "Yasu e a Bruxa",
                 "zh": "小安与魔女"
             }, "pages": [{"page": "01", "bgm": "173", "se": [], "voice": false},
                 {"page": "02", "bgm": "173", "se": [], "voice": false},
@@ -878,6 +900,7 @@
             "title": {
                 "en": "Interactions with the Witch",
                 "fr": null,
+                "pt": "Interações com a Bruxa",
                 "zh": "跟魔女的交流"
             }, "pages": [{"page": "01", "bgm": "174", "se": [], "voice": false},
                 {"page": "02", "bgm": "174", "se": [], "voice": false},
@@ -919,6 +942,7 @@
             "title": {
                 "en": "Changing Days",
                 "fr": null,
+                "pt": "Mudança dos Dias",
                 "zh": "日新月异的日常"
             }, "pages": [{"page": "01", "bgm": "173", "se": [], "voice": false},
                 {"page": "02", "bgm": "173", "se": [], "voice": false},
@@ -966,6 +990,7 @@
             "title": {
                 "en": "Witch Magic",
                 "fr": null,
+                "pt": "Magia Branca",
                 "zh": "魔女的魔法"
             }, "pages": [{"page": "01b", "bgm": "175", "se": [], "voice": false},
                 {"page": "02", "bgm": "175", "se": [], "voice": false},
@@ -1006,6 +1031,7 @@
             "title": {
                 "en": "Witch Manifestation",
                 "fr": null,
+                "pt": "Manifestação da Bruxa",
                 "zh": "魔女显现"
             }, "pages": [{"page": "01", "bgm": null, "se": ["012"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["012"], "voice": false},
@@ -1056,6 +1082,7 @@
             "title": {
                 "en": "The Golden Paradise",
                 "fr": null,
+                "pt": "O Paraíso Dourado",
                 "zh": "黄金理想乡"
             }, "pages": [{"page": "01", "bgm": "173", "se": [], "voice": false},
                 {"page": "02", "bgm": "173", "se": [], "voice": false},
@@ -1096,6 +1123,7 @@
             "title": {
                 "en": "An Answer Sought",
                 "fr": null,
+                "pt": "A Resposta Procurada",
                 "zh": "追求的答案"
             }, "pages": [{"page": "01", "bgm": "008", "se": ["002"], "voice": false},
                 {"page": "02-03", "bgm": "008", "se": ["002"], "voice": false},
@@ -1145,6 +1173,7 @@
             "title": {
                 "en": "Witch and Battler",
                 "fr": null,
+                "pt": "Bruxa e Battler",
                 "zh": "魔女与战人"
             }, "pages": [{"page": "01", "bgm": "167", "se": ["012"], "voice": false},
                 {"page": "02", "bgm": "167", "se": ["012"], "voice": false},
@@ -1191,6 +1220,7 @@
             "title": {
                 "en": "The Time of Tribulation",
                 "fr": null,
+                "pt": "Tempo de Tribulação",
                 "zh": "试练之时"
             }, "pages": [{"page": "01", "bgm": "008", "se": [], "voice": false},
                 {"page": "02", "bgm": "008", "se": [], "voice": false},
@@ -1233,6 +1263,7 @@
             "title": {
                 "en": "At the End of the Trial",
                 "fr": null,
+                "pt": "Fim do Teste",
                 "zh": "试练的终结"
             }, "pages": [{"page": "01", "bgm": "012", "se": [], "voice": false},
                 {"page": "02", "bgm": "012", "se": [], "voice": false},
@@ -1279,6 +1310,7 @@
             "title": {
                 "en": "Shoots of Love",
                 "fr": null,
+                "pt": "Lembranças do Amor",
                 "zh": "恋爱之芽"
             }, "pages": [{"page": "01", "bgm": "116", "se": ["012"], "voice": false},
                 {"page": "02", "bgm": "116", "se": ["012"], "voice": false},
@@ -1319,6 +1351,7 @@
             "title": {
                 "en": "The Secret of the Epitaph",
                 "fr": null,
+                "pt": "O Segredo do Epitáfio",
                 "zh": "碑文的秘密"
             }, "pages": [{"page": "01", "bgm": "001", "se": [], "voice": false},
                 {"page": "02", "bgm": "001", "se": [], "voice": false},
@@ -1362,6 +1395,7 @@
             "title": {
                 "en": "Attempting the Epitaph",
                 "fr": null,
+                "pt": "Tentando Solucionar o Epitáfio",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "008", "se": [], "voice": false},
                 {"page": "02", "bgm": "008", "se": [], "voice": false},
@@ -1400,6 +1434,7 @@
             "title": {
                 "en": "The Answer",
                 "fr": null,
+                "pt": "Resposta",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "171", "se": [], "voice": false},
                 {"page": "02", "bgm": "171", "se": ["015"], "voice": false},
@@ -1438,6 +1473,7 @@
             "title": {
                 "en": "The Day of Fate",
                 "fr": null,
+                "pt": "O Dia Destinado",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "001", "se": ["005", "013"], "voice": false},
                 {"page": "02", "bgm": "001", "se": ["005", "013"], "voice": false},
@@ -1486,6 +1522,7 @@
             "title": {
                 "en": "The Witch Returns",
                 "fr": null,
+                "pt": "A Bruxa Retorna",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "bring_the_fate", "se": [], "voice": false},
                 {"page": "02", "bgm": "bring_the_fate", "se": [], "voice": false},
@@ -1530,6 +1567,7 @@
             "title": {
                 "en": "The End of the Witch’s Fantasy",
                 "fr": null,
+                "pt": "O Fim da Fantasia da Bruxa",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": null, "se": ["005"], "voice": false},
                 {"page": "02", "bgm": null, "se": ["005"], "voice": false},
@@ -1569,6 +1607,7 @@
             "title": {
                 "en": "Eternal Sleep",
                 "fr": null,
+                "pt": "Descanso Eterno",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "172", "se": [], "voice": false},
                 {"page": "02", "bgm": "172", "se": [], "voice": false},
@@ -1604,6 +1643,7 @@
             "title": {
                 "en": "The End of the Game, and Then…",
                 "fr": null,
+                "pt": "O Fim do Jogo, e…",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "158", "se": [], "voice": false},
                 {"page": "02", "bgm": "158", "se": [], "voice": false},
@@ -1661,6 +1701,7 @@
             "title": {
                 "en": "A Different Story’s First Day of Slaughter",
                 "fr": null,
+                "pt": "Uma Diferente Versão do Primeiro Crepúsculo",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "044", "se": ["013"], "voice": false},
                 {"page": "02", "bgm": "044", "se": ["013"], "voice": false},
@@ -1708,6 +1749,7 @@
             "title": {
                 "en": "The Witch’s Murder Plot",
                 "fr": null,
+                "pt": "O Plano de Assassinato da Bruxa",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "171", "se": [], "voice": false},
                 {"page": "02", "bgm": "171", "se": [], "voice": false},
@@ -1749,6 +1791,7 @@
             "title": {
                 "en": "The Gold’s Magical Power",
                 "fr": null,
+                "pt": "A Magia do Ouro",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "124", "se": [], "voice": false},
                 {"page": "02", "bgm": "124", "se": [], "voice": false},
@@ -1795,6 +1838,7 @@
             "title": {
                 "en": "Rudolf and Kyrie",
                 "fr": null,
+                "pt": "Rudolf e Kyrie",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "183", "se": [], "voice": false},
                 {"page": "02", "bgm": "183", "se": [], "voice": false},
@@ -1837,6 +1881,7 @@
             "title": {
                 "en": "Accelerating Tragedy",
                 "fr": null,
+                "pt": "Tragédia Antecipada",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "183", "se": ["005"], "voice": false},
                 {"page": "02", "bgm": "183", "se": ["005"], "voice": false},
@@ -1882,6 +1927,7 @@
             "title": {
                 "en": "In the End, the Survivor…",
                 "fr": null,
+                "pt": "No Fim, a Sobrevivente…",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "039", "se": ["005", "013"], "voice": false},
                 {"page": "02", "bgm": "039", "se": ["005", "013"], "voice": false},
@@ -1908,6 +1954,7 @@
             "title": {
                 "en": "What Happened That Day",
                 "fr": null,
+                "pt": "O Que Aconteceu Naquele Dia",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "159", "se": [], "voice": false},
                 {"page": "02", "bgm": "159", "se": [], "voice": false},
@@ -1948,6 +1995,7 @@
             "title": {
                 "en": "Inescapable Fate",
                 "fr": null,
+                "pt": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "126", "se": [], "voice": false},
                 {"page": "02", "bgm": "126", "se": [], "voice": false},
@@ -1991,6 +2039,7 @@
             "title": {
                 "en": "In the Direction of Hope",
                 "fr": null,
+                "pt": null,
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "185", "se": [], "voice": false},
                 {"page": "02", "bgm": "185", "se": [], "voice": false},
