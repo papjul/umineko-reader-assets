@@ -1,5 +1,5 @@
 {
-    "version": "20220617",
+    "version": "20220626",
     "lang": "en",
     "soundDir": "umineko-sound",
 
@@ -1995,7 +1995,7 @@
             "title": {
                 "en": "Inescapable Fate",
                 "fr": null,
-                "pt": null,
+                "pt": "Destino Inevitável",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "126", "se": [], "voice": false},
                 {"page": "02", "bgm": "126", "se": [], "voice": false},
@@ -2039,7 +2039,7 @@
             "title": {
                 "en": "In the Direction of Hope",
                 "fr": null,
-                "pt": null,
+                "pt": "No Caminho da Esperança",
                 "zh": null
             }, "pages": [{"page": "01", "bgm": "185", "se": [], "voice": false},
                 {"page": "02", "bgm": "185", "se": [], "voice": false},
