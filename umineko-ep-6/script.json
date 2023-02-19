@@ -1,5 +1,5 @@
 {
-    "version": "20220617",
+    "version": "20230219",
     "lang": "en",
     "soundDir": "umineko-sound",
 
@@ -1296,7 +1296,7 @@
         }, "21": {
             "title": {
                 "en": "Ceremony and Duel",
-                "fr": "Ceremony and Duel",
+                "fr": "Cérémonie et duel",
                 "pt": "Casamento e Duelo",
                 "zh": "婚礼与决斗"
             }, "pages": [{"page": "01", "bgm": "146", "se": [], "voice": false},
@@ -1370,7 +1370,7 @@
         }, "22": {
             "title": {
                 "en": "Into One…",
-                "fr": "Into One…",
+                "fr": "Ne plus faire qu’un…",
                 "pt": "Um Só…",
                 "zh": "合而为一"
             }, "pages": [{"page": "01", "bgm": null, "se": [], "voice": false},
@@ -1429,7 +1429,7 @@
         }, "23": {
             "title": {
                 "en": "Detective’s Pride",
-                "fr": "Detective’s Pride",
+                "fr": "L’orgueil de la détective",
                 "pt": "O Orgulho da Detetive",
                 "zh": "侦探的自尊"
             }, "pages": [{"page": "01", "bgm": "151", "se": [], "voice": false},
